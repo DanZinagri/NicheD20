@@ -3,14 +3,16 @@ tags: ['Class', 'Bladebinder']
 PageType: 'Class'
 HitDie: 'd12'
 Type: 'Martial'
-Skills: 4
+BAB: 1
+BDB: .5
 share: true
 ---
+
 ## Class Details:
 
-Hit Die: `= this.HitDie`
-Type: `= this.Type`
-Skill Ranks Per Level: `= this.Skills` + Int modifier
+Hit Die: d12
+Type: Martial
+Skill Ranks Per Level: \- + Int modifier
 
 | **Level** | **Base Attack Bonus** | **Base Defense Bonus** | **Special**                                                  |
 |-----------|-----------------------|------------------------|--------------------------------------------------------------|
