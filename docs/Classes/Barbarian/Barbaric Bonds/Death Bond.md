@@ -1,5 +1,0 @@
----
-tags: ['Barbaric-Bond', 'Barbarian']
-Type: "Ex"
-Description: "The barbarian becomes more powerful the more danger he is in and the closer to death he becomes. When the barbarian is reduced below half health while raging he may activate this ability as a free action, even if it is not his turn. While active this ability grants the barbarian an additional +1 bonus to hit and +2 bonus to damage rolls; but he no longer gains his usual temporary hit points per round when raging. When the barbarian is reduced below one quarter his maximum health this bonus improves to +2 bonus to hit and +4 bonus to damage rolls If the barbarian is reduced to 0 hit points or lower this bonus improves to +3 bonus to hit and +6 bonus to damage rolls as long as the barbarian would be capable of acting while at 0 or lower. At 10th level the barbarian may act as normal for 1 round as if he wasn’t at 0 hit points or lower, plus an additional round every 5 levels thereafter. This means the barbarian is not disabled by the effect nor does he take damage for performing actions while in this state; this does not allow the barbarian to act if killed."
----
