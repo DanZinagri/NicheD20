@@ -8,13 +8,14 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 
 **New**:
 
-- Migration from Old Wiki
+- Begin Migration from Old Wiki
 - Conversion of Old Systems
 
 **Next Planned Updates**:
 
 - Additional spells, rituals, and magic items.
 - Harpy Race
+- Conversion of Wiki
 ### Rules
 
 |Player Rules|   |Gamemaster Rules & Other|   |
