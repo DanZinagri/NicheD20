@@ -1,11 +1,11 @@
 site_name: NicheD20 # Change this to your site name
-site_description: Wiki For the NicheD20 Roleplaying Game
-site_url: https://DanZinagri.github.io/NicheD20 # Change this to your site URL
+site_description: Niche D20 Roleplaying Game
+site_url: https://danzinagri.github.io/ # Change this to your site URL
 
 theme:
     name: 'material'
-    logo: assets/meta/favicons.png
-    favicon: assets/meta/favicons.png
+    logo: assets/meta/logo.png
+    favicon: assets/meta/logo.png
     custom_dir: overrides
     font:
         text: Ubuntu
