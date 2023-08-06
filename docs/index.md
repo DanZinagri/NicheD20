@@ -29,7 +29,7 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 <caption>
 </caption>
 <tbody><tr>
-<th colspan="4" style="font-size: 18pt;"><a href="/wiki/Classes" title="Classes">Classes</a>
+<th colspan="4" style="font-size: 18pt;"><a href="/NicheD20/Classes" title="Classes">Classes</a>
 </th></tr>
 <tr>
 <th style=""><a href="/wiki/Martial_Classes" title="Martial Classes">Martial</a>
