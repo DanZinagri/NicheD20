@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Classes/Barbarian/Barbarian.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Classes/Barbarian/Barbarian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Classes/Barbarian/Barbarian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/Classes/Barbarian/Barbarian.md"
               }
             }
           }
@@ -148,9 +148,28 @@
   },
   "active": "b06640789a9d4df1",
   "lastOpenFiles": [
-    "docs/tags.md",
-    "docs/index.md",
+    "docs/Classes/Barbarian/Barbaric Bonds/Animal Aspect.md",
+    "docs/Classes/Barbarian/Barbaric Bonds/Death Bond.md",
+    "docs/Classes/Barbarian/Barbaric Bonds/Mounted Fury.md",
+    "docs/Classes/Barbarian/Barbaric Bonds/Tribal Bond.md",
+    "docs/Classes/Barbarian/Savageries.md",
+    "docs/Classes/Barbarian/Barbaric Bonds.md",
+    "docs/Classes/Barbarian/Barbarian.md",
+    "docs/Classes",
     "docs/NicheD20.md",
+    "docs/index.md",
+    "docs/Classes/Barbarian/Barbaric Bonds",
+    "docs/Classes/Barbarian",
+    "Barbarian/Barbaric Bonds/Tribal Bond.md",
+    "Barbarian/Barbaric Bonds/Mounted Fury.md",
+    "Barbarian/Barbaric Bonds/Death Bond.md",
+    "Barbarian/Barbaric Bonds/Animal Aspect.md",
+    "Barbarian/Savageries.md",
+    "Barbarian/Barbaric Bonds.md",
+    "Barbarian/Barbaric Bonds",
+    "Barbarian/Barbarian.md",
+    "Barbarian",
+    "docs/tags.md",
     "docs/notes/NicheD20.md",
     "docs/notes/Index.md",
     "docs/assets/meta/logo.png",
