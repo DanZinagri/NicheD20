@@ -3,16 +3,15 @@ tags: ['Class', 'Barbarian']
 PageType: 'Class'
 HitDie: 'd12'
 Type: 'Martial'
-Skills: 2
 BAB: 1
-BDE: .5
+BDB: .5
 share: true
 ---
 
 ## Class Details
 Hit Die:  d12
 Type: Martial
-Skill Ranks Per Level: 2 + Int modifier
+Skill Ranks Per Level: \- + Int modifier
 
 | Level | Base Attack Bonus | Base Defense Bonus | Special                                                |
 | ----- | ----------------- | ------------------ | ------------------------------------------------------ |
