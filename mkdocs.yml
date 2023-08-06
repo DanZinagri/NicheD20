@@ -1,6 +1,6 @@
 site_name: NicheD20 # Change this to your site name
 site_description: Niche D20 Roleplaying Game
-site_url: https://change_me.io/ # Change this to your site URL
+site_url: https://danzinagri.github.io/NicheD20 # Change this to your site URL
 
 theme:
     name: 'material'
@@ -116,6 +116,8 @@ extra_javascript:
   - https://cdn.jsdelivr.net/gh/ObsidianPublisher/assets@main/dist/javascript.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
 extra_css:
     - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
     - https://cdn.jsdelivr.net/gh/ObsidianPublisher/assets@main/dist/styles.css
