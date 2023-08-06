@@ -18,12 +18,54 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 - Conversion of Wiki
 ### Rules
 
-|Player Rules|   |Gamemaster Rules & Other|   |
-|---|---|---|---|
-|- [Character Creation](https://niched20.miraheze.org/wiki/Character_Creation "Character Creation")<br>- [Character Advancement](https://niched20.miraheze.org/wiki/Character_Advancement "Character Advancement")<br>- [Skills](https://niched20.miraheze.org/wiki/Skills "Skills")<br>- [Perks and Drawbacks](https://niched20.miraheze.org/wiki/Perks "Perks")|- [Basic Rules](https://niched20.miraheze.org/wiki/Basic_Rules "Basic Rules")<br>- [Combat Rules](https://niched20.miraheze.org/wiki/Combat "Combat")<br>- [Magic Rules](https://niched20.miraheze.org/wiki/Magic/Rules "Magic/Rules")|- [Drugs & Addiction](https://niched20.miraheze.org/wiki/Addiction "Addiction")<br>- [Diseases](https://niched20.miraheze.org/wiki/Diseases "Diseases")<br>- [Environment Rules](https://niched20.miraheze.org/wiki/Environment_Rules "Environment Rules")<br>- [Universal Abilities](https://niched20.miraheze.org/wiki/Universal_Abilities "Universal Abilities")|- [Status Conditions](https://niched20.miraheze.org/wiki/Conditions "Conditions")<br>- [Variant Rules](https://niched20.miraheze.org/wiki/Variant_Rules "Variant Rules")<br>- [Optional Rules](https://niched20.miraheze.org/wiki/Optional_Rules "Optional Rules")|
-|||NPC and Monster Rules|   |
-|||- [Bestiary](https://niched20.miraheze.org/wiki/Bestiary "Bestiary")<br>- [Creating Creatures](https://niched20.miraheze.org/wiki/Creating_Creatures "Creating Creatures")|- [Creature Types](https://niched20.miraheze.org/wiki/Creature_Types "Creature Types")<br>- [Creature Classes](https://niched20.miraheze.org/wiki/Creature_Classes "Creature Classes")|
-
+<table style="width:85%; text-align: left; vertical-align: top">
+<tbody><tr>
+<th colspan="2" style="">Player Rules</th>
+<th colspan="2" style="">Gamemaster Rules &amp; Other</th>
+</tr>
+<tr>
+<td style="line-height: 1.2em;">
+<ul><li><a href="/wiki/Character_Creation" title="Character Creation">Character Creation</a></li>
+<li><a href="/wiki/Character_Advancement" title="Character Advancement">Character Advancement</a></li>
+<li><a href="/wiki/Skills" title="Skills">Skills</a></li>
+<li><a href="/wiki/Perks" title="Perks">Perks and Drawbacks</a></li></ul>
+</td>
+<td style="vertical-align: top; line-height: 1.2em;">
+<ul><li><a href="/wiki/Basic_Rules" title="Basic Rules">Basic Rules</a></li>
+<li><a href="/wiki/Combat" title="Combat">Combat Rules</a></li>
+<li><a href="/wiki/Magic/Rules" title="Magic/Rules">Magic Rules</a></li></ul>
+</td>
+<td style="vertical-align: top; line-height: 1.2em;">
+<ul><li><a href="/wiki/Addiction" class="mw-redirect" title="Addiction">Drugs &amp; Addiction</a></li>
+<li><a href="/wiki/Diseases" title="Diseases">Diseases</a></li>
+<li><a href="/wiki/Environment_Rules" title="Environment Rules">Environment Rules</a></li>
+<li><a href="/wiki/Universal_Abilities" title="Universal Abilities">Universal Abilities</a></li></ul>
+</td>
+<td style="vertical-align: top; line-height: 1.2em;">
+<ul><li><a href="/wiki/Conditions" title="Conditions">Status Conditions</a></li>
+<li><a href="/wiki/Variant_Rules" title="Variant Rules">Variant Rules</a></li>
+<li><a href="/wiki/Optional_Rules" title="Optional Rules">Optional Rules</a><br></li></ul>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<th colspan="2" style="">NPC and Monster Rules
+</th></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+<ul><li><a href="/wiki/Bestiary" title="Bestiary">Bestiary</a></li>
+<li><a href="/wiki/Creating_Creatures" title="Creating Creatures">Creating Creatures</a></li></ul>
+</td>
+<td>
+<ul><li><a href="/wiki/Creature_Types" title="Creature Types">Creature Types</a></li>
+<li><a href="/wiki/Creature_Classes" title="Creature Classes">Creature Classes</a></li></ul>
+</td></tr></tbody></table>
 ### Player Options
 <table style="width:85%; text-align: left; vertical-align: top;">
 <caption>
