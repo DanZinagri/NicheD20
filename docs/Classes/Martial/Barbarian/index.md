@@ -11,7 +11,6 @@ share: true
 ## Class Details
 Hit Die:  d12
 Type: Martial
-Skill Ranks Per Level: \- + Int modifier
 
 | Level | Base Attack Bonus | Base Defense Bonus | Special                                                |
 | ----- | ----------------- | ------------------ | ------------------------------------------------------ |
