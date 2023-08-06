@@ -1,6 +1,6 @@
 site_name: NicheD20 # Change this to your site name
 site_description: Niche D20 Roleplaying Game
-site_url: https://danzinagri.github.io/NicheD20 # Change this to your site URL
+site_url: https://change_me.io/ # Change this to your site URL
 
 theme:
     name: 'material'
