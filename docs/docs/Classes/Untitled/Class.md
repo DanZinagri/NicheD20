@@ -1,5 +1,5 @@
 ---
-tags: ['Class', 'NaN']
+tags: ['Class', 'Untitled']
 PageType: 'Class'
 HitDie: 'd4'
 Type: 'Martial'
@@ -8,9 +8,11 @@ BAB: 0
 BDE: 0
 share: true
 ---
+```js
 
+```
 ## Class Details
-Hit Die:  NaN
-Type: NaN
-Skill Ranks Per Level: NaN + Int modifier
+Hit Die:  undefined
+Type: undefined
+Skill Ranks Per Level: undefined + Int modifier
 
