@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Classes/Barbarian/Barbarian.md",
+                "file": "docs/Classes/Barbarian/Savageries.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Classes/Barbarian/Barbarian.md",
+                "file": "docs/Classes/Barbarian/Savageries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Classes/Barbarian/Barbarian.md",
+                "file": "docs/Classes/Barbarian/Savageries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Classes/Barbarian/Barbarian.md"
+                "file": "docs/Classes/Barbarian/Savageries.md"
               }
             }
           }
@@ -148,13 +148,15 @@
   },
   "active": "b06640789a9d4df1",
   "lastOpenFiles": [
+    "docs/Classes/Barbarian/Barbarian.md",
+    "docs/Classes.md",
+    "docs/TestClass.md",
     "docs/Classes/Barbarian/Barbaric Bonds/Animal Aspect.md",
     "docs/Classes/Barbarian/Barbaric Bonds/Death Bond.md",
     "docs/Classes/Barbarian/Barbaric Bonds/Mounted Fury.md",
     "docs/Classes/Barbarian/Barbaric Bonds/Tribal Bond.md",
     "docs/Classes/Barbarian/Savageries.md",
     "docs/Classes/Barbarian/Barbaric Bonds.md",
-    "docs/Classes/Barbarian/Barbarian.md",
     "docs/Classes",
     "docs/NicheD20.md",
     "docs/index.md",
