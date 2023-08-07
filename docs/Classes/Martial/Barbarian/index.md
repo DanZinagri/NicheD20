@@ -4,7 +4,6 @@ PageType: 'Class'
 HitDie: 'd12'
 Type: 'Martial'
 BAB: 1
-BDB: .5
 share: true
 ---
 
@@ -89,7 +88,7 @@ For a complete listing of aggressions see Table: Aggressions.
 
 At 5th level the barbarian expands his capabilities in a number of ways. He barbarian choses one of the following packages gaining its benefits.
 
-For a complete listing of barbaric bonds see Table: [[Barbaric Bonds]].
+For a complete listing of barbaric bonds see Table: [[Barbaric Bonds]]
 
 #### Vigor (Ex)
 
@@ -99,7 +98,7 @@ At 7th level, once per day the barbarian may spend a reaction to empty his curre
 
 At 9th, 13th, and 17th level the barbarian selects a savagery that represents his bloodline, tribe, beliefs, or connection to another power. Unless otherwise specified, savagries do not require the barbarian to be raging to receive their benefits. If a savagery calls for a save attack the save attack is made at 1d20 + ½ MPB + Constitution modifier unless specified otherwise. They may add the enhancement bonus of a wielded weapon to this save attack.
 
-For a complete listing of savagries see Table: [[Savageries]].
+For a complete listing of savagries see Table: [[Savageries]]
 
 #### Unstoppable (Ex)
 
