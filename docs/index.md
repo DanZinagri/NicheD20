@@ -71,10 +71,10 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 <caption>
 </caption>
 <tbody><tr>
-<th colspan="4" style="font-size: 18pt;"><a href="/NicheD20/Classes" title="Classes">Classes</a>
+<th colspan="4" style="font-size: 18pt;"><a href="/NicheD20/Classes">Classes</a>
 </th></tr>
 <tr>
-<th style=""><a href="/NicheD20/Martial" title="Martial Classes">Martial</a>
+<th style=""><a href="/NicheD20/Classes/Martial">Martial</a>
 </th>
 <th style=""><a href="/wiki/Magic/Rules" title="Magic/Rules">Magic</a>
 </th>
