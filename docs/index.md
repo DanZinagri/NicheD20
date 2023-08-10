@@ -25,21 +25,21 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 </tr>
 <tr>
 <td style="line-height: 1.2em;">
-<ul><li><a href="/NicheD20/Character_Creation" title="Character Creation">Character Creation</a></li>
-<li><a href="/NicheD20/Character_Advancement" title="Character Advancement">Character Advancement</a></li>
+<ul><li><a href="/NicheD20/Character%20Creation" title="Character Creation">Character Creation</a></li>
+<li><a href="/NicheD20/Character%20Advancement" title="Character Advancement">Character Advancement</a></li>
 <li><a href="/NicheD20/Skills" title="Skills">Skills</a></li>
 <li><a href="/NicheD20/Perks" title="Perks">Perks and Drawbacks</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/NicheD20/Basic_Rules" title="Basic Rules">Basic Rules</a></li>
-<li><a href="/NicheD20/Combat_Rules" title="Combat">Combat Rules</a></li>
-<li><a href="/NicheD20/Magic_Rules" title="Magic/Rules">Magic Rules</a></li></ul>
+<ul><li><a href="/NicheD20/Basic%20Rules/" title="Basic Rules">Basic Rules</a></li>
+<li><a href="/NicheD20/Combat%20Rules/" title="Combat">Combat Rules</a></li>
+<li><a href="/NicheD20/Magic%20Rules" title="Magic/Rules">Magic Rules</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/wiki/Addiction" class="mw-redirect" title="Addiction">Drugs &amp; Addiction</a></li>
-<li><a href="/wiki/Diseases" title="Diseases">Diseases</a></li>
-<li><a href="/wiki/Environment_Rules" title="Environment Rules">Environment Rules</a></li>
-<li><a href="/wiki/Universal_Abilities" title="Universal Abilities">Universal Abilities</a></li></ul>
+<ul><li><a href="/NicheD20/Drugs%20&%20Addiction" class="mw-redirect" title="Addiction">Drugs &amp; Addiction</a></li>
+<li><a href="/NicheD20/Gamemaster%20and%20Other%20Rules/Diseases/" title="Diseases">Diseases</a></li>
+<li><a href="/NicheD20/Gamemaster%20and%20Other%20Rules/Environment%20Rules/" title="Environment Rules">Environment Rules</a></li>
+<li><a href="/NicheD20/Gamemaster%20and%20Other%20Rules/Universal%20Abilities/" title="Universal Abilities">Universal Abilities</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
 <ul><li><a href="/wiki/Conditions" title="Conditions">Status Conditions</a></li>
