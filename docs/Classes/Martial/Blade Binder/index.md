@@ -6,6 +6,7 @@ Type: 'Martial'
 BAB: 1
 BDB: .5
 share: true
+title: Blade%20Binder
 ---
 
 ## Class Details:
