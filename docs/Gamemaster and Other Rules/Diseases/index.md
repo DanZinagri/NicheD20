@@ -1,5 +1,6 @@
 ---
 share: true
+title: Diseases
 ---
 From the common cold to the plague; diseases are an ever present threat in the world. Not all diseases are deadly, but generally will cause some sort of debuff, penalty, or other effect that will hinder a creature until the disease is cured or runs its course.
 
