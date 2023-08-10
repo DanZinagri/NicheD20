@@ -12,6 +12,10 @@ DONT FORGET TO EDIT THE URL
     background-color: transparent;
 }
 
+.md-grid {
+    max-width: 95rem;
+}
+
 .md-typeset .wiki>.admonition-title,
 .md-typeset .wiki>.summary {
     display: none;
