@@ -34,7 +34,6 @@ theme:
         - navigation.indexes
         - navigation.top
         - navigation.path
-        - navigation.expand
         - search.suggest
         - search.highlight
         
