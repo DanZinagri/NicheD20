@@ -20,4 +20,4 @@ Below are links to various pages for other combat rules
 | [[Actions In Combat]] | [[Initiative and Combat]] |
 | [[Attacks]]           | [[Mounted Combat]]        |
 | [[Maneuvers]]         | [[Speed and Movement]]    |
-| [[Combat Modifiers]]  |                           |
+| [[Combat Modifiers]]  | [[docs/Combat Rules/Damage Reduction|Damage Reduction]]      |
