@@ -5,6 +5,7 @@ HitDie: 'd12'
 Type: 'Martial'
 BAB: 1
 share: true
+title: Barbarian
 ---
 
 ## Class Details
@@ -34,7 +35,7 @@ Type: Martial
 | 19th  | +19               | +9                 | Aggression                                             |
 | 20th  | +20               | +10                | Barbaric Path, Rage(+5), Unstoppable                   |
 
-<label class="ob-comment" title="" style=""> ## Class Features <input type="checkbox"></label>
+## Class Features
 
 The following are class features of the barbarian. 
 
@@ -42,9 +43,9 @@ The following are class features of the barbarian.
 
 A barbarian is proficient with all simple weapons and armor. If this is the character’s first level in a class he gains proficiency in all martial weapons and light martial armor.
 
-#### [Stamina](https://niched20.miraheze.org/wiki/Martial_Classes "Martial Classes") (Ex)
+#### [Stamina](<Combat Statistics#Stamina>)(Ex)
 
-At 1st level, a barbarian gains access to a pool of stamina points that allow him to perform feats of strength and agility. This pool contains a number of stamina points equal to his Constitution modifier plus levels in martial classes (minimum 1). This pool replenishes once per day after a long rest.
+At 1st level, a barbarian gains access to a pool of stamina points that allow him to perform feats of strength and agility. This pool contains a number of stamina points equal to his Endurance modifier plus levels in martial classes (minimum 1). This pool replenishes once per day after a long rest.
 
 #### Powerful Strikes (Ex)
 
@@ -80,13 +81,13 @@ At 3rd level a barbarian learns to channel his rage in new and destructive ways.
 
 #### Aggression (Ex)
 
-At 3rd level and every 4 levels thereafter the barbarian gains an aggression allowing him to tap further into the potential of his rage and fury. Unless otherwise noted aggressions can only be used if the barbarian is raging.  At 11th level the barbarian gains an additional aggression. If an Agression talent calls for a save attack the save attack is made at 1d20 + ½ MPB + Endurance modifier unless specified otherwise. They may add the enhancement bonus of a wielded weapon to this save attack.
+At 3rd level and every 4 levels thereafter the barbarian gains an aggression allowing him to tap further into the potential of his rage and fury. Unless otherwise noted aggressions can only be used if the barbarian is raging.  At 11th level the barbarian gains an additional aggression. If an Aggression talent calls for a save attack the save attack is made at 1d20 + ½ MPB + Endurance modifier unless specified otherwise. They may add the enhancement bonus of a wielded weapon to this save attack.
 
 For a complete listing of aggressions see Table: [[Aggressions]].
 
 #### Barbaric Bond (Ex/Su)
 
-At 5th level the barbarian expands his capabilities in a number of ways. He barbarian choses one of the following packages gaining its benefits.
+At 5th level the barbarian expands his capabilities in a number of ways. He barbarian chooses one of the following packages gaining its benefits.
 
 For a complete listing of barbaric bonds see Table: [[Barbaric Bonds]]
 
@@ -96,9 +97,9 @@ At 7th level, once per day the barbarian may spend a reaction to empty his curre
 
 #### Savagery (Ex/Su)
 
-At 9th, 13th, and 17th level the barbarian selects a savagery that represents his bloodline, tribe, beliefs, or connection to another power. Unless otherwise specified, savagries do not require the barbarian to be raging to receive their benefits. If a savagery calls for a save attack the save attack is made at 1d20 + ½ MPB + Endurance modifier unless specified otherwise. They may add the enhancement bonus of a wielded weapon to this save attack.
+At 9th, 13th, and 17th level the barbarian selects a savagery that represents his bloodline, tribe, beliefs, or connection to another power. Unless otherwise specified, savageries do not require the barbarian to be raging to receive their benefits. If a savagery calls for a save attack the save attack is made at 1d20 + ½ MPB + Endurance modifier unless specified otherwise. They may add the enhancement bonus of a wielded weapon to this save attack.
 
-For a complete listing of savagries see Table: [[Savageries]]
+For a complete listing of savageries see Table: [[Savageries]]
 
 #### Unstoppable (Ex)
 
