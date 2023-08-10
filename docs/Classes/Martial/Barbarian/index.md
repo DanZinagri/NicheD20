@@ -42,15 +42,12 @@ The following are class features of the barbarian.
 #### Weapon and Armor Proficiency
 
 A barbarian is proficient with all simple weapons and armor. If this is the character’s first level in a class he gains proficiency in all martial weapons and light martial armor.
-
-#### [[Combat Statistics#Stamina|Stamina]] (Ex)
+#### [[Combat Statistics#Staminaa|Staminaa]] (Ex)
 
 At 1st level, a barbarian gains access to a pool of stamina points that allow him to perform feats of strength and agility. This pool contains a number of stamina points equal to his Endurance modifier plus levels in martial classes (minimum 1). This pool replenishes once per day after a long rest.
-
 #### Powerful Strikes (Ex)
 
 If this is the character’s first level in a martial class, the barbarian may gain Power Stance or Reckless Stance as a bonus feat.
-
 #### Rage (Ex)
 
 A barbarian can call upon inner reserves of strength and ferocity, granting him additional combat prowess. Starting at 1st level, a barbarian can spend 1 point of stamina to rage for 1 minute. A barbarian can enter rage as a free action.
