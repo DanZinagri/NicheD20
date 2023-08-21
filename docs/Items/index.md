@@ -7,3 +7,5 @@ This page details the various types of items available to a character in the Nic
 [[Weapons]]
 [[Armor and Shields]]
 [[Special Materials]]
+[[Masterwork Equipment]]
+[[Item Enhancement]]
