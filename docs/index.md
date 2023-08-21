@@ -85,38 +85,38 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 </th></tr>
 <tr>
 <td style="line-height: 1.2em;">
-<ul><li><a href="/NicheD20/Classes/Martial/Barbarian">Barbarian</a></li>
-<li><a href="/wiki/Classes/Blade_Binder" title="Classes/Blade Binder">Blade Binder</a></li>
-<li><a href="/wiki/Classes/Craftsman" title="Classes/Craftsman">Craftsman</a></li>
-<li><a href="/wiki/Classes/Dragon_Devourer" title="Classes/Dragon Devourer">Dragon Devourer</a></li>
-<li><a href="/wiki/Classes/Fighter" title="Classes/Fighter">Fighter</a></li>
-<li><a href="/wiki/Classes/Monk" title="Classes/Monk">Monk</a></li>
-<li><a href="/wiki/Classes/Performer" title="Classes/Performer">Performer</a></li>
-<li><a href="/wiki/Classes/Ranger" title="Classes/Ranger">Ranger</a></li>
-<li><a href="/wiki/Classes/Rogue" title="Classes/Rogue">Rogue</a></li></ul>
+<ul><li><a href="/Classes/Martial/Barbarian">Barbarian</a></li>
+<li><a href="/Classes/Martial/Blade_Binder" title="Classes/Blade Binder">Blade Binder</a></li>
+<li><a href="/Classes/Martial/Craftsman" title="Classes/Craftsman">Craftsman</a></li>
+<li><a href="/Classes/Martial/Dragon_Devourer" title="Classes/Dragon Devourer">Dragon Devourer</a></li>
+<li><a href="/Classes/Martial/Fighter" title="Classes/Fighter">Fighter</a></li>
+<li><a href="/Classes/Martial/Monk" title="Classes/Monk">Monk</a></li>
+<li><a href="/Classes/Martial/Performer" title="Classes/Performer">Performer</a></li>
+<li><a href="/Classes/Martial/Ranger" title="Classes/Ranger">Ranger</a></li>
+<li><a href="/Classes/Martial/Rogue" title="Classes/Rogue">Rogue</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/wiki/Classes/Chosen" title="Classes/Chosen">Chosen</a></li>
-<li><a href="/wiki/Classes/Druid" title="Classes/Druid">Druid</a></li>
-<li><a href="/wiki/Classes/Priest" title="Classes/Priest">Priest</a>
-<ul><li><a href="/wiki/Classes/Priest/Blessings" title="Classes/Priest/Blessings">Blessings</a></li></ul></li>
-<li><a href="/wiki/Classes/Sorcerer" title="Classes/Sorcerer">Sorcerer</a></li>
-<li><a href="/wiki/Classes/Wizard" title="Classes/Wizard">Wizard</a></li></ul>
+<ul><li><a href="/Classes/Chosen" title="Classes/Chosen">Chosen</a></li>
+<li><a href="/Classes/Druid" title="Classes/Druid">Druid</a></li>
+<li><a href="/Classes/Priest" title="Classes/Priest">Priest</a>
+<ul><li><a href="/Classes/Priest/Blessings" title="Classes/Priest/Blessings">Blessings</a></li></ul></li>
+<li><a href="/Classes/Sorcerer" title="Classes/Sorcerer">Sorcerer</a></li>
+<li><a href="/Classes/Wizard" title="Classes/Wizard">Wizard</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/wiki/Classes/Battlemage" title="Classes/Battlemage">Battlemage</a></li>
-<li><a href="/wiki/Classes/Champion" title="Classes/Champion">Champion</a></li>
-<li><a href="/wiki/Classes/Grim_Knight" title="Classes/Grim Knight">Grim Knight</a></li>
-<li><a href="/wiki/Classes/Magus" title="Classes/Magus">Magus</a></li></ul>
+<ul><li><a href="/Classes/Battlemage" title="Classes/Battlemage">Battlemage</a></li>
+<li><a href="/Classes/Champion" title="Classes/Champion">Champion</a></li>
+<li><a href="/Classes/Grim_Knight" title="Classes/Grim Knight">Grim Knight</a></li>
+<li><a href="/Classes/Magus" title="Classes/Magus">Magus</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/wiki/Classes/Eldritch_Knight" title="Classes/Eldritch Knight">Eldritch Knight</a></li>
-<li><a href="/wiki/Classes/Nature%27s_Fury" title="Classes/Nature's Fury">Nature's Fury</a></li>
-<li><a href="/wiki/Classes/Possessor" title="Classes/Possessor">Possessor</a></li>
-<li><a href="/wiki/Classes/Runesmith" title="Classes/Runesmith">Runesmith</a></li>
-<li><a href="/wiki/Classes/Steel_Savage" title="Classes/Steel Savage">Steel Savage</a></li>
-<li><a href="/wiki/Classes/Samurai" title="Classes/Samurai">Samurai</a></li>
-<li><a href="/wiki/Classes/Zealot" title="Classes/Zealot">Zealot</a></li></ul>
+<ul><li><a href="/Classes/Eldritch_Knight" title="Classes/Eldritch Knight">Eldritch Knight</a></li>
+<li><a href="/Classes/Nature%27s_Fury" title="Classes/Nature's Fury">Nature's Fury</a></li>
+<li><a href="/Classes/Possessor" title="Classes/Possessor">Possessor</a></li>
+<li><a href="/Classes/Runesmith" title="Classes/Runesmith">Runesmith</a></li>
+<li><a href="/Classes/Steel_Savage" title="Classes/Steel Savage">Steel Savage</a></li>
+<li><a href="/Classes/Samurai" title="Classes/Samurai">Samurai</a></li>
+<li><a href="/Classes/Zealot" title="Classes/Zealot">Zealot</a></li></ul>
 </td></tr>
 <tr>
 <th colspan="2" style="font-size: 18pt;"><a href="/wiki/Races" title="Races">Races</a>
@@ -125,28 +125,28 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 </th></tr>
 <tr>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/wiki/Races/Beastkin" title="Races/Beastkin">Beastkin</a></li>
-<li><a href="/wiki/Races/Dwarf" title="Races/Dwarf">Dwarf</a></li>
-<li><a href="/wiki/Races/Giant" title="Races/Giant">Giant</a></li>
-<li><a href="/wiki/Races/Halfling" title="Races/Halfling">Halfling</a></li>
-<li><a href="/wiki/Races/Intelligent_Weapon" title="Races/Intelligent Weapon">Intelligent Weapon</a></li>
-<li><a href="/wiki/Races/Scalekin" title="Races/Scalekin">Scalekin</a></li></ul>
+<ul><li><a href="/Races/Beastkin" title="Races/Beastkin">Beastkin</a></li>
+<li><a href="/Races/Dwarf" title="Races/Dwarf">Dwarf</a></li>
+<li><a href="/Races/Giant" title="Races/Giant">Giant</a></li>
+<li><a href="/Races/Halfling" title="Races/Halfling">Halfling</a></li>
+<li><a href="/Races/Intelligent_Weapon" title="Races/Intelligent Weapon">Intelligent Weapon</a></li>
+<li><a href="/Races/Scalekin" title="Races/Scalekin">Scalekin</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/wiki/Races/Centaur" title="Races/Centaur">Centaur</a></li>
-<li><a href="/wiki/Races/Elf" title="Races/Elf">Elf</a></li>
-<li><a href="/wiki/Races/Orc" title="Races/Orc">Goblinoid</a></li>
-<li><a href="/wiki/Races/Human" title="Races/Human">Human</a></li>
-<li><a href="/wiki/Races/Planesborn" title="Races/Planesborn">Planesborn</a></li></ul>
+<ul><li><a href="/Races/Centaur" title="Races/Centaur">Centaur</a></li>
+<li><a href="/Races/Elf" title="Races/Elf">Elf</a></li>
+<li><a href="/Races/Orc" title="Races/Orc">Goblinoid</a></li>
+<li><a href="/Races/Human" title="Races/Human">Human</a></li>
+<li><a href="/Races/Planesborn" title="Races/Planesborn">Planesborn</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/wiki/Magic/Affinity_Talents" title="Magic/Affinity Talents">Affinity Talents</a></li>
-<li><a href="/wiki/Magic/Spells" title="Magic/Spells">Spells and Talents</a></li>
-<li><a href="/wiki/Magic/Universal_Talents" title="Magic/Universal Talents">Universal Talents</a></li></ul>
+<ul><li><a href="/Magic/Affinity_Talents" title="Magic/Affinity Talents">Affinity Talents</a></li>
+<li><a href="/Magic/Spells" title="Magic/Spells">Spells and Talents</a></li>
+<li><a href="/Magic/Universal_Talents" title="Magic/Universal Talents">Universal Talents</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/wiki/Magic/Rules/Casting_Type" title="Magic/Rules/Casting Type">Casting Types</a></li>
-<li><a href="/wiki/Magic/Rituals" title="Magic/Rituals">Rituals</a><br></li></ul>
+<ul><li><a href="/Magic%20Rules/Casting%20Type" title="Magic/Rules/Casting Type">Casting Types</a></li>
+<li><a href="/Magic/Rituals" title="Magic/Rituals">Rituals</a><br></li></ul>
 </td></tr>
 <tr>
 <th colspan="2" style="font-size: 18pt;"><a href="/wiki/Feats" title="Feats">Feats</a>
@@ -155,10 +155,10 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 </th></tr>
 <tr>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/wiki/Feats/Combat" title="Feats/Combat">Combat</a></li>
-<li><a href="/wiki/Feats/Discipline" title="Feats/Discipline">Discipline</a></li>
-<li><a href="/wiki/Feats/General" title="Feats/General">General</a></li>
-<li><a href="/wiki/Feats/Magic" title="Feats/Magic">Magic</a><br></li></ul>
+<ul><li><a href="/Feats/Combat" title="Feats/Combat">Combat</a></li>
+<li><a href="/Feats/Discipline" title="Feats/Discipline">Discipline</a></li>
+<li><a href="/Feats/General" title="Feats/General">General</a></li>
+<li><a href="/Feats/Magic" title="Feats/Magic">Magic</a><br></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
 <ul><li><a href="/wiki/Feats/Martial" title="Feats/Martial">Martial</a></li>
