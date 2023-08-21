@@ -8,7 +8,8 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 
 **New**:
 
-- Begin Migration from Old Wiki
+- Migration from Old Wiki
+- New Domain for website
 - Conversion of Old Systems
 
 **Next Planned Updates**:
