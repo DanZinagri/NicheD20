@@ -46,9 +46,9 @@ The following are class features of the fighter.
 
 A blade binder is proficient with all simple weapons and armor. If this is the character’s first level in a class he gains proficiency in all martial weapons and armor.
 
-#### [Stamina](https://niched20.miraheze.org/wiki/Martial_Classes "Martial Classes") (Ex)
+#### Stamina (Ex)
 
-At 1st level, a blade binder gains access to a pool of stamina points that allow him to perform feats of strength and agility. This pool contains a number of stamina points equal to his Endurance modifier plus his levels in martial classes (minimum 1). This pool replenishes once per day after a long rest.
+At 1st level, a blade binder gains access to a pool of <a href="/Combat%20Rules/Combat%20Statistics/#stamina">stamina</a> points that allow him to perform feats of strength and agility. This pool contains a number of stamina points equal to his Endurance modifier plus his levels in martial classes (minimum 1). This pool replenishes once per day after a long rest.
 
 #### Combat Stance (Ex)
 
