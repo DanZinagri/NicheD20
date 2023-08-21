@@ -12,7 +12,7 @@ special: Concealed, Unarmed
 tags: ['Weapons', 'Melee', 'Light','Martial-Weapon']
 keywords: Light, Blade, Monastic, Metal
 shield_bonus:
-strength_rating:
+strength_rating: 
 additonal_effects: "These may only be used with creatures possessing claw natural weapons. Once applied to the creature's claw natural weapons their claws deal damage as if one size larger. Unlike other weapons a creature cannot wear or wield claw blades sized for a creature larger than themselves."
 description: "A set of blades that attach to a creature's claws."
 ---

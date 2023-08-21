@@ -9,7 +9,7 @@ range_increment:
 category: Light
 proficiency: Simple
 special: Blocking, Distracting, Strong
-tags: ['Weapons', 'Melee', 'Light','Simple-Weapon']
+tags: ['Weapons', 'Melee', 'Light','Simple-Weapon','Shield']
 keywords: Shield, Light, Dueling, Hammer, Wood or Metal
 shield_bonus: 1
 strength_rating: 0
