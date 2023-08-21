@@ -26,26 +26,26 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 </tr>
 <tr>
 <td style="line-height: 1.2em;">
-<ul><li><a href="/NicheD20/Character%20Creation" title="Character Creation">Character Creation</a></li>
-<li><a href="/NicheD20/Character%20Advancement" title="Character Advancement">Character Advancement</a></li>
-<li><a href="/NicheD20/Skills" title="Skills">Skills</a></li>
-<li><a href="/NicheD20/Perks" title="Perks">Perks and Drawbacks</a></li></ul>
+<ul><li><a href="/Character%20Creation" title="Character Creation">Character Creation</a></li>
+<li><a href="/Character%20Advancement" title="Character Advancement">Character Advancement</a></li>
+<li><a href="/Skills" title="Skills">Skills</a></li>
+<li><a href="/Perks" title="Perks">Perks and Drawbacks</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/NicheD20/Basic%20Rules/" title="Basic Rules">Basic Rules</a></li>
-<li><a href="/NicheD20/Combat%20Rules/" title="Combat">Combat Rules</a></li>
-<li><a href="/NicheD20/Magic%20Rules" title="Magic/Rules">Magic Rules</a></li></ul>
+<ul><li><a href="/Basic%20Rules/" title="Basic Rules">Basic Rules</a></li>
+<li><a href="/Combat%20Rules/" title="Combat">Combat Rules</a></li>
+<li><a href="/Magic%20Rules" title="Magic/Rules">Magic Rules</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/NicheD20/Drugs%20&%20Addiction" class="mw-redirect" title="Addiction">Drugs &amp; Addiction</a></li>
-<li><a href="/NicheD20/Gamemaster%20and%20Other%20Rules/Diseases/" title="Diseases">Diseases</a></li>
-<li><a href="/NicheD20/Gamemaster%20and%20Other%20Rules/Environment%20Rules/" title="Environment Rules">Environment Rules</a></li>
-<li><a href="/NicheD20/Gamemaster%20and%20Other%20Rules/Universal%20Abilities/" title="Universal Abilities">Universal Abilities</a></li></ul>
+<ul><li><a href="/Drugs%20&%20Addiction" class="mw-redirect" title="Addiction">Drugs &amp; Addiction</a></li>
+<li><a href="/Gamemaster%20and%20Other%20Rules/Diseases/" title="Diseases">Diseases</a></li>
+<li><a href="/Gamemaster%20and%20Other%20Rules/Environment%20Rules/" title="Environment Rules">Environment Rules</a></li>
+<li><a href="/Gamemaster%20and%20Other%20Rules/Universal%20Abilities/" title="Universal Abilities">Universal Abilities</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/wiki/Conditions" title="Conditions">Status Conditions</a></li>
-<li><a href="/wiki/Variant_Rules" title="Variant Rules">Variant Rules</a></li>
-<li><a href="/wiki/Optional_Rules" title="Optional Rules">Optional Rules</a><br></li></ul>
+<ul><li><a href="/Conditions" title="Conditions">Status Conditions</a></li>
+<li><a href="/Variant_Rules" title="Variant Rules">Variant Rules</a></li>
+<li><a href="/Optional_Rules" title="Optional Rules">Optional Rules</a><br></li></ul>
 </td></tr>
 <tr>
 <td>
@@ -60,12 +60,12 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 <td>
 </td>
 <td>
-<ul><li><a href="/wiki/Bestiary" title="Bestiary">Bestiary</a></li>
-<li><a href="/wiki/Creating_Creatures" title="Creating Creatures">Creating Creatures</a></li></ul>
+<ul><li><a href="/Bestiary" title="Bestiary">Bestiary</a></li>
+<li><a href="/Creating_Creatures" title="Creating Creatures">Creating Creatures</a></li></ul>
 </td>
 <td>
-<ul><li><a href="/wiki/Creature_Types" title="Creature Types">Creature Types</a></li>
-<li><a href="/wiki/Creature_Classes" title="Creature Classes">Creature Classes</a></li></ul>
+<ul><li><a href="/Creature_Types" title="Creature Types">Creature Types</a></li>
+<li><a href="/Creature_Classes" title="Creature Classes">Creature Classes</a></li></ul>
 </td></tr></tbody></table>
 ### Player Options
 <table style="width:85%; text-align: left; vertical-align: top;">
