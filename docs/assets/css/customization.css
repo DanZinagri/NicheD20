@@ -51,3 +51,7 @@ DONT FORGET TO EDIT THE URL
 .admonition.wiki table {
     border: 0;
 }
+
+table {
+    line-height: 0.5;
+}
