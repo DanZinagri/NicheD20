@@ -9,7 +9,7 @@ range_increment:
 category: Light
 proficiency: Martial
 special: Attached, Blocking, Strong
-tags: ['Weapons', 'Melee', 'Light','Martial-Weapon']
+tags: ['Weapons', 'Melee', 'Light','Martial-Weapon','Shield']
 keywords: Shield, Light, Wood or Metal
 shield_bonus: 2
 strength_rating: 1
