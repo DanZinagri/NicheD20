@@ -9,7 +9,7 @@ share: true
 title: Blade Binder
 ---
 
-## Class Details:
+# Class Details:
 
 Hit Die: d12
 Type: Martial
@@ -37,30 +37,29 @@ Type: Martial
 | 19th      | +19/+14/+9/+4         | 9                      | Blade Improvement                                            |
 | 20th      | +20/+15/+10/+5        | 10                     | Binder Talent, Reality Sphere                                |
 
-
-## Class Features
+# Class Features
 
 The following are class features of the fighter.
 
-#### Weapon and Armor Proficiency
+## Weapon and Armor Proficiency
 
 A blade binder is proficient with all simple weapons and armor. If this is the character’s first level in a class he gains proficiency in all martial weapons and armor.
 
-#### Stamina (Ex)
+## Stamina (Ex)
 
 At 1st level, a blade binder gains access to a pool of <a href="/Combat%20Rules/Combat%20Statistics/#stamina">stamina</a> points that allow him to perform feats of strength and agility. This pool contains a number of stamina points equal to his Endurance modifier plus his levels in martial classes (minimum 1). This pool replenishes once per day after a long rest.
 
-#### Combat Stance (Ex)
+## Combat Stance (Ex)
 
 If this is the character’s first level in a martial class, the blade binder gains his choice of Power Stance, Whirlwind Stance, or Skirmisher Stance as a bonus feat.
 
-#### Binder Specialization (Su)  
+## Binder Specialization (Su)  
 
 At 1st level, the blade binder gains access to a specialization that furthers his capabilities, and in some cases enhances more of his energy sources and ki point focus. At 3rd level and every 5 levels thereafter the blade binder gains an additional binder specialization.
 
 For a complete listing of binder specializations, see List - Binder Specializations.
 
-#### Summon Weapon (Su)  
+## Summon Weapon (Su)  
 
 At 1st level, the blade binder learns to summon a weapon through the combination of his own power and the powers of creation itself. This ability requires a standard action and 1 stamina, summoning the weapon directly into the hands of the blade binder. The summoned weapon must be one the blade binder is proficient with and appropriately sized for him; the shape, size, and type of weapon it will be is chosen at the time of summoning. Once summoned, the blade lasts indefinitely or until the blade leaves his possession for longer than 1 round. Weapons summoned with this ability are summoned with a +1 enhancement bonus.
 
@@ -68,13 +67,13 @@ You may only have 2 weapons plus an additional 1 weapon per 6 blade binder level
 
 At 3rd level, upon gaining a Ki Pool the Blade Binder may spend Ki instead of stamina when using this ability. In addition at 3rd level, the blade binder’s summoned weapons gain an additional +1 enhancement bonus (maximum +5) for every 3 MPB he possesses after 1st,  to a maximum of +5.
 
-#### Binder Talent (Su)  
+## Binder Talent (Su)  
 
 At 2nd level and every 2 levels thereafter a binder gains the benefits of a binder talent. If a binder talent calls for a save attack the save attack is made at 1d20 + ½ MPB + Psyche modifier unless specified otherwise. They may add the enhancement bonus of a wielded weapon to this save attack.
 
 For a complete listing of binder talents, see Table - Binder Talents.
 
-#### Ki Pool (Su)
+## Ki Pool (Su)
 
 At 3rd level, a blade binder gains access to a pool of internal energies called ki, which allow him to perform supernatural feats that go beyond the limits of his physical body. This pool contains a number of ki points equal 1 + his Psyche modifier (minimum 2) and refreshes once per day when the blade binder regains his stamina. A blade binder may spend 1 point of stamina as a free action on his turn to regain 2 points of his ki pool.
 
@@ -88,7 +87,7 @@ In addition at 3rd level a blade binder expands his repertoire of his Ki Pool al
 
 If a blade binder gains a ki pool from another source, he does not combine the pools for the purposes of determining capacity, nor does he gain an additional ki pool, but may spend points from his ki pool to pay for abilities from either source that require ki points. If each pool requires different ability scores (such as Psyche and Focus) the blade binder may use the higher of the two ability scores when determining the capacity of his ki pool. The blade binder may add together his levels in all classes that grant a ki pool to determine the abilities of his ki pool class feature.
 
-#### Blade Improvement (Su)  
+## Blade Improvement (Su)  
 
 At 3rd level, the blade binder gains 2 blade improvements; allowing him to further customize his summoned weapons. A blade binder must choose to apply a blade improvement at the time of summoning, and must summon a different weapon to apply different blade improvements. A blade binder may only have a maximum of 1 blade improvement plus an additional blade improvement for every 4 levels of blade binder you possess (to a maximum of 6 blade improvements) applied to a single summoned weapon.
 
@@ -98,13 +97,13 @@ At 7th level and every 4 levels thereafter the blade binder gains an additional 
 
 For a complete listing of blade improvements, see Table - Blade Improvements.
 
-#### Summon Armor (Su)  
+## Summon Armor (Su)  
 
 At 5th level, the blade binder learns to summon armor you are proficient with. Summoning armor takes a standard action costing 1 Ki pool point. The armor may be summoned directly onto the blade binder as part of summoning. Unless otherwise specified, the blade binder may not apply blade improvement talents to his summoned armor. The blade binder may only have one set of armor summoned at one time, replacing the existing one each time he summons a new one. The armor is summoned at a +1 enhancement bonus, increasing by an additional +1 at 6 MPB and every 3 MPB thereafter. Similar to summoned weapons if the summoned armor leaves the blade binder’s possession for more than 1 round it immediately disappears. The blade binder may only have a single suit of armor summoned at one time.
 
 Unlike normal armor the binder’s summoned armor has a total health pool equal to 15 per blade binder level. This health pool is shared across all his summoned armor; and once depleted he may no longer summon armor for the remainder of the day. This armor health pool cannot be repaired by any magic or mundane means except for blade binder abilities that allow him to restore this health pool. In addition, despite the type of armor his armor’s hardness is always 5 + 1 per 4 blade binder levels.  If the blade binder multiclasses he may count his levels in non-blade binder classes as ½ blade binder levels for determining the hardness of this armor and the size of his armor health pool.
 
-#### Armor Improvement (Su)  
+## Armor Improvement (Su)  
 
 At 5th level, the blade binder gains 3 armor improvements, allowing him to further customize his summoned armor. A blade binder must choose to apply an armor improvement at the time of summoning. A blade binder may only have a maximum of 1 armor improvement  plus an additional armor improvement for every 4 levels of blade binder you possess (to a maximum of 6 blade improvements) applied to a single summoned armor. A summoned armor with a armor improvement treats each armor improvement as a +1 bonus worth of magic armor special ability (+2 or more if a armor improvement counts as more than one armor improvement). If a armor possesses any magic armor special abilities from enhancement seals applied to the armor, in addition to the armor improvements applied to the armor, beyond +5 are suppressed until the total magic armor special abilities plus the armor improvements are equal to or lower than +5.
 
@@ -112,11 +111,11 @@ At 9th level and every 4 levels thereafter the blade binder gains an additional 
 
 For a complete listing of armor improvements, see Table - Armor Improvements.
 
-#### Binder’s Resilience (Ex)  
+## Binder’s Resilience (Ex)  
 
 At 7th level, the blade binder becomes more attuned to his summoned equipment, making it difficult to harm them or separate him from them. The binder gains a +2 competence bonus against sunder attempts against his summoned weapons and armor, as well as a +2 competence bonus against disarm attempts against his summoned weapons. At 12th level and every 6 levels thereafter the blade binder improves these competence bonuses by 1.
 
-#### Master Binder (Su)  
+## Master Binder (Su)  
 
 At 15th level, the blade binder’s weapons and armor become equipment of legend. The blade binder may spend 1 additional Ki point as part of summoning his weapons to cause them to ignore a number of points of DR a creature possesses equal to 1 + 1 per 5 blade binder levels.
 
@@ -124,7 +123,7 @@ He may also spend 1 additional Ki point as part of summoning his armor to cause 
 
 In addition a number of times per day equal to half the blade binder’s Psyche modifier (minimum 1); the blade binder may spend 2 Ki points as a reaction at the start of his turn to double these bonuses until the start of his next turn.
 
-#### Reality Sphere (Su)  
+## Reality Sphere (Su)  
 
 At 20th level, the binder’s source of power for his bound equipment grows to such power it becomes its own plane of existence. This plane of existence is a looping plane (causing creatures to loop around upon reaching the edges) of about 1 mile wide. The view and theme of the inside is the choice of the blade binder, but usually reflects his source of power and his specializations. Time here flows normally and is always hospitable for the blade binder.
 
@@ -132,7 +131,7 @@ The blade binder may transport himself here by spending 1 stamina as a full-roun
 
 The blade binder may bring 1 adjacent creature along to this plane as part of the same full-round action; but doing so requires a Mental save attack roll (1d20 + ½ blade binder level + Psyche modifier) They may add the enhancement bonus of a wielded weapon to this save attack. On a success the creature is brought to this sphere with him. The creature only remains within this sphere for 1 round per blade binder level, and it may attempt a new Mental save against the original save attack each round as a move action to attempt to force itself out of this sphere.
 
-## List - Binder Specializations
+# List - Binder Specializations
 
 #### Armor Binder
 
