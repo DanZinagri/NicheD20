@@ -57,7 +57,6 @@ When crafting an item, the crafter may increase the save DC bonus of the item by
 |Convoluted|+30|
 
 # List of Alchemical Items
-
 | Name                   | Type      | Min Rank | Max Rank             | Rank        | Complexity      | Weight |
 | ---------------------- | --------- | -------- | -------------------- | ----------- | --------------- | ------ |
 | [[Alchemical Bomb]]    | Activated | 1        | 9                    | Uncommon    | Simplistic(-5)  | 2 lb   |
