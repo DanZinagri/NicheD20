@@ -53,10 +53,9 @@ Because the special abilities are separate a weapon could be made as follows:
 
 - Example: A +1 Flaming Longsword would have the final cost of 415 gp. 15gp for the longsword, 200gp for the +1 and 200gp for the flaming.
 - Example2: A +1 Vorpal Longsword would have a final cost of 125215gp; 15gp for the longsword, 200gp for the +1 and 125000gp for the Vorpal which has a +5 special ability cost.
-
 ## Enhancing Shields
 
-Shields are enhanced as weapons, but may also take shield special abilities in addition to weapon special abilities; in addition the weapon enhancement bonus is applied to its shield granting shields a +1 enhancement bonus to attack rolls, damage rolls, and to the shield’s shield bonus.
+Shields are primarily treated as weapons first for the purposes of crafting, enhancement, and masterwork abilities, though enhancements and modifications may exist that can only affect shields. In addition the weapon enhancement bonus is applied to its shield granting shields a +1 enhancement bonus to attack rolls, damage rolls, and to the shield’s shield bonus.
 
 ## Enhancing Double & Combination Weapons
 
