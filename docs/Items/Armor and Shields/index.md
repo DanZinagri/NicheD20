@@ -1,7 +1,6 @@
 ---
 share: true
 ---
-
 # Armor
 ## Simple Armor
 ### Light Armor
