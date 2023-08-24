@@ -21,29 +21,29 @@ share: true
 ### Light Armor
 | Name                | Cost   | Armor Bonus | Strength Rating | Weight | Special                                | Keywords |
 | ------------------- | ------ | ----------- | --------------- | ------ | -------------------------------------- | -------- |
-| [[Studded Leather]] | 30 gp  | 2           | 0               | 12 lb  | Double-Plated, Strong, Natural         | Light    |
-| [[Chain Shirt]]     | 110 gp | 4           | 1               | 18 lb  | Nimble, Metal                          | Light    |
 | [[Breastplate]]     | 200 gp | 6           | 4               | 25 lb  | Vital-Guard, Weather Ready(Hot), Metal | Light    |
+| [[Chain Shirt]]     | 110 gp | 4           | 1               | 18 lb  | Nimble, Metal                          | Light    |
+| [[Studded Leather]] | 30 gp  | 2           | 0               | 12 lb  | Double-Plated, Strong, Natural         | Light    |
 
 ### Heavy Armor
 | Name           | Cost    | Armor Bonus | Strength Rating | Weight | Special                    | Keywords |
 | -------------- | ------- | ----------- | --------------- | ------ | -------------------------- | -------- |
-| [[Full Plate]] | 1500 gp | 10          | 6               | 50 lb  | Double-Plated, Metal       | Heavy    |
 | [[Chainmail]]  | 200 gp  | 8           | 5               | 35 lb  | Vital-Guard, Strong, Metal | Heavy    |
+| [[Full Plate]] | 1500 gp | 10          | 6               | 50 lb  | Double-Plated, Metal       | Heavy    |
 
 ## Exotic Armor
 
 ### Light Armor
 | Name                 | Cost   | Armor Bonus | Strength Rating | Weight | Special                                       | Keywords |
 | -------------------- | ------ | ----------- | --------------- | ------ | --------------------------------------------- | -------- |
-| [[Spider Silk Suit]] | 200 gp | 4           | 0               | 5 lb   | Nimble, Strong, Natural                       | Light    |
 | [[Armored Coat]]     | 150 gp | 6           | 3               | 22 lb  | Nimble, Quick Don, Weather Ready(Cold), Metal | Light    |
+| [[Spider Silk Suit]] | 200 gp | 4           | 0               | 5 lb   | Nimble, Strong, Natural                       | Light    |
 
 ### Heavy Armor
 | Name               | Cost    | Armor Bonus | Strength Rating | Weight | Special                           | Keywords |
 | ------------------ | ------- | ----------- | --------------- | ------ | --------------------------------- | -------- |
-| [[Tatami-do]]      | 1000 gp | 8           | 4               | 35 lb  | Nimble, Deflecting, Metal         | Heavy    |
 | [[Fortress Plate]] | 2400 gp | 13          | 9               | 95 lb  | Double-Plated, Vital-Guard, Metal | Heavy    |
+| [[Tatami-do]]      | 1000 gp | 8           | 4               | 35 lb  | Nimble, Deflecting, Metal         | Heavy    |
 
 # Shields
 | Name                     | Shield Bonus | Strength Rating | Proficiency |
