@@ -1,5 +1,6 @@
 ---
 share: true
+title: Alchemical Items
 ---
 lchemy is the application of materials from both magical and mundane sources to create objects of various effects. Rather than a form of casting, alchemy instead utilizes the pharmaceutical applications of objects, as well as the magical properties of ingredients.
 # Basic Alchemy
