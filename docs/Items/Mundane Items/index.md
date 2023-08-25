@@ -1,5 +1,6 @@
 ---
 share: true
+title: Mundane Items
 ---
 ###### Table-Mundane Items
 
