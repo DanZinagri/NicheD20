@@ -37,15 +37,15 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 <li><a href="/Magic%20Rules" title="Magic/Rules">Magic Rules</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/Drugs%20&%20Addiction" class="mw-redirect" title="Addiction">Drugs &amp; Addiction</a></li>
+<ul><li><a href="/Gamemaster%20and%20Other%20Rules/Drugs%20%26%20Addiction" class="mw-redirect" title="Addiction">Drugs &amp; Addiction</a></li>
 <li><a href="/Gamemaster%20and%20Other%20Rules/Diseases/" title="Diseases">Diseases</a></li>
 <li><a href="/Gamemaster%20and%20Other%20Rules/Environment%20Rules/" title="Environment Rules">Environment Rules</a></li>
 <li><a href="/Gamemaster%20and%20Other%20Rules/Universal%20Abilities/" title="Universal Abilities">Universal Abilities</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/Conditions" title="Conditions">Status Conditions</a></li>
-<li><a href="/Variant_Rules" title="Variant Rules">Variant Rules</a></li>
-<li><a href="/Optional_Rules" title="Optional Rules">Optional Rules</a><br></li></ul>
+<ul><li><a href="/Gamemaster%20and%20Other%20Rules/Status%20Conditions" title="Conditions">Status Conditions</a></li>
+<li><a href="/Gamemaster%20and%20Other%20Rules/Variant%20Rules" title="Variant Rules">Variant Rules</a></li>
+<li><a href="/Gamemaster%20and%20Other%20Rules/Optional%20Rules" title="Optional Rules">Optional Rules</a><br></li></ul>
 </td></tr>
 <tr>
 <td>
