@@ -2,9 +2,9 @@
 share: true
 title: Classes
 ---
-| Class            | HitDie | BAB | Type    |
-| ---------------- | ------ | --- | ------- |
-| [[Barbarian]]    | d12    | 1   | Martial |
-| [[Blade Binder]] | d12    | 1   | Martial |
+| Class                                                  | HitDie | BAB | Type    |
+| ------------------------------------------------------ | ------ | --- | ------- |
+| [[docs/Classes/Martial/Barbarian.md\|Barbarian]]       | d12    | 1   | Martial |
+| [[docs/Classes/Martial/Blade Binder.md\|Blade Binder]] | d12    | 1   | Martial |
 
 
