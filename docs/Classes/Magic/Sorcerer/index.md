@@ -11,3 +11,4 @@ title: Sorcerer
 
 Hit Die: d8
 Type: Magic
+
