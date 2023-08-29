@@ -2,7 +2,8 @@
 share: true
 title: Classes
 ---
-| Class                                           | HitDie | BAB | Type    |
-| ----------------------------------------------- | ------ | --- | ------- |
-| [[Classes/Martial/Blade Binder/\|Blade Binder]] | d12    | 1   | Martial |
-| [[Classes/Martial/Barbarian/\|Barbarian]]       | d12    | 1   | Martial |
+This Page Details all Niche Classes
+
+|Martial|Magic|Hybrid|Advanced|
+|---|---|---|---|
+|[[Blade Binder|Blade Binder]]<br>[[Barbarian|Barbarian]]<br>[[Fighter|Fighter]]<br>[[Rogue|Rogue]]<br>[[Ranger|Ranger]]<br>|<br>|<br>|<br>
