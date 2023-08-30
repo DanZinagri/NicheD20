@@ -5,6 +5,7 @@ PageType: 'Class'
 HitDie: 'd10'
 Type: 'Magic'
 BAB: .75
+BCB: .75
 title: Druid
 ---
 # Class Details:
