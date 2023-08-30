@@ -84,24 +84,19 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 <th style=""><a href="/Advanced_Classes" title="Advanced Classes">Advanced</a>
 </th></tr>
 <tr>
-<td style="line-height: 1.2em;">
+<td style="vertical-align: top; line-height: 1.2em;">
 <ul><li><a href="/Classes/Martial/Barbarian">Barbarian</a></li>
 <li><a href="/Classes/Martial/Blade_Binder" title="Classes/Blade Binder">Blade Binder</a></li>
-<li><a href="/Classes/Martial/Craftsman" title="Classes/Craftsman">Craftsman</a></li>
-<li><a href="/Classes/Martial/Dragon_Devourer" title="Classes/Dragon Devourer">Dragon Devourer</a></li>
 <li><a href="/Classes/Martial/Fighter" title="Classes/Fighter">Fighter</a></li>
 <li><a href="/Classes/Martial/Monk" title="Classes/Monk">Monk</a></li>
-<li><a href="/Classes/Martial/Performer" title="Classes/Performer">Performer</a></li>
 <li><a href="/Classes/Martial/Ranger" title="Classes/Ranger">Ranger</a></li>
 <li><a href="/Classes/Martial/Rogue" title="Classes/Rogue">Rogue</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/Classes/Chosen" title="Classes/Chosen">Chosen</a></li>
-<li><a href="/Classes/Druid" title="Classes/Druid">Druid</a></li>
-<li><a href="/Classes/Priest" title="Classes/Priest">Priest</a>
-<ul><li><a href="/Classes/Priest/Blessings" title="Classes/Priest/Blessings">Blessings</a></li></ul></li>
-<li><a href="/Classes/Sorcerer" title="Classes/Sorcerer">Sorcerer</a></li>
-<li><a href="/Classes/Wizard" title="Classes/Wizard">Wizard</a></li></ul>
+<ul>
+<li><a href="/Classes/Magic/Druid" title="Classes/Druid">Druid</a></li>
+<li><a href="/Classes/Magic/Sorcerer" title="Classes/Sorcerer">Sorcerer</a></li>
+<li><a href="/Classes/Magic/Wizard" title="Classes/Wizard">Wizard</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
 <ul><li><a href="/Classes/Battlemage" title="Classes/Battlemage">Battlemage</a></li>
