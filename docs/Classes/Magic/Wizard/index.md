@@ -5,6 +5,7 @@ PageType: 'Class'
 HitDie: 'd8'
 Type: 'Magic'
 BAB: .5
+BCB: 1
 title: Wizard
 ---
 # Class Details:
