@@ -68,7 +68,7 @@ A sorcerer gains a magic talent according to their talents column (gaining ¾ of
 
 At 1st level, a sorcerer unlocks the power of his bloodline, a representation of innate magic gained through ritual or familial lineage that the sorcerer has learned to tap into. The sorcerer selects a single bloodline, the bloodline determines much about the sorcerer’s capabilities and progression going as far as changing his BCB, BAB, and even Hit dice. These are each listed on the selected bloodline, and apply immediately to the sorcerer upon acquisition. If a bloodline power calls for a save attack it is made at 1d20 + ½ SPB + CAM; the sorcerer may add any enhancement bonuses from his implement to this save attack.
 
-For a complete listing of sorcerer bloodlines, see List - Sorcerer Bloodline.
+For a complete listing of sorcerer bloodlines, see [[List of Sorcerer Bloodlines|List of Sorcerer Bloodlines]]
 
 ## Innate Power (Su)
 
