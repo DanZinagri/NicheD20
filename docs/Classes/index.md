@@ -2,8 +2,8 @@
 share: true
 title: Classes
 ---
-This page links to the various classes in this system:
+This page links to the various classes in the NicheD20 system:
 
 |Martial|Magic|Hybrid|Advanced|
 |---|---|---|---|
-|[[./Martial/Blade Binder/index|Blade Binder]]<br>[[./Martial/Barbarian/index|Barbarian]]<br>[[./Martial/Fighter/index|Fighter]]<br>[[./Martial/Rogue/index|Rogue]]<br>[[./Martial/Ranger/index|Ranger]]|[[./Magic/Druid/index|Druid]]<br>[[./Magic/Wizard/index|Wizard]]<br>[[./Magic/Sorcerer/index|Sorcerer]]|[[./Hybrid/Battlemage/index|Battlemage]]<br>[[../../Grim Knight|Grim Knight]]<br>[[../../Magus|Magus]]<br>|<br>
+|[Blade Binder](./Martial/Blade%20Binder/index.md)<br>[Barbarian](./Martial/Barbarian/index.md)<br>[Fighter](./Martial/Fighter/index.md)<br>[Rogue](./Martial/Rogue/index.md)<br>[Ranger](./Martial/Ranger/index.md)|[Druid](./Magic/Druid/index.md)<br>[Wizard](./Magic/Wizard/index.md)<br>[Sorcerer](./Magic/Sorcerer/index.md)|[Battlemage](./Hybrid/Battlemage/index.md)<br>[Grim Knight](../../Grim%20Knight.md)<br>[Magus](../../Magus.md)<br>|<br>
