@@ -4,7 +4,7 @@ title: Sorcerer Bloodlines
 ---
 Below Is a List of Sorcerer Bloodlines:
 
-| Bloodline              | HitDie | BAB  | BCB  |
+| Name                   | HitDie | BAB  | BCB  |
 | ---------------------- | ------ | ---- | ---- |
 | [[Angelic\|Angelic]]   | d8     | 0.75 | 1    |
 | [[Demonic\|Demonic]]   | d12    | 1    | 0.5  |
