@@ -2,6 +2,8 @@
 share: true
 title: Druidic Realms
 ---
+Below Is a List of Druidic Realms
+
 | Name                           | Affinity                     | Casting Modifier |
 | ------------------------------ | ---------------------------- | ---------------- |
 | [[Beast Realm\|Beast Realm]]   | Nature (Essence) Affinity    | Focus            |
