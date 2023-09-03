@@ -2,7 +2,7 @@
 share: true
 title: Classes
 ---
-This links to the various classes in this system, organized by class type.
+This page links to the various classes in this system, organized by class type.
 
 |Martial|Magic|Hybrid|Advanced|
 |---|---|---|---|
