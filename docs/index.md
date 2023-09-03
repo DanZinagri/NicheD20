@@ -77,7 +77,7 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 <tr>
 <th style=""><a href="/Classes/Martial">Martial</a>
 </th>
-<th style=""><a href="/" title="Magic%20Rules">Magic</a>
+<th style=""><a href="/Magic%20Rules" title="Magic%20Rules">Magic</a>
 </th>
 <th style=""><a href="/Hybrid_Classes" title="Hybrid Classes">Hybrid</a>
 </th>
