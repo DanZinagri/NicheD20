@@ -70,7 +70,7 @@ In addition the barbarian gains a +1 class bonus to Tenacity and Athletics impro
 
 While a barbarian may not have a graceful approach to problems, a barbarian still grows as a combatant as he gains levels, learning additional tricks and techniques. Starting at 2nd level and every two barbarian levels thereafter, a barbarian gains a barbaric path. Additional Barbaric Paths may be taken using the Extra Talent feat.
 
-For a complete listing of barbaric paths see Table: [Barbaric Paths](./Barbaric%20Paths/index.md).
+For a complete listing of barbaric paths see Table: [Barbaric Paths](Barbaric%20Paths.md).
 
 ## Fury (Ex)
 
@@ -80,13 +80,13 @@ At 3rd level a barbarian learns to channel his rage in new and destructive ways.
 
 At 3rd level and every 4 levels thereafter the barbarian gains an aggression allowing him to tap further into the potential of his rage and fury. Unless otherwise noted aggressions can only be used if the barbarian is raging.  At 11th level the barbarian gains an additional aggression. If an Aggression talent calls for a save attack the save attack is made at 1d20 + ½ MPB + Endurance modifier unless specified otherwise. They may add the enhancement bonus of a wielded weapon to this save attack.
 
-For a complete listing of aggressions see Table: [Aggressions](./Aggressions/index.md).
+For a complete listing of aggressions see Table: [Aggressions](Aggressions.md).
 
 ## Barbaric Bond (Ex/Su)
 
 At 5th level the barbarian expands his capabilities in a number of ways. He barbarian chooses one of the following packages gaining its benefits.
 
-For a complete listing of barbaric bonds see Table: [Barbaric Bonds](./Barbaric%20Bonds/index.md)
+For a complete listing of barbaric bonds see Table: [Barbaric Bonds](Barbaric%20Bonds.md)
 
 ## Vigor (Ex)
 
@@ -96,7 +96,7 @@ At 7th level, once per day the barbarian may spend a reaction to empty his curre
 
 At 9th, 13th, and 17th level the barbarian selects a savagery that represents his bloodline, tribe, beliefs, or connection to another power. Unless otherwise specified, savageries do not require the barbarian to be raging to receive their benefits. If a savagery calls for a save attack the save attack is made at 1d20 + ½ MPB + Endurance modifier unless specified otherwise. They may add the enhancement bonus of a wielded weapon to this save attack.
 
-For a complete listing of savageries see Table: [Savageries](./Savageries/index.md)
+For a complete listing of savageries see Table: [Savageries](Savageries.md)
 
 ## Unstoppable (Ex)
 
