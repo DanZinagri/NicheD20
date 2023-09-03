@@ -81,7 +81,7 @@ In addition the Druidic Realm also determines the ability score used as the drui
 
 At 3rd level the druid gains a second druidic realm of her choice gaining the listed affinity talent and spell if she does not already possess it. She does not use the casting modifier of her second druidic realm.
 
-For a complete listing of druidic realms, see [[List of Druidic Realms|List of Druidic Realms]]
+For a complete listing of druidic realms, see [[Druidic Realms|Druidic Realms]]
 
 ## Ironwood (Su)
 
