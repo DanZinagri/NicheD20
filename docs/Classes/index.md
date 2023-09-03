@@ -6,7 +6,7 @@ This page links to the various classes in the NicheD20 system:
 
 | Class                                                  | HitDie | BAB  | BCB  | Type    |
 | ------------------------------------------------------ | ------ | ---- | ---- | ------- |
-| [Battlemage](./Hybrid/Battlemage/index      | d10    | 1    | 0.5  | Hybrid  |
+| [Battlemage](./Hybrid/Battlemage/)      | d10    | 1    | 0.5  | Hybrid  |
 | [Grim Knight](./Hybrid/Grim%20Knight/index.md)    | d10    | 1    | 0.5  | Hybrid  |
 | [Magus](./Hybrid/Magus/index.md)                | d10    | 1    | 0.5  | Hybrid  |
 | [Druid](./Magic/Druid/index.md)                 | d10    | 0.75 | 0.75 | Magic   |
