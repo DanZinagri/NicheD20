@@ -10,12 +10,12 @@ Martial Prowess Bonus is the count of all levels in classes with the stamina cla
 
 ## List of Martial Classes
 
-| Class                          | HitDie | BAB  | Type    |
-| ------------------------------ | ------ | ---- | ------- |
-| [[Rogue\|Rogue]]               | d10    | 0.75 | Martial |
-| [[Ranger\|Ranger]]             | d10    | 0.75 | Martial |
-| [[Fighter\|Fighter]]           | d12    | 1    | Martial |
-| [[Barbarian\|Barbarian]]       | d12    | 1    | Martial |
-| [[Blade Binder\|Blade Binder]] | d12    | 1    | Martial |
+| Class                                         | HitDie | BAB  | Type    |
+| --------------------------------------------- | ------ | ---- | ------- |
+| [Rogue](/Classes/Martial/Rogue)               | d10    | 0.75 | Martial |
+| [Ranger](/Classes/Martial/Ranger)             | d10    | 0.75 | Martial |
+| [Fighter](/Classes/Martial/Fighter)           | d12    | 1    | Martial |
+| [Barbarian](/Classes/Martial/Barbarian)       | d12    | 1    | Martial |
+| [Blade Binder](/Classes/Martial/Blade Binder) | d12    | 1    | Martial |
 
 
