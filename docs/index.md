@@ -79,7 +79,7 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 </th>
 <th style=""><a href="/Magic%20Rules" title="Magic%20Rules">Magic</a>
 </th>
-<th style=""><a href="/Hybrid_Classes" title="Hybrid Classes">Hybrid</a>
+<th style=""><a href="/Classes/Hybrid_Classes" title="Hybrid Classes">Hybrid</a>
 </th>
 <th style=""><a href="/Advanced_Classes" title="Advanced Classes">Advanced</a>
 </th></tr>
@@ -99,10 +99,9 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 <li><a href="/Classes/Magic/Wizard" title="Classes/Wizard">Wizard</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/Classes/Battlemage" title="Classes/Battlemage">Battlemage</a></li>
-<li><a href="/Classes/Champion" title="Classes/Champion">Champion</a></li>
-<li><a href="/Classes/Grim_Knight" title="Classes/Grim Knight">Grim Knight</a></li>
-<li><a href="/Classes/Magus" title="Classes/Magus">Magus</a></li></ul>
+<ul><li><a href="/Classes/Hybrid/Battlemage" title="Classes/Battlemage">Battlemage</a></li>
+<li><a href="/Classes/Hybrid/Grim_Knight" title="Classes/Grim Knight">Grim Knight</a></li>
+<li><a href="/Classes/Hybrid/Magus" title="Classes/Magus">Magus</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
 <ul><li><a href="/Classes/Eldritch_Knight" title="Classes/Eldritch Knight">Eldritch Knight</a></li>
