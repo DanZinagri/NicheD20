@@ -4,7 +4,7 @@ share: true
 ### Welcome to Niche D20
 This site is a reference for the system for the Niche D20 Tabletop Roleplaying Game.
 
-**Join our [discord](https://discord.gg/EtvTQUtacV) to leave feedback or keep up to date on new content and changes!**
+**Join our[discord](https://discord.gg/EtvTQUtacV)to leave feedback or keep up to date on new content and changes!**
 
 **New**:
 
@@ -79,7 +79,7 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 </th>
 <th style=""><a href="/Magic%20Rules" title="Magic%20Rules">Magic</a>
 </th>
-<th style=""><a href="/Classes/Hybrid_Classes" title="Hybrid Classes">Hybrid</a>
+<th style=""><a href="/Classes/Hybrid" title="Hybrid Classes">Hybrid</a>
 </th>
 <th style=""><a href="/Advanced_Classes" title="Advanced Classes">Advanced</a>
 </th></tr>
@@ -145,7 +145,7 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 <tr>
 <th colspan="2" style="font-size: 18pt;"><a href="/wiki/Feats" title="Feats">Feats</a>
 </th>
-<th colspan="2" style="font-size: 18pt;"><a href="/wiki/Items" title="Items">Items</a>
+<th colspan="2" style="font-size: 18pt;"><a href="/Items" title="Items">Items</a>
 </th></tr>
 <tr>
 <td style="vertical-align: top; line-height: 1.2em;">
@@ -161,19 +161,19 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 <li><a href="/wiki/Feats/Race" title="Feats/Race">Race(Any)</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/wiki/Items/Weapons" title="Items/Weapons">Weapons</a></li>
-<li><a href="/wiki/Items/Armor_%26_Shields" title="Items/Armor &amp; Shields">Armor &amp; Shields</a></li>
-<li><a href="/wiki/Items/Enhancement" title="Items/Enhancement">Item Enhancement</a></li>
-<li><a href="/wiki/Items/Masterwork" title="Items/Masterwork">Masterwork Equipment</a></li>
-<li><a href="/wiki/Items/Mundane_Items" title="Items/Mundane Items">Mundane Items</a></li>
-<li><a href="/wiki/Items/Special_Materials" title="Items/Special Materials">Special Materials</a><br></li></ul>
+<ul><li><a href="/Items/Weapons" title="Weapons">Weapons</a></li>
+<li><a href="/Items/Armor%20and%20Shields" title="Armor &amp; Shields">Armor &amp; Shields</a></li>
+<li><a href="/Items/Item%20Enhancement" title="Enhancement">Item Enhancement</a></li>
+<li><a href="/Items/Masterwork%20Equipment" title="Items/Masterwork">Masterwork Equipment</a></li>
+<li><a href="/Items/Mundane%20Items" title="Items/Mundane Items">Mundane Items</a></li>
+<li><a href="/Items/Special%20Materials" title="Items/Special Materials">Special Materials</a><br></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/wiki/Alchemical_Items" title="Alchemical Items">Alchemical Items</a></li>
-<li><a href="/wiki/Items/Magic_Items" title="Items/Magic Items">Magic Items</a></li>
-<li><a href="/wiki/Potions" title="Potions">Potions</a></li>
+<ul><li><a href="/Items/Alchemical%20Items" title="Alchemical Items">Alchemical Items</a></li>
+<li><a href="/Items/Magic%20items/Magic%20Items" title="Items/Magic Items">Magic Items</a></li>
+<li><a href="/Items/Potions" title="Potions">Potions</a></li>
 <li><a href="/wiki/Poisons" title="Poisons">Poisons</a></li>
-<li><a href="/wiki/Items/Drugs" title="Items/Drugs">Drugs</a></li>
+<li><a href="/Items/Drugs" title="Drugs">Drugs</a></li>
 <li><a href="/wiki/Scrolls" title="Scrolls">Scrolls</a><br></li></ul>
 </td></tr>
 <tr>
