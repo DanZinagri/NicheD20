@@ -61,13 +61,13 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 </td>
 <td>
 <ul><li><a href="/Bestiary" title="Bestiary">Bestiary</a></li>
-<li><a href="/Creating_Creatures" title="Creating Creatures">Creating Creatures</a></li></ul>
+<li><a href="/NPC%20and%20Monster%20Rules/Creating%20Creatures" title="Creating Creatures">Creating Creatures</a></li></ul>
 </td>
 <td>
-<ul><li><a href="/Creature_Types" title="Creature Types">Creature Types</a></li>
+<ul><li><a href="/NPC%20and%20Monster%20Rules/Creature%20Types" title="Creature Types">Creature Types</a></li>
 <li><a href="/Creature_Classes" title="Creature Classes">Creature Classes</a></li></ul>
 </td></tr></tbody></table>
-### Player Options
+# Player Options
 <table style="width:85%; text-align: left; vertical-align: top;">
 <caption>
 </caption>
