@@ -2,12 +2,10 @@
 share: true
 title: Gamemaster and Other Rules
 ---
-[[Diseases]]
-[[Universal Abilities]]
-[[Drugs & Addiction]]
-[[Environment Rules]]
-[[Status Conditions]]
-[[Variant Rules]]
-[[Optional Rules]]
-[[Bestiary]]
-[[Creature Types]]
+[[Diseases|Diseases]]
+[[Universal Abilities|Universal Abilities]]
+[[Drugs & Addiction|Drugs & Addiction]]
+[[Environment Rules|Environment Rules]]
+[[Status Conditions|Status Conditions]]
+[[Variant Rules|Variant Rules]]
+[[Optional Rules|Optional Rules]]
