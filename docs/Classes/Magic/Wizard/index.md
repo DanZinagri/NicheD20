@@ -45,7 +45,7 @@ A wizard is proficient with daggers, light crossbows, heavy crossbows, and quart
 
 ## Casting
 
-A wizard may combine spells and talents to create magical effects. A wizards casting style determines his casting ability modifier. In addition if this is the Wizard’s first level in a casting class he gains a single discipline feat he qualifies for, and may choose his casting type. (See Casting Type on the Magic page)
+A wizard may combine spells and talents to create magical effects. A wizards casting style determines his casting ability modifier. In addition if this is the Wizard’s first level in a casting class he gains a single discipline feat he qualifies for, and may choose his <a href="/Magic%20Rules/Casting%20Type/">Casting Type</a>. (See Casting Type on the Magic page)
 
 If this is the character’s first level in a class, he also gains the Ritual Casting Initiate (Magic) feat as a bonus feat.
 
