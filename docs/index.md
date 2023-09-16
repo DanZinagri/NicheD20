@@ -129,7 +129,7 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 <td style="vertical-align: top; line-height: 1.2em;">
 <ul><li><a href="/Races/Centaur" title="Races/Centaur">Centaur</a></li>
 <li><a href="/Races/Elf" title="Races/Elf">Elf</a></li>
-<li><a href="/Races/Orc" title="Races/Orc">Goblinoid</a></li>
+<li><a href="/Races/Goblinoid" title="Races/Goblinoid">Goblinoid</a></li>
 <li><a href="/Races/Human" title="Races/Human">Human</a></li>
 <li><a href="/Races/Planesborn" title="Races/Planesborn">Planesborn</a></li></ul>
 </td>
