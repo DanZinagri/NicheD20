@@ -2,7 +2,6 @@
 share: true
 title: Scalekin
 ---
-
 ## Description
 
 **Physical Description:** Scalekin are a race of reptilian humanoids. They have various traits which can be wildly different depending on their heritage and tribe or clan, but a common thread that runs through all scalekin is that they all proudly claim to be true descendants of dragons.
