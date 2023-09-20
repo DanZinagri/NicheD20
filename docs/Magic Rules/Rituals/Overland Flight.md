@@ -1,0 +1,15 @@
+---
+fileClass:
+  - Ritual
+keywords: Wind
+cost: 5,000 GP
+casting_time: 10 Minutes
+component_cost: 1,800 gp
+prerequisites: BCB 8th, Air (Essence) or Void (Air-Anima) Affinity talent
+duration: 1 hour per BCB
+description: This ritual grants the ability to fly at a speed of 80 feet as a full-round action, with a bonus on fly skill checks equal to half your BCB. This spell affects the caster plus one additional medium creature per 2 BCB; 4 medium creatures count as 1 large (4 large count as 1 huge creature, etc..). Each creature wishing to utilize this flight must spend a full-round action each round to continue to fly. If a creature does not spend the full-round action they instead fall a mere 60 feet per round and take no damage upon landing while the spell is in effect; if the spell would expire during this fall the normal rate of falling resumes. A creature may resume flight at any time while the spell is active by spending full-round actions again. A creature who is unable to take a full-round but can still take standard actions (such as being staggered) may still fly as a standard action, but the speed of the flight is reduced to 40 feet. When using this spell for long-distance movement, you can utilize this without tanking nonlethal damage; this means you can cover 64 miles in an 8-hour period.
+share: true
+tags:
+  - Rituals
+---
+<p><span style="overflow-x: auto;"><table><tbody><tr><th>Keywords</th><td>Wind</td></tr><tr><th>Cost</th><td>5,000 GP</td></tr><tr><th>Casting time</th><td>10 Minutes</td></tr><tr><th>Component cost</th><td>1,800 gp</td></tr><tr><th>Prerequisites</th><td>BCB 8th, Air (Essence) or Void (Air-Anima) Affinity talent</td></tr><tr><th>Duration</th><td>1 hour per BCB</td></tr><tr><th>Description</th><td>This ritual grants the ability to fly at a speed of 80 feet as a full-round action, with a bonus on fly skill checks equal to half your BCB. This spell affects the caster plus one additional medium creature per 2 BCB; 4 medium creatures count as 1 large (4 large count as 1 huge creature, etc..). Each creature wishing to utilize this flight must spend a full-round action each round to continue to fly. If a creature does not spend the full-round action they instead fall a mere 60 feet per round and take no damage upon landing while the spell is in effect; if the spell would expire during this fall the normal rate of falling resumes. A creature may resume flight at any time while the spell is active by spending full-round actions again. A creature who is unable to take a full-round but can still take standard actions (such as being staggered) may still fly as a standard action, but the speed of the flight is reduced to 40 feet. When using this spell for long-distance movement, you can utilize this without tanking nonlethal damage; this means you can cover 64 miles in an 8-hour period.</td></tr></tbody></table></span></p>

@@ -140,7 +140,7 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
 <ul><li><a href="/Magic%20Rules/Casting%20Type" title="Magic/Rules/Casting Type">Casting Types</a></li>
-<li><a href="/Magic/Rituals" title="Magic/Rituals">Rituals</a><br></li></ul>
+<li><a href="/Magic Rules/Rituals" title="Magic Rules/Rituals">Rituals</a><br></li></ul>
 </td></tr>
 <tr>
 <th colspan="2" style="font-size: 18pt;"><a href="/wiki/Feats" title="Feats">Feats</a>
