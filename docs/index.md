@@ -134,7 +134,7 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 <li><a href="/Races/Planesborn" title="Races/Planesborn">Planesborn</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/Magic/Affinity_Talents" title="Magic/Affinity Talents">Affinity Talents</a></li>
+<ul><li><a href="/Magic Rules/Affinity Talents" title="Magic Rules/Affinity Talents">Affinity Talents</a></li>
 <li><a href="/Magic/Spells" title="Magic/Spells">Spells and Talents</a></li>
 <li><a href="/Magic/Universal_Talents" title="Magic/Universal Talents">Universal Talents</a></li></ul>
 </td>
