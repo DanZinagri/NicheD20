@@ -113,9 +113,9 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 <li><a href="/Classes/Zealot" title="Classes/Zealot">Zealot</a></li></ul>
 </td></tr>
 <tr>
-<th colspan="2" style="font-size: 18pt;"><a href="/wiki/Races" title="Races">Races</a>
+<th colspan="2" style="font-size: 18pt;"><a href="/Races" title="Races">Races</a>
 </th>
-<th colspan="2" style="font-size: 18pt;"><a href="/wiki/Magic" title="Magic">Magic</a>
+<th colspan="2" style="font-size: 18pt;"><a href="/Magic Rules" title="Magic">Magic</a>
 </th></tr>
 <tr>
 <td style="vertical-align: top; line-height: 1.2em;">
