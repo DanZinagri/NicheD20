@@ -158,7 +158,7 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 <ul><li><a href="/wiki/Feats/Martial" title="Feats/Martial">Martial</a></li>
 <li><a href="/wiki/Feats/Stance" title="Feats/Stance">Stance</a></li>
 <li><a href="/wiki/Feats/Skill" title="Feats/Skill">Skill</a></li>
-<li><a href="/wiki/Feats/Race" title="Feats/Race">Race(Any)</a></li></ul>
+<li><a href="/Feats/List of General Race Feats" title="Feats/List of General Race Feats">General Race Feats</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
 <ul><li><a href="/Items/Weapons" title="Weapons">Weapons</a></li>

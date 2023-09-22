@@ -64,7 +64,7 @@ Example: A character with 2 levels in rogue and 2 levels in barbarian would have
 
 #### Martial Classes
 
-A character gains a bonus martial feat for every 4 levels in a martial class they possess. Meaning a character in only martial classes would gain a bonus martial feat at 4th, 8th, 12th, 16th, and 20th. This does not matter what classes the character takes levels in, only as long as they are of the martial type. This does not count levels in hybrid classes.
+A character gains a bonus martial feat for every 4 levels in a martial class they possess. Meaning a character in only martial classes would gain a bonus martial or stance feat at 4th, 8th, 12th, 16th, and 20th. This does not matter what classes the character takes levels in, only as long as they are of the martial type. This does not count levels in hybrid classes.
 
 #### Magic Classes
 
