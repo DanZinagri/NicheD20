@@ -48,7 +48,7 @@ Magus are proficient with all simple weapons and simple armor. If this is the ch
 
 A magus may combine spells and talents to create magical effects, and uses Intelligence or Psyche as his Casting Ability Modifier.
 
-If this is the character’s first level in a casting class he gains a single discipline feat he qualifies for, may choose his casting type (See Casting Types on the Magic page), and may increase the casting time of a spell by 2 AP to ignore the spell failure caused by casting in light armor; if the magus possesses the armored caster feat he may instead use this ability to ignore the spell failure caused by casting in heavy armor.
+If this is the character’s first level in a casting class he gains a single discipline feat he qualifies for, may choose his <a href="/Magic%20Rules/Casting%20Type/">Casting Type</a> (See Casting Types on the Magic page), and may increase the casting time of a spell by 2 AP to ignore the spell failure caused by casting in light armor; if the magus possesses the armored caster feat he may instead use this ability to ignore the spell failure caused by casting in heavy armor.
 ## Magus’s Training
 
 A magus may choose a single Strength, Agility, or Endurance based skill; they gain an additional bonus rank in this chosen skill for each level in magus.

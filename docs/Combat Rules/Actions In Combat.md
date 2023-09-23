@@ -36,7 +36,7 @@ Shift can only be used if the creature’s movement isn’t hampered by difficul
 
 ### Move
 
-A creature can move up to its speed for 2 AP. A creature’s speed is usually determined by their race or creature type, with most player races having a base speed of 30 feet. Each space of movement is treated as 5 feet of distance, and as such a creature with a 30 foot movement speed could use a Move action to move anywhere between 1 to 6 spaces with one use of this action. Unless otherwise specified, any voluntary movement provokes attacks of opportunity when leaving a space within an opponent’s threatened area.
+A creature can move up to its speed for 2 AP. A creature’s speed is usually determined by their race or creature type, with most player races having a base speed of 30 feet. Each space of movement is treated as 5 feet of distance, and as such a creature with a 30 foot movement speed could use their 2 AP action to move anywhere between 1 to 6 spaces with one use of this action. Unless otherwise specified, any voluntary movement provokes attacks of opportunity when leaving a space within an opponent’s threatened area.
 
 Movement made as part of climbing or swimming is either made at ¼ of a creature’s land speed, or using the creature’s climb or swim speed if they possess one. A creature may only move by flying if the creature normally possesses or is granted a fly speed. Each of these special forms of movement may require skill checks to perform (see Athletics and Acrobatics).
 
@@ -140,11 +140,11 @@ As part of an Execute, the creature makes an attack against the target; this att
 
 ### Move 5 Feet When Slowed
 
-In some situations, a creature’s movement speed may be reduced to the point that it cannot move a single space with a Move action; this can be the result of spells or effects reducing the creature’s speed, or difficult terrain penalizing the movement too greatly. In these situations, a creature can spend 4 AP to move 5 feet in any direction that one of its movement modes would allow (a creature with only a land speed would not normally be able to move straight up) unless it is otherwise immobilized. Unlike a Shift, this movement provokes attacks of opportunity as normal.
+In some situations, a creature’s movement speed may be reduced to the point that it cannot move a single space with a normal movement action; this can be the result of spells or effects reducing the creature’s speed, or difficult terrain penalizing the movement too greatly. In these situations, a creature can spend 4 AP to move 5 feet in any direction that one of its movement modes would allow (a creature with only a land speed would not normally be able to move straight up) unless it is otherwise immobilized. Unlike a Shift, this movement provokes attacks of opportunity as normal.
 
 ### Run
 
-Rather than taking a Move action, a creature can Run in a straight line as a 4 AP action. When running, a creature may move up to four times its speed using any movement type available to it; however, this movement must be in a straight line and cannot be impaired by difficult terrain. A creature that performs a Run action is Flat-Footed until the start of its next turn.
+Rather than taking a 2 AP action to move, a creature can Run in a straight line as a 4 AP action. When running, a creature may move up to four times its speed using any movement type available to it; however, this movement must be in a straight line and cannot be impaired by difficult terrain. A creature that performs a Run action is Flat-Footed until the start of its next turn.
 
 A creature can continuously Run for a number of rounds equal to 10 + its Endurance score. Once a creature has gone beyond this limit, they must make a DC 10 Tenacity check to continue running. The check must be repeated each round that the creature continues to run, increasing the DC by 2 for each previous time the check succeeded; upon a failed check, the creature must stop running and cannot use the Run action again until after completing a Short Rest. If the creature stops running before failing the Tenacity check, but has not yet completed a Short Rest, the next time that the creature takes the Run action the DC for the check continues from the last highest DC it had succeeded against. Once a creature completes a Short Rest, it may Run again for 10 + its Endurance score rounds before needing to make another Tenacity check.
 
