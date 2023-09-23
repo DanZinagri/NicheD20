@@ -37,7 +37,6 @@ theme:
         - navigation.prune
         - search.suggest
         - search.highlight
-        - navigation.footer
         
 # Extensions
 markdown_extensions:
@@ -122,6 +121,7 @@ extra_css:
     - assets/css/customization.css
 copyright: "Niche Publishing LLC"
 extra:
+  generator: false
   SEO: assets/meta/SEO.png
   comments: false #disable comments globally
   generate_graph: true #generate the graph of the site
