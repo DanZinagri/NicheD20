@@ -71,7 +71,7 @@ This process takes 1 hour to do and the caster must pay an amount of gold to cov
 
 ### First Level Benefits
 
-Unlike a spontaneous caster, prepared casters gain 2 spells and a talent as spells pre-inscribed into their spell source, rather than as bonus talents.
+Unlike a spontaneous caster, prepared casters gain 2 spells and a talent as spells pre-inscribed into their spell source, rather than as bonus talents. In addition prepared spellcasters automatically start with Ritual Casting Initiate as a bonus magic feat and may store rituals within their spell source in addition to their normal spells and talents.
 
 ### Additional Benefits
 
