@@ -51,7 +51,7 @@ If this is the character’s first level in a class he gains proficiency with th
 
 A grim knight may combine spells and talents to create magical effects, and uses his choice of Intelligence or Psyche as his Casting Ability Modifier.
 
-If this is the character’s first level in a casting class he gains a single discipline feat he qualifies for, may choose his casting type (See Casting Types on the Magic page), and may increase the casting time of a spell by 2 steps to ignore the spell failure caused by casting in light armor; if the grim knight possesses the armored caster feat he may instead use this ability to ignore the spell failure caused by casting in heavy armor.  
+If this is the character’s first level in a casting class he gains a single discipline feat he qualifies for, may choose his <a href="/Magic%20Rules/Casting%20Type/">Casting Type</a> (See Casting Types on the Magic page), and may increase the casting time of a spell by 2 steps to ignore the spell failure caused by casting in light armor; if the grim knight possesses the armored caster feat he may instead use this ability to ignore the spell failure caused by casting in heavy armor.  
 ## Mystic Pool
 
 A grim knight learns to push their natural energies to create both the magical and extraordinary. This pool contains a number of points equal to his levels in grim knight. A mystic pool may be used as a stamina or a spell point pool, though it does not stack with either when determining the size of either pool. Similar to a stamina and spell point pool, a mystic pool restores itself after a long rest.
