@@ -51,3 +51,27 @@ These talents list a number of forms that polymorph (or similar) spells can use.
 | [Void Form](/Rules/Magic Rules/Universal Talents/Form Talents/Void Form)           | Void(Air-Anima) Affinity |
 
 
+## Meta Talents
+
+Meta talents is the overall term used to describe talents that can apply to almost all, if not all, spells. These tend to be common talents that exist to be taken to make a caster overall more versatile. A character must know at least one spell before they can select a meta universal talent.
+
+| Name                                                                         | Prerequisite |
+| ---------------------------------------------------------------------------- | ------------ |
+| [Anchored Spell](/Rules/Magic Rules/Universal Talents/Meta/Anchored Spell)   | \-           |
+| [Delayed Magic](/Rules/Magic Rules/Universal Talents/Meta/Delayed Magic)     | \-           |
+| [Diagram Spell](/Rules/Magic Rules/Universal Talents/Meta/Diagram Spell)     | \-           |
+| [Empower Spell](/Rules/Magic Rules/Universal Talents/Meta/Empower Spell)     | \-           |
+| [Extend Spell](/Rules/Magic Rules/Universal Talents/Meta/Extend Spell)       | \-           |
+| [Focused Spell](/Rules/Magic Rules/Universal Talents/Meta/Focused Spell)     | \-           |
+| [Imbue Spell](/Rules/Magic Rules/Universal Talents/Meta/Imbue Spell)         | \-           |
+| [Maximize Spell](/Rules/Magic Rules/Universal Talents/Meta/Maximize Spell)   | \-           |
+| [Merciful Spell](/Rules/Magic Rules/Universal Talents/Meta/Merciful Spell)   | BCB 3rd      |
+| [Piercing Spell](/Rules/Magic Rules/Universal Talents/Meta/Piercing Spell)   | BCB 2nd      |
+| [Quicken Spell](/Rules/Magic Rules/Universal Talents/Meta/Quicken Spell)     | \-           |
+| [Reach Spell](/Rules/Magic Rules/Universal Talents/Meta/Reach Spell)         | BCB 4th      |
+| [Selective Spell](/Rules/Magic Rules/Universal Talents/Meta/Selective Spell) | \-           |
+| [Silent Spell](/Rules/Magic Rules/Universal Talents/Meta/Silent Spell)       | \-           |
+| [Spellstrike](/Rules/Magic Rules/Universal Talents/Meta/Spellstrike)         | \-           |
+| [Spread Spell](/Rules/Magic Rules/Universal Talents/Meta/Spread Spell)       | \-           |
+| [Still Spell](/Rules/Magic Rules/Universal Talents/Meta/Still Spell)         | \-           |
+| [Widen Spell](/Rules/Magic Rules/Universal Talents/Meta/Widen Spell)         | \-           |
