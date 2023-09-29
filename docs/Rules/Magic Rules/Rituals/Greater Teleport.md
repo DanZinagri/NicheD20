@@ -1,0 +1,16 @@
+---
+fileClass:
+  - Ritual
+keywords: Rift
+cost: 50,000 gp
+casting_time: 1 hour
+component_cost: 8,000 gp
+prerequisites: BCB 14th, Void (Air-Anima) Affinity talent
+saving_throw: Mental (Negates)
+duration: Instantaneous
+description: This spell instantly transports you to a designated destination, with no range limit. Interplanar travel is not possible. You can bring along objects as long as their weight doesn’t exceed your maximum load. You may also bring one additional willing creature of medium size or smaller creature (carrying gear or objects up to its maximum load) per three BCB levels. A Large creature counts as two Medium creatures, a Huge creature counts as four Medium creatures, and so forth. All creatures to be transported must be in contact with one another, and at least one of those creatures must be in contact with you. Unwilling creatures or creatures with spell resistance, besides you, are subject to a will save attack against this ability.<br><br>You must have some clear idea of the location and layout of the destination. The clearer your mental image, the more likely the teleportation works. Areas of strong physical or magical energy may make teleportation more hazardous or even impossible. If you attempt to teleport with insufficient information (or with misleading information), you disappear and simply reappear in your original location and the ritual is wasted.
+share: true
+tags:
+  - Rituals
+---
+<p><span style="overflow-x: auto;"><table><tbody><tr><th>Keywords</th><td>Rift</td></tr><tr><th>Cost</th><td>50,000 gp</td></tr><tr><th>Casting time</th><td>1 hour</td></tr><tr><th>Component cost</th><td>8,000 gp</td></tr><tr><th>Prerequisites</th><td>BCB 14th, Void (Air-Anima) Affinity talent</td></tr><tr><th>Saving throw</th><td>Mental (Negates)</td></tr><tr><th>Duration</th><td>Instantaneous</td></tr><tr><th>Description</th><td>This spell instantly transports you to a designated destination, with no range limit. Interplanar travel is not possible. You can bring along objects as long as their weight doesn’t exceed your maximum load. You may also bring one additional willing creature of medium size or smaller creature (carrying gear or objects up to its maximum load) per three BCB levels. A Large creature counts as two Medium creatures, a Huge creature counts as four Medium creatures, and so forth. All creatures to be transported must be in contact with one another, and at least one of those creatures must be in contact with you. Unwilling creatures or creatures with spell resistance, besides you, are subject to a will save attack against this ability.<br><br>You must have some clear idea of the location and layout of the destination. The clearer your mental image, the more likely the teleportation works. Areas of strong physical or magical energy may make teleportation more hazardous or even impossible. If you attempt to teleport with insufficient information (or with misleading information), you disappear and simply reappear in your original location and the ritual is wasted.</td></tr></tbody></table></span></p>
