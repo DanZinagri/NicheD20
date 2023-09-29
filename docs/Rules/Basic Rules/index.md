@@ -12,4 +12,5 @@ This page links to pages detailing basic rules of the system and your character.
 | [[Degrees of Success and Failure|Degrees of Success and Failure]] | [[Environment Rules|Environment Rules]]            |
 | [[Languages and Literacy|Languages and Literacy]]         | [[Resting|Resting]]                      |
 | [[Saving Throws|Saving Throws]]                  | [[Status Conditions|Status Conditions]]            |
-| [[Universal Abilities|Universal Abilities]]                                   |                                  |
+| [[Universal Abilities|Universal Abilities]]            | [[Diseases|Diseases]]                     |
+| [[Drugs & Addiction|Drugs & Addiction]]                                   |                                  |
