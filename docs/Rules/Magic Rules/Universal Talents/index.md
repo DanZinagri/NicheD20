@@ -37,15 +37,17 @@ Similar to form talents, alter talents can be used in polymorphing. The major di
 
 These talents list a number of forms that polymorph (or similar) spells can use. A form talent lists various pieces of information about the type of creature mimicked; such as limbs, speed, and traits. Features such as speech indicate if you can speak your normal languages (without additional magical assistance) in this form, as well as hands to indicate the ability to manipulate objects as a normal humanoid character. If a form or alter talent grants the same trait (such as Darkvision 60 feet) it does not stack and still cannot be applied more than once.
 
-| Name                                                                                | Prerequisite             |
-| ----------------------------------------------------------------------------------- | ------------------------ |
-| [Aquatic Form](/Rules/Magic Rules/Universal Talents/Alter Talents/Aquatic Form)     | Water(Essence) Affinity  |
-| [Arachnid Form](/Rules/Magic Rules/Universal Talents/Alter Talents/Arachnid Form)   | Nature(Essence) Affinity |
-| [Avian Form](/Rules/Magic Rules/Universal Talents/Alter Talents/Avian Form)         | Air(Essence) Affinity    |
-| [Beast Form](/Rules/Magic Rules/Universal Talents/Alter Talents/Beast Form)         | Nature(Essence) Affinity |
-| [Draconic Form](/Rules/Magic Rules/Universal Talents/Alter Talents/Draconic Form)   | Any Affinity             |
-| [Elemental Form](/Rules/Magic Rules/Universal Talents/Alter Talents/Elemental Form) | Any Affinity             |
-| [Humanoid Form](/Rules/Magic Rules/Universal Talents/Alter Talents/Humanoid Form)   | Nature(Essence) Affinity |
-| [Plant Form](/Rules/Magic Rules/Universal Talents/Alter Talents/Plant Form)         | Nature(Essence) Affinity |
-| [Serpent Form](/Rules/Magic Rules/Universal Talents/Alter Talents/Serpent Form)     | Nature(Essence) Affinity |
-| [Void Form](/Rules/Magic Rules/Universal Talents/Alter Talents/Void Form)           | Void(Air-Anima) Affinity |
+| Name                                                                               | Prerequisite             |
+| ---------------------------------------------------------------------------------- | ------------------------ |
+| [Aquatic Form](/Rules/Magic Rules/Universal Talents/Form Talents/Aquatic Form)     | Water(Essence) Affinity  |
+| [Arachnid Form](/Rules/Magic Rules/Universal Talents/Form Talents/Arachnid Form)   | Nature(Essence) Affinity |
+| [Avian Form](/Rules/Magic Rules/Universal Talents/Form Talents/Avian Form)         | Air(Essence) Affinity    |
+| [Beast Form](/Rules/Magic Rules/Universal Talents/Form Talents/Beast Form)         | Nature(Essence) Affinity |
+| [Draconic Form](/Rules/Magic Rules/Universal Talents/Form Talents/Draconic Form)   | Any Affinity             |
+| [Elemental Form](/Rules/Magic Rules/Universal Talents/Form Talents/Elemental Form) | Any Affinity             |
+| [Humanoid Form](/Rules/Magic Rules/Universal Talents/Form Talents/Humanoid Form)   | Nature(Essence) Affinity |
+| [Plant Form](/Rules/Magic Rules/Universal Talents/Form Talents/Plant Form)         | Nature(Essence) Affinity |
+| [Serpent Form](/Rules/Magic Rules/Universal Talents/Form Talents/Serpent Form)     | Nature(Essence) Affinity |
+| [Void Form](/Rules/Magic Rules/Universal Talents/Form Talents/Void Form)           | Void(Air-Anima) Affinity |
+
+
