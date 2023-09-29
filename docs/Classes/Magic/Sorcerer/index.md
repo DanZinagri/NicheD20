@@ -46,7 +46,7 @@ Sorcerers are proficient with all simple weapons and simple light armor.
 
 ## Casting
 
-A sorcerer may combine spells and talents to create magical effects, and uses his choice of Intelligence or Psyche as his Casting Ability Modifier. In addition if this is the sorcerer ’s first level in a casting class he gains a single discipline feat he qualifies for, and may choose his <a href="/Magic%20Rules/Casting%20Type/">Casting Type</a>. (See Casting Type on the Magic page)
+A sorcerer may combine spells and talents to create magical effects, and uses his choice of Intelligence or Psyche as his Casting Ability Modifier. In addition if this is the sorcerer ’s first level in a casting class he gains a single discipline feat he qualifies for, and may choose his <a href="/Rules/Magic%20Rules/Casting%20Type/">Casting Type</a>. (See Casting Type on the Magic page)
 
 ## Caster’s Concentration
 
