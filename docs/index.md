@@ -61,7 +61,7 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 <li><a href="/NPC%20and%20Monster%20Rules/Creating%20Creatures" title="Creating Creatures">Creating Creatures</a></li></ul>
 </td>
 <td>
-<ul><li><a href="/NPC%20and%20Monster%20Rules/Creature%20Types" title="Creature Types">Creature Types</a></li>
+<ul><li><a href="/Rules/NPC%20and%20Monster%20Rules/Creature%20Types" title="Creature Types">Creature Types</a></li>
 <li><a href="/Creature_Classes" title="Creature Classes">Creature Classes</a></li></ul>
 </td></tr></tbody></table>
 # Player Options
@@ -74,7 +74,7 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 <tr>
 <th style=""><a href="/Classes/Martial">Martial</a>
 </th>
-<th style=""><a href="/Magic%20Rules" title="Magic%20Rules">Magic</a>
+<th style=""><a href="/Rules/Magic%20Rules" title="Magic%20Rules">Magic</a>
 </th>
 <th style=""><a href="/Classes/Hybrid" title="Hybrid Classes">Hybrid</a>
 </th>
