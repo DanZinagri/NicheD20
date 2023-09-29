@@ -12,8 +12,8 @@ List of Creature Classes:
 
 | Class                    | HitDie | BAB  | Type     |
 | ------------------------ | ------ | ---- | -------- |
-| [[Skeleton\|Skeleton]]   | d10    | 0.75 | Creature |
 | [[Zombie\|Zombie]]       | d10    | 0.75 | Creature |
+| [[Skeleton\|Skeleton]]   | d10    | 0.75 | Creature |
 | [[Humanoid\|Humanoid]]   | d10    | 0.75 | Creature |
 | [[Elemental\|Elemental]] | d10    | 0.75 | Creature |
 | [[Demon\|Demon]]         | d10    | 0.75 | Creature |
