@@ -44,10 +44,10 @@ Implements that are not weapons can be made masterwork but unless they are a wea
 
 Below are links to various modifications for different types of equipment:
 
-- #### List of [[Weapon Modifications]]
-- #### List of [[Shield Modifications]]
-- #### List of [[Armor Modifications]]
-- #### List of [[Implement Modifications]]
+- #### List of [[Weapon Modifications|Weapon Modifications]]
+- #### List of [[Shield Modifications|Shield Modifications]]
+- #### List of [[Armor Modifications|Armor Modifications]]
+- #### List of [[Implement Modifications|Implement Modifications]]
 
 # Reforging Existing Equipment
 

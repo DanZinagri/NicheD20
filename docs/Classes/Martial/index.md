@@ -15,7 +15,7 @@ Martial Prowess Bonus is the count of all levels in classes with the stamina cla
 | [Rogue](/Classes/Martial/Rogue)               | d10    | 0.75 | Martial |
 | [Ranger](/Classes/Martial/Ranger)             | d10    | 0.75 | Martial |
 | [Fighter](/Classes/Martial/Fighter)           | d12    | 1    | Martial |
-| [Barbarian](/Classes/Martial/Barbarian)       | d12    | 1    | Martial |
 | [Blade Binder](/Classes/Martial/Blade Binder) | d12    | 1    | Martial |
+| [Barbarian](/Classes/Martial/Barbarian)       | d12    | 1    | Martial |
 
 

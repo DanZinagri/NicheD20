@@ -7,6 +7,6 @@ Hybrid classes are classes with both access to martial and magic capabilities, u
 
 | Class                                      | HitDie | BAB | BCB  | Type   |
 | ------------------------------------------ | ------ | --- | ---- | ------ |
+| [Magus](/Classes/Hybrid/Magus)             | d10    | 1   | 0.75 | Hybrid |
 | [Grim Knight](/Classes/Hybrid/Grim Knight) | d12    | 1   | 0.5  | Hybrid |
 | [Battlemage](/Classes/Hybrid/Battlemage)   | d12    | 1   | 0.5  | Hybrid |
-| [Magus](/Classes/Hybrid/Magus)             | d10    | 1   | 0.75 | Hybrid |
