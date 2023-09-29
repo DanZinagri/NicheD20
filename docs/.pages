@@ -8,3 +8,4 @@ nav:
     - Feats
     - Magic
     - Items
+    - ... | regex=^(?!tags.md|index.md$)
