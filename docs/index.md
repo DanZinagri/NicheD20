@@ -41,8 +41,8 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 <li><a href="/Rules/Gamemaster%20and%20Other%20Rules/Diseases/" title="Diseases">Diseases</a></li>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<li><a href="/Gamemaster%20and%20Other%20Rules/Variant%20Rules" title="Variant Rules">Variant Rules</a></li>
-<li><a href="/Gamemaster%20and%20Other%20Rules/Optional%20Rules" title="Optional Rules">Optional Rules</a><br></li></ul>
+<li><a href="/Rules/Gamemaster%20and%20Other%20Rules/Variant%20Rules" title="Variant Rules">Variant Rules</a></li>
+<li><a href="/Rules/Gamemaster%20and%20Other%20Rules/Optional%20Rules" title="Optional Rules">Optional Rules</a><br></li></ul>
 </td></tr>
 <tr>
 <td>
@@ -178,7 +178,7 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 </th></tr>
 <tr>
 <td>
-<ul><li><a href="/wiki/Companion_Rules" title="Companion Rules">Companion Rules</a></li></ul>
+<ul><li><a href="/Rules/Companion%20Rules/" title="Companion Rules">Companion Rules</a></li></ul>
 </td>
 <td>
 <ul><li><a href="/wiki/Deities" title="Deities">Deities</a></li></ul>
