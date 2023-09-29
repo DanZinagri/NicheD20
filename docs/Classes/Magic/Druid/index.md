@@ -54,7 +54,7 @@ A druid may combine spells and talents to create magical effects; with her Casti
 
 Druids are prohibited from using metal equipment such as armor, weapons, and shields. As such a druid must use items composed of wood, bone, or stone (usually weapons and armor with the wood or natural keywords). A druid who wears metal armor or uses a metal weapon is unable to cast spells or use any of her supernatural class abilities while doing so and for 24 hours thereafter.
 
-If this is the character’s first level in a casting class she gains a single discipline feat she qualifies for, may choose her <a href="/Magic%20Rules/Casting%20Type/">Casting Type</a> (See Casting Types on the Magic page), and may increase the casting time of a spell by 2 steps to ignore the spell failure caused by casting in light armor; if the druid possesses the armored caster feat she may instead use this ability to ignore the spell failure caused by casting in heavy armor.
+If this is the character’s first level in a casting class she gains a single discipline feat she qualifies for, may choose her<a href="/Rules/Magic%20Rules/Casting%20Type/">Casting Type</a> (See Casting Types on the Magic page), and may increase the casting time of a spell by 2 steps to ignore the spell failure caused by casting in light armor; if the druid possesses the armored caster feat she may instead use this ability to ignore the spell failure caused by casting in heavy armor.
 
 ## Caster’s Concentration
 
