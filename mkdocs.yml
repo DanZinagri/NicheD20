@@ -37,6 +37,7 @@ theme:
         - navigation.prune
         - search.suggest
         - search.highlight
+        - navigation.tabs
         
 # Extensions
 markdown_extensions:
