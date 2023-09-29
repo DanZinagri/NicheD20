@@ -3,30 +3,30 @@ share: true
 ---
 This page details the various skills of the Niche system.
 
-| Name                 | Ability | Type     |
-| -------------------- | ------- | -------- |
-| [[Appraise]]         | Int     | Mental   |
-| [[Bluff]]            | Psy     | Mental   |
-| [[Concentration]]    | Foc     | Mental   |
-| [[Diplomacy]]        | Psy     | Mental   |
-| [[Disguise]]         | Psy     | Mental   |
-| [[Intimidate]]       | Psy     | Mental   |
-| [[Knowledge]]        | Int     | Mental   |
-| [[Medic]]            | Foc     | Mental   |
-| [[Perception]]       | Foc     | Mental   |
-| [[Perform]]          | Psy     | Mental   |
-| [[Sense Motive]]     | Foc     | Mental   |
-| [[Survival]]         | Foc     | Mental   |
-| [[Use Magic Device]] | Psy     | Mental   |
-| [[Acrobatics]]       | Agi     | Physical |
-| [[Athletics]]        | Agi     | Physical |
-| [[Disable Device]]   | Agi     | Physical |
-| [[Escape Artist]]    | Agi     | Physical |
-| [[Ride]]             | Agi     | Physical |
-| [[Sleight of Hand]]  | Agi     | Physical |
-| [[Stealth]]          | Agi     | Physical |
-| [[Tenacity]]         | Agi     | Physical |
-| [[Profession]]       | -       | Varies   |
+| Name                                   | Ability | Type     |
+| -------------------------------------- | ------- | -------- |
+| [[Appraise\|Appraise]]                 | Int     | Mental   |
+| [[Bluff\|Bluff]]                       | Psy     | Mental   |
+| [[Concentration\|Concentration]]       | Foc     | Mental   |
+| [[Diplomacy\|Diplomacy]]               | Psy     | Mental   |
+| [[Disguise\|Disguise]]                 | Psy     | Mental   |
+| [[Intimidate\|Intimidate]]             | Psy     | Mental   |
+| [[Knowledge\|Knowledge]]               | Int     | Mental   |
+| [[Medic\|Medic]]                       | Foc     | Mental   |
+| [[Perception\|Perception]]             | Foc     | Mental   |
+| [[Perform\|Perform]]                   | Psy     | Mental   |
+| [[Sense Motive\|Sense Motive]]         | Foc     | Mental   |
+| [[Survival\|Survival]]                 | Foc     | Mental   |
+| [[Use Magic Device\|Use Magic Device]] | Psy     | Mental   |
+| [[Acrobatics\|Acrobatics]]             | Agi     | Physical |
+| [[Athletics\|Athletics]]               | Agi     | Physical |
+| [[Disable Device\|Disable Device]]     | Agi     | Physical |
+| [[Escape Artist\|Escape Artist]]       | Agi     | Physical |
+| [[Ride\|Ride]]                         | Agi     | Physical |
+| [[Sleight of Hand\|Sleight of Hand]]   | Agi     | Physical |
+| [[Stealth\|Stealth]]                   | Agi     | Physical |
+| [[Tenacity\|Tenacity]]                 | Agi     | Physical |
+| [[Profession\|Profession]]             | -       | Varies   |
 
 
 
