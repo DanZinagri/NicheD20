@@ -141,15 +141,15 @@ Now that you’ve selected a class you are given your skill ranks per level. Thi
 
 ## Determine Starting Hit Points:
 
-A character starts with maximum hit points at 1st level. This is the maximum possible value of the listed hit dice of their class (usually a d8, d10, or d12) plus their constitution modifier. For levels beyond first it is suggested to do average(rounded up) for hit points though some groups may decide to do maximum or rolled for their hit points. It is never recommended to do rolled for first level as this creates the issue that a character could have 0 or fewer hit points with a bad enough roll and constitution modifier, but also makes it very easy for a character to be killed in a single hit at first level.
+A character calculates their starting hit points using the their hit dice's average(rounded up) value + 10 + their Endurance modifier at 1st level. For levels beyond first it is suggested to do average(rounded up) for hit points though some groups may decide to do maximum or rolled for their hit points.
 
-Table-Average Rounded Up Values:
+Table- Hit Dice Values:
 
-|Hit Die|Average(Rounded Up)|
-|---|---|
-|d8|5|
-|d10|6|
-|d12|7|
+| Hit Die | Average(Rounded Up) | Average | Maximum|
+| ------- | ------------------- | --- | --- |
+| d8      | 5                   |  4   | 8    |
+| d10     | 6                   |  5   | 10   |
+| d12     | 7                   |  6   |  12   |
 
 ## Chose Equipment:
 
