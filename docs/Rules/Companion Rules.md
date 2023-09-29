@@ -97,18 +97,18 @@ A companion gains a number of traits to choose from; usually gained from their b
 
 Below are the base forms each companion must choose when first gained, some classes may pre-choose what shape the companion takes. Overall the form is meant to simply be a chassis for your companion for which everything builds on.
 
-| Name                             | Prerequisite             | Limbs                                                  | Reach Progression | Hands |
-| -------------------------------- | ------------------------ | ------------------------------------------------------ | ----------------- | ----- |
-| [Aquatic Form](Aquatic Form)     | Water(Essence) Affinity  | 1 head, 1 tail                                         | Long              | No    |
-| [Arachnid Form](Arachnid Form)   | Nature(Essence) Affinity | 1 head, 8 legs                                         | Long              | No    |
-| [Avian Form](Avian Form)         | Air(Essence) Affinity    | 1 head, 2 legs, 2 wings                                | Tall              | No    |
-| [Beast Form](Beast Form)         | Nature(Essence) Affinity | 1 head, 4 legs                                         | Long              | No    |
-| [Draconic Form](Draconic Form)   | Any Affinity             | 1 head, 4 legs (front 2 end in hands), 1 tail, 2 wings | Long              | Yes   |
-| [Elemental Form](Elemental Form) | Any Affinity             | none                                                   | Tall              | No    |
-| [Humanoid Form](Humanoid Form)   | Nature(Essence) Affinity |  1 head, 2 arms, 2 legs                                | Long              | Yes   |
-| [Plant Form](Plant Form)         | Nature(Essence) Affinity | 2 Arms                                                 | Long              | No    |
-| [Serpent Form](Serpent Form)     | Nature(Essence) Affinity | 1 Head, 1 Tail                                         | Tall              | No    |
-| [Void Form](Void Form)           | Void(Air-Anima) Affinity | none                                                   | Long              | No    |
+| Name                                                                               | Prerequisite             | Limbs                                                  | Reach Progression | Hands |
+| ---------------------------------------------------------------------------------- | ------------------------ | ------------------------------------------------------ | ----------------- | ----- |
+| [Aquatic Form](/Rules/Magic Rules/Universal Talents/Form Talents/Aquatic Form)     | Water(Essence) Affinity  | 1 head, 1 tail                                         | Long              | No    |
+| [Arachnid Form](/Rules/Magic Rules/Universal Talents/Form Talents/Arachnid Form)   | Nature(Essence) Affinity | 1 head, 8 legs                                         | Long              | No    |
+| [Avian Form](/Rules/Magic Rules/Universal Talents/Form Talents/Avian Form)         | Air(Essence) Affinity    | 1 head, 2 legs, 2 wings                                | Tall              | No    |
+| [Beast Form](/Rules/Magic Rules/Universal Talents/Form Talents/Beast Form)         | Nature(Essence) Affinity | 1 head, 4 legs                                         | Long              | No    |
+| [Draconic Form](/Rules/Magic Rules/Universal Talents/Form Talents/Draconic Form)   | Any Affinity             | 1 head, 4 legs (front 2 end in hands), 1 tail, 2 wings | Long              | Yes   |
+| [Elemental Form](/Rules/Magic Rules/Universal Talents/Form Talents/Elemental Form) | Any Affinity             | none                                                   | Tall              | No    |
+| [Humanoid Form](/Rules/Magic Rules/Universal Talents/Form Talents/Humanoid Form)   | Nature(Essence) Affinity |  1 head, 2 arms, 2 legs                                | Long              | Yes   |
+| [Plant Form](/Rules/Magic Rules/Universal Talents/Form Talents/Plant Form)         | Nature(Essence) Affinity | 2 Arms                                                 | Long              | No    |
+| [Serpent Form](/Rules/Magic Rules/Universal Talents/Form Talents/Serpent Form)     | Nature(Essence) Affinity | 1 Head, 1 Tail                                         | Tall              | No    |
+| [Void Form](/Rules/Magic Rules/Universal Talents/Form Talents/Void Form)           | Void(Air-Anima) Affinity | none                                                   | Long              | No    |
 
 
 ---
