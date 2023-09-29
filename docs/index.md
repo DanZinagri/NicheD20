@@ -131,13 +131,13 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 <li><a href="/Races/Planesborn" title="Races/Planesborn">Planesborn</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/Rules/Magic Rules/Affinity Talents" title="Magic Rules/Affinity Talents">Affinity Talents</a></li>
-<li><a href="/Magic/Spells" title="Magic/Spells">Spells and Talents</a></li>
-<li><a href="/Magic/Universal_Talents" title="Magic/Universal Talents">Universal Talents</a></li></ul>
+<ul><li><a href="/Rules/Magic Rules/Universal Talents/Affinity Talents">Affinity Talents</a></li>
+<li><a href="/Rules/Magic Rules/Spells">Spells and Talents</a></li>
+<li><a href="/Rules/Magic Rules/Universal_Talents">Universal Talents</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/Magic%20Rules/Casting%20Type" title="Magic/Rules/Casting Type">Casting Types</a></li>
-<li><a href="/Magic Rules/Rituals" title="Magic Rules/Rituals">Rituals</a><br></li></ul>
+<ul><li><a href="/Rules/Magic Rules/Casting Type">Casting Types</a></li>
+<li><a href="/Rules/Magic Rules/Rituals" title="Magic Rules/Rituals">Rituals</a><br></li></ul>
 </td></tr>
 <tr>
 <th colspan="2" style="font-size: 18pt;"><a href="/wiki/Feats" title="Feats">Feats</a>
