@@ -66,9 +66,9 @@ The following chart has a generic list of DCs that a GM may use to determine DCs
 |Poisons|DC = the Fortitude DC of the poison|50 gp|
 |Alchemical Items|DC dependant on rarity and rank.|Determined by rarity.|
 
-## Laborers(End)
+## Laborers
 
-A laborer works as more of a catch-all category for a type of profession that doesn’t directly produce a crafted good, such as a sailor, soldier. Sometimes a laborer may be a type of crafter who doesn’t fit the mold of the normal crafting rules, and as such may have their own set of tasks they may perform, such as a chef improving the quality of food on a journey, or a farmer assisting with animals or the growing of food. Unless otherwise specified all Laborers are physical skills that use Endurance as their associated ability score.
+A laborer works as more of a catch-all category for a type of profession that doesn’t directly produce a crafted good, such as a sailor, soldier. Sometimes a laborer may be a type of crafter who doesn’t fit the mold of the normal crafting rules, and as such may have their own set of tasks they may perform, such as a chef improving the quality of food on a journey, or a farmer assisting with animals or the growing of food.
 
 ### Common Uses
 
@@ -78,7 +78,7 @@ A laborer can earn a number of gold pieces per day of dedicated work equal to ha
 
 ### Specific Uses
 
-**Soldier**:
+**Soldier**(End):
 
 A character with Profession(Soldier) can perform the following tasks:
 
@@ -86,7 +86,7 @@ A character with Profession(Soldier) can perform the following tasks:
 - Use Profession(Soldier) in place of Appraise to determine the quality of a weapon or armor.
 - Use Profession(Soldier) in place of Diplomacy, Bluff, or Intimidate when interacting with someone who recognizes the army, group or other organization you are or previously were associated with.
 
-**Sailor**:
+**Sailor**(Foc):
 
 A character with Profession(Sailor) can perform the following tasks:
 
@@ -96,7 +96,7 @@ A character with Profession(Sailor) can perform the following tasks:
 - Use Profession(Sailor) in place of Diplomacy to gather information in a sea port town or district.
 - Use Profession(Sailor) in place of Acrobatics to keep balance on a ship.
 
-**Chef**:
+**Chef**(Agi):
 
 A character with Profession(Chef) can perform the following tasks:
 
@@ -104,7 +104,7 @@ A character with Profession(Chef) can perform the following tasks:
 - Notice poison in food (DC 25)
 - Feed an additional person with a hunted food or ration by extending it through the use of soup or other methods. DC 15 plus an additional person per 10 you exceed the check.
 
-**Farmer**:
+**Farmer**(End):
 
 A character with Profession(Farmer) can perform the following tasks:
 
@@ -112,12 +112,22 @@ A character with Profession(Farmer) can perform the following tasks:
 - Use Profession(Farmer) to grow food. This can be in a field or a simple garden in the back of a wagon. Growing food should take a minimum of a month with a DC 10 Profession(Farmer) check. The time can be reduced half by doubling the DC. The resulting plant produces enough food for one person plus an additional person per 5 that you beat the DC.
 - Use Profession(Farmer) in place of Knowledge(Nature) to try and direct a livestock animal such as Pigs, Ox, Cows, Horses, Goats, etc…
 
-**Gambler**:
+**Gambler**(Psy):
 
 A character with Profession(Gambler) can perform the following tasks:
 
 - When gambling a Profession(Gambler) may make a DC 20 Profession(Gambler) check to cheat at a current game of gambling to gain a +4 bonus to any rolls. Opponents get a perception check to notice this cheating against the gambler’s profession check.
 - When gambling a Profession(Gambler) may make a DC 10 Profession(Gambler) check to gain a +2 bonus to any rolls by trying to outplay the foe using statistics to their advantage, or possibly even just card counting.
+
+**Linguist**(Foc)
+
+A character with Profession(Linguist) can perform the following tasks; much of these tasks are covered under the [[Languages and Literacy|Languages and Literacy]] page; while many of these behave similar to crafting, the monetary cost is usually low to negligible and thus tracking progress is usually not as viable with the gold per day system.
+
+- Writing longer or more complex documents.
+- Forging documents or signatures.
+- Translation documents.
+- Encrypting documents.
+- Decryption of documents.
 
 ### Action/Retry
 
