@@ -7,3 +7,4 @@ These are rules that change out basic rules of the Niche d20 system. These gener
 [[Facing|Facing]]
 [[Simplified Dogpiles|Simplified Dogpiles]]
 [[Static Defenses|Static Defenses]]
+[[Group Initiative|Group Initiative]]
