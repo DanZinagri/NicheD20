@@ -32,18 +32,15 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 <li><a href="/Perks" title="Perks">Perks and Drawbacks</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/Basic%20Rules/" title="Basic Rules">Basic Rules</a></li>
-<li><a href="/Combat%20Rules/" title="Combat">Combat Rules</a></li>
-<li><a href="/Magic%20Rules" title="Magic/Rules">Magic Rules</a></li></ul>
+<ul><li><a href="/Rules/Basic%20Rules/" title="Basic Rules">Basic Rules</a></li>
+<li><a href="/Rules/Combat%20Rules/" title="Combat">Combat Rules</a></li>
+<li><a href="/Rules/Magic%20Rules" title="Magic/Rules">Magic Rules</a></li></ul>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/Gamemaster%20and%20Other%20Rules/Drugs%20%26%20Addiction" class="mw-redirect" title="Addiction">Drugs &amp; Addiction</a></li>
-<li><a href="/Gamemaster%20and%20Other%20Rules/Diseases/" title="Diseases">Diseases</a></li>
-<li><a href="/Gamemaster%20and%20Other%20Rules/Environment%20Rules/" title="Environment Rules">Environment Rules</a></li>
-<li><a href="/Gamemaster%20and%20Other%20Rules/Universal%20Abilities/" title="Universal Abilities">Universal Abilities</a></li></ul>
+<ul><li><a href="/Rules/Gamemaster%20and%20Other%20Rules/Drugs%20%26%20Addiction" class="mw-redirect" title="Addiction">Drugs &amp; Addiction</a></li>
+<li><a href="/Rules/Gamemaster%20and%20Other%20Rules/Diseases/" title="Diseases">Diseases</a></li>
 </td>
 <td style="vertical-align: top; line-height: 1.2em;">
-<ul><li><a href="/Gamemaster%20and%20Other%20Rules/Status%20Conditions" title="Conditions">Status Conditions</a></li>
 <li><a href="/Gamemaster%20and%20Other%20Rules/Variant%20Rules" title="Variant Rules">Variant Rules</a></li>
 <li><a href="/Gamemaster%20and%20Other%20Rules/Optional%20Rules" title="Optional Rules">Optional Rules</a><br></li></ul>
 </td></tr>
