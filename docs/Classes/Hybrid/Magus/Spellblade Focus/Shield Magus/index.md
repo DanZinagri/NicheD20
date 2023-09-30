@@ -1,8 +1,11 @@
 ---
 share: true
 stance: Defensive Stance
-tags: ['Magus','Spellblade-Focus']
+tags:
+  - Magus
+  - Spellblade-Focus
 affinity: Air (Essence) Affinity
+title: Shield Magus
 ---
 - **Bonus Stamce**: Defensive Stance 
 - **Bonus Affinity**: Air (Essence) Affinity
