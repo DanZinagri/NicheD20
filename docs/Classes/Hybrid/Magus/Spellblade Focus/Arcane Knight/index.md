@@ -1,8 +1,11 @@
 ---
 share: true
 stance: Defensive Stance
-tags: ['Magus','Spellblade-Focus']
+tags:
+  - Magus
+  - Spellblade-Focus
 affinity: Earth (Water-Anima) Affinity
+title: Arcane Knight
 ---
 
 - **Bonus Stamce**: Defensive Stance 
