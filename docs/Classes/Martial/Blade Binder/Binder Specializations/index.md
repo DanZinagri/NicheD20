@@ -1,5 +1,6 @@
 ---
 share: true
+title: Binder Specializations
 ---
 
 This page links to the various Blade Binder specializations.
