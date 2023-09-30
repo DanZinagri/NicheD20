@@ -1,8 +1,11 @@
 ---
 share: true
 stance: Power Stance
-tags: ['Magus','Spellblade-Focus']
+tags:
+  - Magus
+  - Spellblade-Focus
 affinity: Fire (Essence) Affinity
+title: Arcane Brutality
 ---
 
 - **Bonus Stamce**: Power Stance 
