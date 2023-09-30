@@ -1,9 +1,12 @@
 ---
-tags: ['Skills', 'Mental']
-PageType: 'Skills'
-SkillTyp: 'Mental'
-Attr: 'Int'
+tags:
+  - Skills
+  - Mental
+PageType: Skills
+SkillTyp: Mental
+Attr: Int
 share: true
+title: Knowledge
 ---
 #### Associated Ability Modifier: Intelligence
 Knowledge is a representation of what a character knows about a specific type of field of study or topic. Many Knowledge skill have a specific use. Each type of knowledge is its own separate skill check, but much of its functions overlap and thus are listed on this page.
