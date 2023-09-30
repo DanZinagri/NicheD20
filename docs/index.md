@@ -11,6 +11,8 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 - Migration from Old Wiki
 - New Domain for website
 - Conversion of Old Systems
+- Rewrite of the Companion Rules
+- Addition of Forgery, Writing, and Encryption rules as well as a ritual to adjust this.
 
 ## Next Planned Updates:
 
