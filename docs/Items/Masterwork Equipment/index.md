@@ -1,5 +1,6 @@
 ---
 share: true
+title: Masterwork Equipment
 ---
 Equipment, such as weapons and armor, can be made into masterwork versions of themselves. A masterwork version is a higher quality than normal, with varying degrees of masterwork. This is separate magical enhancements on a weapon, and rather are mundane modifications and boosts that can be made to a weapon to make a greater version of itself. The following are the quality levels for weapons:
 
