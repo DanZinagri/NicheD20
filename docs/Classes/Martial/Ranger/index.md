@@ -57,7 +57,7 @@ At 1st level, the ranger may select any two of the following: perception, ride, 
 
 ## Aim (Ex)
 
-At 1st level, the Ranger learns to focus their senses as a 2 AP action gaining a +1 insight bonus on all attack and damage rolls against a single target he can see, and treats their crit range of their weapon as 1 higher (20 becomes 19-20, 19-20 becomes 18-20). These bonuses only apply on ranged weapon attacks against this target, and last until the beginning of their next turn.
+At 1st level, the Ranger learns to focus their senses as a 2 AP action gaining a +1 insight bonus on all attack and damage rolls against a single target he can see, and treats their crit range of their weapon as 1 higher (20 becomes 19-20, 19-20 becomes 18-20, etc...). These bonuses only apply on ranged weapon attacks against this target, and last until the beginning of their next turn.
 
 At 5th level and every 5 levels thereafter the ranger increases the insight bonus on attack and damage rolls with aim by an additional 1.
 
@@ -67,13 +67,13 @@ At 15th level the ranger increases the critical multiplier of their weapon by 1 
 
 ## Animal Companion (Ex)
 
-At 1st level, the Ranger forms a bond with an animal companion. It gains a companion as described on the companion page treating your levels in ranger as SPB to determine the progression of this companion (and stacks with SPB gained from other sources). Abilities of the companion that would cost spell points instead cost an equal amount of the ranger’s stamina.
+At 1st level, the Ranger forms a bond with an animal companion. It gains a companion as described on the companion page treating thier levels in ranger as SPB to determine the progression of this companion (this stacks with SPB gained from other sources for determining the progression of the companion). If any companion ability or talent would cost spell points from the caster, they instead cost an equal amount of the ranger’s stamina.
 
-The animal companion gained this way must select the Avian, Quadruped, Serpentine, or Arachnid base form. It gains the Animal type as its companion type. The companion gains these types and talents even if the ranger does not meet the prerequisites. In addition the companion gains the Battle Companion talent as its 1st level bonus talent.
+When gaining this companion, the Ranger selects either Arachnid, Avian, Beast, or Serpent; once chosen the Ranger is treated as having the selected form talent for the purposes of determining the form and traits of the companion. In addition the companion automatically gains the Animal type as its companion type. The companion gains these types and form even if the ranger does not meet the prerequisites.
 
 If a ranger releases her companion from service or her animal companion perishes, she may gain a new one by performing a ceremony requiring 16 uninterrupted hours usually in prayer or performing a ritual in the environment where the new companion typically lives.
 
-While companions can take many forms a ranger’s animal companion should usually have a form similar to that of a non-magical animal (wolf, tiger, hawk, horse, etc..) though the GM may allow for other creatures. If the setting would allow the GM may allow a Ranger to take the Aquatic companion type but must treat it as an Aquatic Animal (with the reduced Intelligence); in addition if Aquatic Companion is chose add Aquatic Being to the list of Animal Focus the ranger may select.
+While companions can take many forms a ranger’s animal companion should usually have a form similar to that of a non-magical animal (wolf, tiger, hawk, horse, etc..) though the GM may allow for other creatures. If the setting would allow the GM may allow a Ranger to take the Aquatic companion type but must treat it as an Aquatic Animal (with the reduced Intelligence) and may take the Aquatic form as its base form.
 
 ## Hunter Training (Ex)
 
@@ -83,19 +83,9 @@ For a complete listing of training see [[List of Hunter Trainings|List of Hunter
 
 ## Animal Focus (Ex)
 
-At 3rd level and every 3 levels thereafter the hunter may choose one of the following companion talents and add them to their animal companion even if the ranger does not meet any prerequisites except for any SPB requirements; if a talent may be taken more than once the ranger may select it multiple times but is still subject to any limitation to taking it an additional time (such as SPB requirements):
+At 3rd level and every 3 levels thereafter the ranger may chose a single animal focus talent allowing them to further enhance the abilities of their companion. Additional Animal Foci may be taken using the Extra Talent feat but only once per 5 Ranger levels.
 
-- Altered Size, Armored Companion, Battle Arsenal, Bloodhound, Camouflaged Companion, Empowered Companion, Improved Limbs, Martial Companion, Mount, Versatile Companion, Poisonous Strikes, Work Animal
-
-At 6th level the ranger adds the following talents to the list of talents their companion may select:
-
-- Quick Companion, Superior Senses, Variable Size(Requires Altered Size).
-
-At 12th level the ranger may choose one of the following in place of the other talents:
-
-- Your companion gains the elemental creature companion talent as a bonus talent of any element of your choice.
-- Your companion gains the draconic companion talent as a bonus talent of any element of your choice.
-- Your companion gains the Alpha Predator Presence talent as a bonus talent.
+For a complete list of Foci see [[List of Animal Foci|List of Animal Foci]]
 
 ## Hawkeye (Ex)
 
@@ -129,7 +119,7 @@ At 13th, the ranger learns to put greater focus into himself or his companion ch
 At 17th, the ranger has set their sights upon creatures of legend and greater beings as the target of their hunts. As such the ranger must bring their power to new heights to take on such legends. The ranger choses one of the following:
 
 - Legendary Companion: Your companion gains the following:
-    - Your companion gains variable size and altered size as a bonus companion talents and altered size may allow a companion to become colossal rather than gargantuan. If you already possess these talents or would gain them later you instead reduce the AP cost of variable size by 1 for each of these talents (minimum 1 AP).
+    - Your companion gains Altered size as a bonus Animal Foci. If the ranger has already selected this Animal Foci or later gains it, the Size Change trait may now allow a companion to grow up to colossal or be reduced to Fine sized.
     - Your companion gains a second companion type in addition to the animal companion type gaining all the benefits and detriments of this new type.
 - The ranger may target a number of creatures up to his Focus modifier with his aim ability as part of a single use of aim each turn and his Aim ability now lasts until the end of his next turn. In addition the ranger may treat any creature he attacks targeted by his aim ability as having any elemental resistance, natural armor,  DR a creature possesses as 1 lower for every 10 ranger levels he possesses.
 
