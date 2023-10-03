@@ -2,16 +2,4 @@
 share: true
 title: Items
 ---
-This page details the various types of items available to a character in the Niche d20 system.
-
-- [[Weapons|Weapons]]
-- [[Armor and Shields|Armor and Shields]]
-- [[Special Materials|Special Materials]]
-- [[Masterwork Equipment|Masterwork Equipment]]
-- [[Item Enhancement|Item Enhancement]]
-- [[Alchemical Items|Alchemical Items]]
-- [[Mundane Items|Mundane Items]]
-- [[Poisons|Poisons]]
-- [[Potions|Potions]]
-- [[Magic Items|Magic Items]]
-- [[Drugs|Drugs]]
+Niche D20 includes various types of items, from wielded weapons, wearable items, and consumable items. In addition rules and descriptions on Item Enhancement, Masterwork Equipment, and even Special Materials (primarily for further enhancing and customizing weapons and armor) are listed in this section.
