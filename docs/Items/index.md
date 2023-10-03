@@ -11,6 +11,7 @@ This page details the various types of items available to a character in the Nic
 - [[Item Enhancement|Item Enhancement]]
 - [[Alchemical Items|Alchemical Items]]
 - [[Mundane Items|Mundane Items]]
+- [[Poisons|Poisons]]
 - [[Potions|Potions]]
 - [[Magic Items|Magic Items]]
 - [[Drugs|Drugs]]
