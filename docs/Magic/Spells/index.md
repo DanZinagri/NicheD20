@@ -3,6 +3,18 @@ share: true
 title: Spells
 ---
 
+<pre class="dataview dataview-error">Evaluation Error: TypeError: Cannot read properties of undefined (reading 'childNodes')
+    at do_foldable_contents (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:17:24)
+    at make_foldable (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:51:3)
+    at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:54:1)
+    at DataviewInlineApi.eval (plugin:dataview:18619:16)
+    at evalInContext (plugin:dataview:18620:7)
+    at asyncEvalInContext (plugin:dataview:18630:32)
+    at DataviewJSRenderer.render (plugin:dataview:18651:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18241:14)
+    at e.load (app://obsidian.md/app.js:1:715707)
+    at DataviewApi.executeJs (plugin:dataview:19179:18)</pre>
+
 This page lists the various spells into tables, organized by affinity. Some spells may fall under multiple categories for affinity. Details of the spell and related talents are located on their individual pages.
 
 ## Air (Essence) Affinity Spells
