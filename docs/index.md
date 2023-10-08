@@ -8,13 +8,14 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 
 ## New:
 
-- Migration from Old Wiki
-- New Domain for website
-- Conversion of Old Systems
+- Migration from Old Wiki & New Domain for website
 - Rewrite of the Companion Rules
+- Barbarian and Ranger update to fit new rules.
 - Addition of Forgery, Writing, and Encryption rules as well as a ritual to adjust this.
 
 ## Next Planned Updates:
 
 - Additional spells, rituals, and magic items.
 - Harpy Race
+- Minor rework of Discipline Feats
+- Rework of the Advanced Classes to new rules
