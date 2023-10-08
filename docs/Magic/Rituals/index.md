@@ -27,20 +27,20 @@ Creatures with ranks in use magic device may substitute their ranks for the BCB 
 The creature must still make a DC 15 UMD check to emulate any missing affinity talents a ritual may require. When a ritual calls for a SPB check, the caster may substitute their SPB with their ranks in Use Magic Device. If a ritual calls for CAM you may use your associated ability score (usually charisma) for use magic device instead.
 
 # List of Rituals
-| Ritual                                                       | Component Cost                  | Cost      | Keywords               |
-| ------------------------------------------------------------ | ------------------------------- | --------- | ---------------------- |
-| [Alter Corpse](Magic Rules/Rituals/Alter Corpse)             | 15 gp                           | 250 gp    | Necromancy             |
-| [Clairvoyance](Magic Rules/Rituals/Clairvoyance)             | 150 gp                          | 2.000 gp  | Divination             |
-| [Cleanse Disease](Magic Rules/Rituals/Cleanse Disease)       | 500gp + (100gp x DC of disease) | 3,400 gp  | Healing                |
-| [Detect Impurity](Magic Rules/Rituals/Detect Impurity)       | 1,000 gp                        | 2,500 gp  | Divination             |
-| [Greater Teleport](Magic Rules/Rituals/Greater Teleport)     | 8,000 gp                        | 50,000 gp | Rift                   |
-| [Magical Encryption](Magic Rules/Rituals/Magical Encryption) | 10 gp (Varies)                  | 200 gp    | Transmutation          |
-| [Overland Flight](Magic Rules/Rituals/Overland Flight)       | 1,800 gp                        | 5,000 GP  | Wind                   |
-| [Plane Shift](Magic Rules/Rituals/Plane Shift)               | 1,500 gp                        | 8,000 gp  | Rift                   |
-| [Recall](Magic Rules/Rituals/Recall)                         | 5,000 gp                        | 20,000 gp | Rift                   |
-| [Remove Curse](Magic Rules/Rituals/Remove Curse)             | 2,500 gp                        | 4,550 gp  | Healing                |
-| [Renew Life](Magic Rules/Rituals/Renew Life)                 | 550 gp                          | 1,750 gp  | Healing                |
-| [Resurrection](Magic Rules/Rituals/Resurrection)             | 12,250 gp                       | 35,550 gp | Healing                |
-| [Speak With Dead](Magic Rules/Rituals/Speak With Dead)       | 150 gp                          | 1,250 gp  | Divination, Necromancy |
-| [Transmute Object](Magic Rules/Rituals/Transmute Object)     | 400 gp                          | 3,000 gp  | Transmutation          |
-| [Waterbreathing](Magic Rules/Rituals/Waterbreathing)         | 200 gp                          | 2,500 gp  | Transmutation          |
+| Ritual                                   | Component Cost                  | Cost      | Keywords               |
+| ---------------------------------------- | ------------------------------- | --------- | ---------------------- |
+| [Alter Corpse](Alter Corpse)             | 15 gp                           | 250 gp    | Necromancy             |
+| [Clairvoyance](Clairvoyance)             | 150 gp                          | 2.000 gp  | Divination             |
+| [Cleanse Disease](Cleanse Disease)       | 500gp + (100gp x DC of disease) | 3,400 gp  | Healing                |
+| [Detect Impurity](Detect Impurity)       | 1,000 gp                        | 2,500 gp  | Divination             |
+| [Greater Teleport](Greater Teleport)     | 8,000 gp                        | 50,000 gp | Rift                   |
+| [Magical Encryption](Magical Encryption) | 10 gp (Varies)                  | 200 gp    | Transmutation          |
+| [Overland Flight](Overland Flight)       | 1,800 gp                        | 5,000 GP  | Wind                   |
+| [Plane Shift](Plane Shift)               | 1,500 gp                        | 8,000 gp  | Rift                   |
+| [Recall](Recall)                         | 5,000 gp                        | 20,000 gp | Rift                   |
+| [Remove Curse](Remove Curse)             | 2,500 gp                        | 4,550 gp  | Healing                |
+| [Renew Life](Renew Life)                 | 550 gp                          | 1,750 gp  | Healing                |
+| [Resurrection](Resurrection)             | 12,250 gp                       | 35,550 gp | Healing                |
+| [Speak With Dead](Speak With Dead)       | 150 gp                          | 1,250 gp  | Divination, Necromancy |
+| [Transmute Object](Transmute Object)     | 400 gp                          | 3,000 gp  | Transmutation          |
+| [Waterbreathing](Waterbreathing)         | 200 gp                          | 2,500 gp  | Transmutation          |
