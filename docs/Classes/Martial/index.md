@@ -12,10 +12,15 @@ Martial Prowess Bonus is the count of all levels in classes with the stamina cla
 
 | Class                                         | HitDie | BAB  | Type    |
 | --------------------------------------------- | ------ | ---- | ------- |
-| [Rogue](/Classes/Martial/Rogue)               | d10    | 0.75 | Martial |
-| [Ranger](/Classes/Martial/Ranger)             | d10    | 0.75 | Martial |
-| [Fighter](/Classes/Martial/Fighter)           | d12    | 1    | Martial |
 | [Blade Binder](/Classes/Martial/Blade Binder) | d12    | 1    | Martial |
+| [Fighter](/Classes/Martial/Fighter)           | d12    | 1    | Martial |
+| [Ranger](/Classes/Martial/Ranger)             | d10    | 0.75 | Martial |
+| [Rogue](/Classes/Martial/Rogue)               | d10    | 0.75 | Martial |
 | [Barbarian](/Classes/Martial/Barbarian)       | d12    | 1    | Martial |
 
 
+## List of Advanced Martial Classes
+
+| Class                                                     | HitDie | BAB | Type    | Prerequisites               |
+| --------------------------------------------------------- | ------ | --- | ------- | --------------------------- |
+| [Frenzied Berserker](/Classes/Martial/Frenzied Berserker) | d12    | 1   | Martial | Barbarian 8th, Power Stance |
