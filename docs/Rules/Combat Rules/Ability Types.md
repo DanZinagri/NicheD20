@@ -1,12 +1,14 @@
 ---
 share: true
 ---
-Special abilities and class features usually have an associated type between Supernatural or Extraordinary. These determine any potential restrictions such as anti-magic affecting them or not.
+Special abilities and class features usually have an associated type such as Ki. These determine any potential restrictions such as anti-magic affecting them or not. If no type is specified it is assumed the ability is a non-magical or non-ki ability.
 
-## Supernatural Abilities (Su)
+## Ki (Ki)
 
-Supernatural abilities are abilities that are magical or pull from an outside force. While these abilities do not require concentration to use they do not function within areas where magic is suppressed or negated, but are not subject to spell resistance.  
+Ki abilities are abilities that pull from a otherworldly and supernatural forces beyond the limits of what can normally be achieved. These ablities do not function within areas where magic is suppressed or negated. These are not otherwise treated as spells or other magical abilities for the purposes of concentration, spell resistance, or other effects relating to spells.  
+## Natural Magic (Na)
 
-## Extraordinary Abilities (Ex)
+See [[Natural Magic|Natural Magic]] for more information on how a natural spell works. These abilities usually function similar to spells, except the stated differences on the [[Natural Magic|Natural Magic]] rules page, and as such are affected by areas where magic is suppressed and negated. These are only affected by spell resistance if the spell they are emulating would also being affected by spell resistance.
+## Spellcasting (Sp)
 
-Extraordinary abilities are non-magical in nature, but allow a creature to perform great feats within or beyond the limits of the mundane. These abilities usually do not require concentration nor are they affected by anything that would suppress or negate magical effects.
+Unless otherwise specified this primarily only applies to spells cast through the casting granted by magic and hybrid classes. This is defined to properly differentiate these types of spells from Natural Magic and Ki abilities, and are otherwise subject to all rules and restrictions attributed to magic.

@@ -9,6 +9,7 @@ This site is a reference for the system for the Niche D20 Tabletop Roleplaying G
 ## New:
 
 - Migration from Old Wiki & New Domain for website
+- Rework of Character Advancement and Maximum level of classes.
 - Rewrite of the Companion Rules
 - Barbarian and Ranger update to fit new rules.
 - Addition of Forgery, Writing, and Encryption rules as well as a ritual to adjust this.
