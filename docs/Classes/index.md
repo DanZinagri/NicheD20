@@ -4,6 +4,8 @@ title: Classes
 ---
 This page links to the various classes in the NicheD20 system:
 
+## Base Classes
+
 | Class                                         | HitDie | BAB  | BCB  | Type    |
 | --------------------------------------------- | ------ | ---- | ---- | ------- |
 | [Battlemage](/Classes/Hybrid/Battlemage)      | d12    | 1    | 0.5  | Hybrid  |
@@ -18,3 +20,9 @@ This page links to the various classes in the NicheD20 system:
 | [Ranger](/Classes/Martial/Ranger)             | d10    | 0.75 | \-   | Martial |
 | [Rogue](/Classes/Martial/Rogue)               | d10    | 0.75 | \-   | Martial |
 
+
+## Advanced Classes
+
+| Class                                                     | HitDie | BAB | Type    | Prerequisites               |
+| --------------------------------------------------------- | ------ | --- | ------- | --------------------------- |
+| [Frenzied Berserker](/Classes/Martial/Frenzied Berserker) | d12    | 1   | Martial | Barbarian 8th, Power Stance |
