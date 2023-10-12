@@ -13,6 +13,7 @@ Prerequisites: Barbarian 8th, Power Stance
 # Class Details
 Hit Die:  d12
 Type: Martial
+Prerequisites: Barbarian 8th, Power Stance
 
 | Level | Base Attack Bonus | Base Defense Bonus | Special                                                |
 | ----- | ----------------- | ------------------ | ------------------------------------------------------ |
