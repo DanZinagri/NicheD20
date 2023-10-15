@@ -1,6 +1,6 @@
 ---
 share: true
-title: Primal Chieftain Talents
+title: Steel Savage Talents
 ---
 This page lists the talents available to the Steel Savage class.
 

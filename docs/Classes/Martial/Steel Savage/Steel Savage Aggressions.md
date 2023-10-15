@@ -1,6 +1,6 @@
 ---
 share: true
-title: Primal Chieftain Aggressions
+title: Steel Savage Aggressions
 ---
 This page lists both Aggressions available to a Barbarian as well as those available to the Steel Savage.
 
