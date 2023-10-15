@@ -3,7 +3,6 @@ share: true
 title: Classes
 ---
 This page links to the various classes in the NicheD20 system:
-
 ## Base Classes
 
 | Class                                         | HitDie | BAB  | BCB  | Type    |
@@ -23,7 +22,8 @@ This page links to the various classes in the NicheD20 system:
 
 ## Advanced Classes
 
-| Class                                                     | HitDie | BAB | Type    | Prerequisites                            |
-| --------------------------------------------------------- | ------ | --- | ------- | ---------------------------------------- |
-| [Frenzied Berserker](/Classes/Martial/Frenzied Berserker) | d12    | 1   | Martial | Barbarian 8th, Power Stance              |
-| [Primal Chieftain](/Classes/Martial/Primal Chieftain)     | d12    | 1   | Martial | Barbarian 8th, Tribal Bond Barbaric Bond |
+| Class                                                     | HitDie | BAB | Type    | Prerequisites                                           |
+| --------------------------------------------------------- | ------ | --- | ------- | ------------------------------------------------------- |
+| [Frenzied Berserker](/Classes/Martial/Frenzied Berserker) | d12    | 1   | Martial | Barbarian 8th, Power Stance                             |
+| [Primal Chieftain](/Classes/Martial/Primal Chieftain)     | d12    | 1   | Martial | Barbarian 8th, Tribal Bond Barbaric Bond                |
+| [Steel Savage](/Classes/Martial/Steel Savage)             | d12    | 1   | Martial | Barbarian 4th, Fighter 4th, Battle Focus Fighter Talent |
