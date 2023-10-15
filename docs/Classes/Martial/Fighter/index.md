@@ -1,11 +1,13 @@
 ---
 share: true
-tags: ['Class', 'Fighter']
-PageType: 'Class'
-HitDie: 'd12'
-Type: 'Martial'
+tags:
+  - Class
+  - Fighter
+PageType: Class
+HitDie: d12
+Type: Martial
 BAB: 1
-title: Rogue
+title: Fighter
 ---
 # Class Details:
 
