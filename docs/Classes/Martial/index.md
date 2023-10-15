@@ -21,6 +21,7 @@ Martial Prowess Bonus is the count of all levels in classes with the stamina cla
 
 ## List of Advanced Martial Classes
 
-| Class                                                     | HitDie | BAB | Type    | Prerequisites               |
-| --------------------------------------------------------- | ------ | --- | ------- | --------------------------- |
-| [Frenzied Berserker](/Classes/Martial/Frenzied Berserker) | d12    | 1   | Martial | Barbarian 8th, Power Stance |
+| Class                                                     | HitDie | BAB | Type    | Prerequisites                            |
+| --------------------------------------------------------- | ------ | --- | ------- | ---------------------------------------- |
+| [Frenzied Berserker](/Classes/Martial/Frenzied Berserker) | d12    | 1   | Martial | Barbarian 8th, Power Stance              |
+| [Primal Chieftain](/Classes/Martial/Primal Chieftain)     | d12    | 1   | Martial | Barbarian 8th, Tribal Bond Barbaric Bond |
