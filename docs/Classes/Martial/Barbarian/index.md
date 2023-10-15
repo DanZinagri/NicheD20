@@ -65,7 +65,6 @@ At 2nd level, the barbarian’s body has hardened from past battles gaining a +1
 While a barbarian may not have a graceful approach to problems, a barbarian still grows as a combatant as he gains levels, learning additional tricks and techniques. At 2nd level the barbarian gains access to Barbarian Talents when selecting class talents.
 
 For a complete listing of barbaric paths see Table: [[Barbarian Talents|Barbarian Talents]].
-
 ## Fury
 
 At 3rd level a barbarian learns to channel his rage in new and destructive ways. While raging the barbarian gains a pool of fury equal to his 1+Endurance modifier (minimum 2). This pool empties at the end of a rage and fills each time the barbarian enters a new rage. The barbarian may spend 1 stamina as a move action on his turn to refill his Fury pool without requiring him to enter a new rage.

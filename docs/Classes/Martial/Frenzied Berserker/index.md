@@ -41,7 +41,7 @@ At 1st level, a Frenzied Berserker gains access to a pool of <a href="/Rules/Com
 
 At 1st level, The Frenzied Berserker learns to throw caution to the wind, choosing to explore the depths of your rage. While raging and in power stance you gain an additional +1 to damage for every -1 penalty you take on your attack rolls with power stance (this is added to the damage of power stance before it is increased by an additional 50% for a weapon in 2h or a 1-1/2x Str damage weapon)
 
-In addition, you treat your levels in Frenzied Berserker as Barbarian levels for the purposes of determining the bonuses and effects of your Barbarian Rage class feature.
+In addition, he may treat his levels in Frenzied Berserker as Barbarian levels for the purposes of determining the bonuses and effects of your Barbarian Rage class feature.
 ## Berserker's Vitality
 
 At 1st level, the Frenzied Berserker may treat their levels in Frenzied Berserker as Barbarian levels for the purposes of determining the bonuses and effects of their Barbaric Vitality class feature.
