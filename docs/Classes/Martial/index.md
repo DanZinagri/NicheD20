@@ -2,7 +2,7 @@
 share: true
 title: Martial
 ---
-Unlike magic classes that have a spell point pool; martial classes possess a <a href="/Combat%20Rules/Combat%20Statistics/#stamina">stamina</a> pool.
+Unlike magic classes that have a spell point pool; martial classes possess a <a href="/Rules/Combat%20Rules/Combat%20Statistics/#stamina">stamina</a> pool.
 
 ## Martial Prowess Bonus (MPB)
 
@@ -25,3 +25,5 @@ Martial Prowess Bonus is the count of all levels in classes with the stamina cla
 | [Frenzied Berserker](/Classes/Martial/Frenzied Berserker) | d12    | 1   | Martial | Barbarian 8th, Power Stance                             |
 | [Primal Chieftain](/Classes/Martial/Primal Chieftain)     | d12    | 1   | Martial | Barbarian 8th, Tribal Bond Barbaric Bond                |
 | [Steel Savage](/Classes/Martial/Steel Savage)             | d12    | 1   | Martial | Barbarian 4th, Fighter 4th, Battle Focus Fighter Talent |
+| [Armor Master](/Classes/Martial/Armor Master)             | d12    | 1   | Martial | Fighter 8th                                             |
+| [Weapon Master](/Classes/Martial/Weapon Master)           | d12    | 1   | Martial | Fighter 8th                                             |
