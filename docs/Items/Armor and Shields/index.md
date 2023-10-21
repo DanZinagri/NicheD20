@@ -5,63 +5,74 @@ title: Armor and Shields
 # Armor
 ## Simple Armor
 ### Light Armor
-| Name                             | Cost  | Armor Bonus | Strength Rating | Weight | Special                   | Keywords |
-| -------------------------------- | ----- | ----------- | --------------- | ------ | ------------------------- | -------- |
-| [[Hide Armor\|Hide Armor]]       | 15 gp | 4           | 2               | 20 lb  | Natural                   | Light    |
-| [[Leather Armor\|Leather Armor]] | 10 gp | 2           | 0               | 12 lb  | Natural                   | Light    |
-| [[Padded Shirt\|Padded Shirt]]   | 1 gp  | 1           | 0               | 1 lb   | Impact Absorbing, Natural | Light    |
+| Name              | Cost  | Armor Bonus | Strength Rating | Weight | Special                   | Keywords |
+| ----------------- | ----- | ----------- | --------------- | ------ | ------------------------- | -------- |
+| [[Hide Armor|Hide Armor]]    | 15 gp | 4           | 2               | 20 lb  | Natural                   | Light    |
+| [[Leather Armor|Leather Armor]] | 10 gp | 2           | 0               | 12 lb  | Natural                   | Light    |
+| [[Padded Shirt|Padded Shirt]]  | 1 gp  | 1           | 0               | 1 lb   | Impact Absorbing, Natural | Light    |
 
 ### Heavy Armor
-| Name                         | Cost   | Armor Bonus | Strength Rating | Weight | Special       | Keywords |
-| ---------------------------- | ------ | ----------- | --------------- | ------ | ------------- | -------- |
-| [[Banded Mail\|Banded Mail]] | 250 gp | 8           | 6               | 40 lb  | Strong, Metal | Heavy    |
-| [[Lamellar\|Lamellar]]       | 100 gp | 8           | 5               | 35 lb  | Metal         | Heavy    |
+| Name            | Cost   | Armor Bonus | Strength Rating | Weight | Special       | Keywords |
+| --------------- | ------ | ----------- | --------------- | ------ | ------------- | -------- |
+| [[Banded Mail|Banded Mail]] | 250 gp | 8           | 6               | 40 lb  | Strong, Metal | Heavy    |
+| [[Lamellar|Lamellar]]    | 100 gp | 8           | 5               | 35 lb  | Metal         | Heavy    |
 
 ## Martial Armor
 ### Light Armor
-| Name                                 | Cost   | Armor Bonus | Strength Rating | Weight | Special                                | Keywords |
-| ------------------------------------ | ------ | ----------- | --------------- | ------ | -------------------------------------- | -------- |
-| [[Breastplate\|Breastplate]]         | 200 gp | 6           | 4               | 25 lb  | Vital-Guard, Weather Ready(Hot), Metal | Light    |
-| [[Chain Shirt\|Chain Shirt]]         | 110 gp | 4           | 1               | 18 lb  | Nimble, Metal                          | Light    |
-| [[Studded Leather\|Studded Leather]] | 30 gp  | 2           | 0               | 12 lb  | Double-Plated, Strong, Natural         | Light    |
+| Name                | Cost   | Armor Bonus | Strength Rating | Weight | Special                                | Keywords |
+| ------------------- | ------ | ----------- | --------------- | ------ | -------------------------------------- | -------- |
+| [[Breastplate|Breastplate]]     | 200 gp | 6           | 4               | 25 lb  | Vital-Guard, Weather Ready(Hot), Metal | Light    |
+| [[Chain Shirt|Chain Shirt]]     | 110 gp | 4           | 1               | 18 lb  | Nimble, Metal                          | Light    |
+| [[Studded Leather|Studded Leather]] | 30 gp  | 2           | 0               | 12 lb  | Double-Plated, Strong, Natural         | Light    |
 
 ### Heavy Armor
-| Name                       | Cost    | Armor Bonus | Strength Rating | Weight | Special                    | Keywords |
-| -------------------------- | ------- | ----------- | --------------- | ------ | -------------------------- | -------- |
-| [[Chainmail\|Chainmail]]   | 200 gp  | 8           | 5               | 35 lb  | Vital-Guard, Strong, Metal | Heavy    |
-| [[Full Plate\|Full Plate]] | 1500 gp | 10          | 6               | 50 lb  | Double-Plated, Metal       | Heavy    |
+| Name           | Cost    | Armor Bonus | Strength Rating | Weight | Special                    | Keywords |
+| -------------- | ------- | ----------- | --------------- | ------ | -------------------------- | -------- |
+| [[Chainmail|Chainmail]]  | 200 gp  | 8           | 5               | 35 lb  | Vital-Guard, Strong, Metal | Heavy    |
+| [[Full Plate|Full Plate]] | 1500 gp | 10          | 6               | 50 lb  | Double-Plated, Metal       | Heavy    |
 
 ## Exotic Armor
 
 ### Light Armor
-| Name                                   | Cost   | Armor Bonus | Strength Rating | Weight | Special                                       | Keywords |
-| -------------------------------------- | ------ | ----------- | --------------- | ------ | --------------------------------------------- | -------- |
-| [[Armored Coat\|Armored Coat]]         | 150 gp | 6           | 3               | 22 lb  | Nimble, Quick Don, Weather Ready(Cold), Metal | Light    |
-| [[Spider Silk Suit\|Spider Silk Suit]] | 200 gp | 4           | 0               | 5 lb   | Nimble, Strong, Natural                       | Light    |
+| Name                 | Cost   | Armor Bonus | Strength Rating | Weight | Special                                       | Keywords |
+| -------------------- | ------ | ----------- | --------------- | ------ | --------------------------------------------- | -------- |
+| [[Armored Coat|Armored Coat]]     | 150 gp | 6           | 3               | 22 lb  | Nimble, Quick Don, Weather Ready(Cold), Metal | Light    |
+| [[Spider Silk Suit|Spider Silk Suit]] | 200 gp | 4           | 0               | 5 lb   | Nimble, Strong, Natural                       | Light    |
 
 ### Heavy Armor
-| Name                               | Cost    | Armor Bonus | Strength Rating | Weight | Special                           | Keywords |
-| ---------------------------------- | ------- | ----------- | --------------- | ------ | --------------------------------- | -------- |
-| [[Fortress Plate\|Fortress Plate]] | 2400 gp | 13          | 9               | 95 lb  | Double-Plated, Vital-Guard, Metal | Heavy    |
-| [[Tatami-do\|Tatami-do]]           | 1000 gp | 8           | 4               | 35 lb  | Nimble, Deflecting, Metal         | Heavy    |
+| Name               | Cost    | Armor Bonus | Strength Rating | Weight | Special                           | Keywords |
+| ------------------ | ------- | ----------- | --------------- | ------ | --------------------------------- | -------- |
+| [[Fortress Plate|Fortress Plate]] | 2400 gp | 13          | 9               | 95 lb  | Double-Plated, Vital-Guard, Metal | Heavy    |
+| [[Tatami-do|Tatami-do]]      | 1000 gp | 8           | 4               | 35 lb  | Nimble, Deflecting, Metal         | Heavy    |
 
 # Shields
-| Name                                           | Shield Bonus | Strength Rating | Proficiency |
-| ---------------------------------------------- | ------------ | --------------- | ----------- |
-| [[Buckler\|Buckler]]                           | 1            | 0               | Simple      |
-| [[Spiked Buckler\|Spiked Buckler]]             | 1            | 0               | Simple      |
-| [[Light Shield\|Light Shield]]                 | 2            | 1               | Martial     |
-| [[Light Spiked Shield\|Light Spiked Shield]]   | 2            | 1               | Martial     |
-| [[Heavy Shield\|Heavy Shield]]                 | 3            | 2               | Martial     |
-| [[Heavy Spiked Shield\|Heavy Spiked Shield]]   | 3            | 2               | Martial     |
-| [[Ringing Shield\|Ringing Shield]]             | 3            | 2               | Martial     |
-| [[Tower Shield\|Tower Shield]]                 | 5            | 4               | Exotic      |
-| [[Tower Shield, Spiked\|Tower Shield, Spiked]] | 5            | 4               | Exotic      |
+| Name                     | Shield Bonus | Strength Rating | Proficiency |
+| ------------------------ | ------------ | --------------- | ----------- |
+| [[Buckler|Buckler]]              | 1            | 0               | Simple      |
+| [[Spiked Buckler|Spiked Buckler]]       | 1            | 0               | Simple      |
+| [[Light Shield|Light Shield]]         | 2            | 1               | Martial     |
+| [[Light Spiked Shield|Light Spiked Shield]]  | 2            | 1               | Martial     |
+| [[Heavy Shield|Heavy Shield]]         | 3            | 2               | Martial     |
+| [[Heavy Spiked Shield|Heavy Spiked Shield]]  | 3            | 2               | Martial     |
+| [[Ringing Shield|Ringing Shield]]       | 3            | 2               | Martial     |
+| [[Tower Shield|Tower Shield]]         | 5            | 4               | Exotic      |
+| [[Tower Shield, Spiked|Tower Shield, Spiked]] | 5            | 4               | Exotic      |
 
 
 # Armor Rules
 
 For most, armor is the simplest way to protect oneself in a world of rampant threats and dangers. Many characters can wear only the simplest of armors, and only some can use shields. To wear heavier armor effectively, a character can select the Armor Proficiency feats, but most classes are automatically proficient with the armors that work best for them. Armor comes in two weight classes and three proficiency categories. The weight classes are Light and Heavy, which are outlined in the Armor Keywords section. Proficiencies work similar to armor with simple, martial, and exotic variants of armor; with simple being the most commonly accessible to classes and exotic usually requiring a character to choose to gain proficiency on their own.
+
+## Donning Armor
+
+To don, or equip, oneself with armor the creature wearing the armor must spend the time required to properly equip themselves. Some exceptions may exist such as the Armored coat which are designed to be able to be quickly donned instead of the usual methods. It is usually assumed a full set of armor is boots, bracers, some sort of chest armor, and possibly a helmet, each with their own set of buckles, straps, and other such things to keep the armor securely in place.
+
+Light Armor requires 1 minute to properly equip, though can be hastily donned in 5 rounds.
+Heavy Armor requires 8 minutes to properly equip; or 4 minutes to don hastily. Donning armor assumes the character spends at least 4 AP each round on donning the armor; allowing them 1 AP to use on other tasks such as shifting 5 feet each round as to continue to don the armor.
+
+Hastily donned armor provides 1 lower AC bonus for both the protection it provides to AC as well as its capability to redirect damage with armor redirection. 
+
+A creature may receive help from another creature to further hasten the process, reducing the hastily-donned time by half. The assisting creature must spend 4 AP each round to assist. Only two creatures can assist in donning armor, this includes the wearer of the armor if they are assisting, two creatures other than the wearer can assist donning the armor if the wearer takes no actions for the duration of the creatures assisting donning their armor for them. 
 
 ## Cost
 
