@@ -72,7 +72,9 @@ Heavy Armor requires 8 minutes to properly equip; or 4 minutes to don hastily. D
 
 Hastily donned armor provides 1 lower AC bonus for both the protection it provides to AC as well as its capability to redirect damage with armor redirection. 
 
-A creature may receive help from another creature to further hasten the process, reducing the hastily-donned time by half. The assisting creature must spend 4 AP each round to assist. Only two creatures can assist in donning armor, this includes the wearer of the armor if they are assisting, two creatures other than the wearer can assist donning the armor if the wearer takes no actions for the duration of the creatures assisting donning their armor for them. 
+A creature may receive help from another creature to further hasten the process, reducing the hastily-donned time by half. The assisting creature must spend 4 AP each round to assist. Only two creatures can assist in donning armor, this includes the wearer of the armor if they are assisting, two creatures other than the wearer can assist donning the armor if the wearer takes no actions for the duration of the creatures assisting donning their armor for them.
+
+Removing armor requires the amount of time to hastily don the armor to remove.
 
 ## Cost
 
