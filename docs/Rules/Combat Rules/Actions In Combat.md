@@ -157,7 +157,7 @@ Many spells require 4 AP to cast; however, some may have lower or higher AP cost
 
 Actions with a base cost beyond the maximum action points per turn cannot be completed in a single turn and instead must be completed over multiple turns.
 
-If an action would require a base cost of 6 or more AP the action instead will cost the full 5 AP on your turn to begin performing. Once the creature’s next turn begins they must spend their available AP on this action, spending any remaining AP to complete this action or be forced to wait another turn to complete the action (such as an action with a base cost of 11 would take 2 rounds plus one AP on the 3rd). AP cannot be spent on other actions before this action completes. Once the total AP spent between turns equals out to the AP required for the action, the action then occurs.
+If an action would require a base cost of 6 or more AP the action instead will cost the full 5 AP on your turn to begin performing. Once the creature’s next turn begins they must spend their available AP on this action, spending the AP required to complete this action until they have spent enough to complete the action (such as an action with a base cost of 11 would take 2 rounds of spending 5 AP plus 1 AP at the start of their turn on the 3rd). AP cannot be spent on other actions before this action completes. Once the total AP spent between turns equals out to the AP required for the action, the action then occurs.
 
 For example a 7 AP action would require 5 AP on the first turn to begin, and at the start of their next turn they must then spend 2 of their 5 available AP to finish the action allowing the effect to occur.
 

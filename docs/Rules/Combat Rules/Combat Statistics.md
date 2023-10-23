@@ -170,15 +170,9 @@ If a creature has damage reduction from more than one source, the two forms of d
 
 ### Damage Types
 
-#### Physical Damage
+Damage is usually either Physical Damage or Elemental damage. The damage type is usually important for determining the interaction with a creature's defense and resistances either in the form of DR or Resist they may possess; though other special interactions may exist.
 
-Physical damage is any damage of Piercing, Slashing, or Bludgeoning damage. Physical damage is generally affected by DR but not Resist that a creature possesses.
-
-#### Elemental Damage
-
-Elemental damage is separate from physical damage as it is much more varied in type, but also is affected by the resist that a creature possesses.
-
-Elemental damage is usually Nature, Decay, Fire, Cold, Void, or Acid damage. Not all elements deal elemental damage and may be more closely associated with physical damage types, but usually each element, affinity, and spell will detail what type of damage it does.
+See the [[Damage Types|Damage Types]] rule page for more detailed information on each damage type.
 
 ### Strength Bonus
 
