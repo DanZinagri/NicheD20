@@ -11,9 +11,9 @@ Martial Prowess Bonus is the count of all levels in classes with the stamina cla
 
 | Class                                         | HitDie | BAB  | Type    |
 | --------------------------------------------- | ------ | ---- | ------- |
-| [Blade Binder](/Classes/Martial/Blade Binder) | d12    | 1    | Martial |
-| [Ranger](/Classes/Martial/Ranger)             | d10    | 0.75 | Martial |
 | [Rogue](/Classes/Martial/Rogue)               | d10    | 0.75 | Martial |
+| [Ranger](/Classes/Martial/Ranger)             | d10    | 0.75 | Martial |
+| [Blade Binder](/Classes/Martial/Blade Binder) | d12    | 1    | Martial |
 | [Barbarian](/Classes/Martial/Barbarian)       | d12    | 1    | Martial |
 | [Fighter](/Classes/Martial/Fighter)           | d12    | 1    | Martial |
 
@@ -22,8 +22,8 @@ Martial Prowess Bonus is the count of all levels in classes with the stamina cla
 
 | Class                                                     | HitDie | BAB | Type    | Prerequisites                                           |
 | --------------------------------------------------------- | ------ | --- | ------- | ------------------------------------------------------- |
-| [Frenzied Berserker](/Classes/Martial/Frenzied Berserker) | d12    | 1   | Martial | Barbarian 8th, Power Stance                             |
-| [Primal Chieftain](/Classes/Martial/Primal Chieftain)     | d12    | 1   | Martial | Barbarian 8th, Tribal Bond Barbaric Bond                |
 | [Steel Savage](/Classes/Martial/Steel Savage)             | d12    | 1   | Martial | Barbarian 4th, Fighter 4th, Battle Focus Fighter Talent |
-| [Armor Master](/Classes/Martial/Armor Master)             | d12    | 1   | Martial | Fighter 8th                                             |
-| [Weapon Master](/Classes/Martial/Weapon Master)           | d12    | 1   | Martial | Fighter 8th                                             |
+| [Primal Chieftain](/Classes/Martial/Primal Chieftain)     | d12    | 1   | Martial | Barbarian 8th, Tribal Bond Barbaric Bond                |
+| [Frenzied Berserker](/Classes/Martial/Frenzied Berserker) | d12    | 1   | Martial | Barbarian 8th, Power Stance                             |
+| [Armor Master](/Classes/Martial/Armor Master)             | d12    | 1   | Martial | Fighter 3rd, BAB +8                                     |
+| [Weapon Master](/Classes/Martial/Weapon Master)           | d12    | 1   | Martial | Fighter 5th, BAB +8                                     |
