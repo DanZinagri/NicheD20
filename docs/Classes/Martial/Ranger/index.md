@@ -15,25 +15,15 @@ Type: Martial
 |Level|Base Attack Bonus|Base Defense Bonus|Special|
 |---|---|---|---|
 |1st|+0|+0|Stamina, Ranger’s Precision, Aim, Animal Companion, Tracker’s Training|
-|2nd|+1|+0|Hunter Training|
-|3rd|+2|+1|Animal Focus|
-|4th|+3|+1|Hunter Training|
-|5th|+3|+1|Aim II, Hawkeye(5ft)|
-|6th|+4|+2|Hunter Training, Animal Focus|
-|7th|+5|+2|Hunter’s Command|
-|8th|+6|+3|Hunter Training|
-|9th|+6|+3|Animal Focus|
-|10th|+7|+3|Aim III, Hawkeye(10ft), Hunter Training|
-|11th|+8|+4|Slayer Techniques|
-|12th|+9|+4|Hunter Training, Animal Focus|
-|13th|+9|+4|Slayer Techniques, Greater Focus|
-|14th|+10|+5|Hunter Training|
-|15th|+11|+5|Aim IV, Hawkeye(15ft). Animal Focus, Slayer Techniques|
-|16th|+12|+6|Hunter Training|
-|17th|+12|+6|Slayer Techniques, Legend Hunter|
-|18th|+13|+6|Hunter Training, Animal Focus|
-|19th|+14|+7|Slayer Techniques|
-|20th|+15|+7|Master of the Hunt, Hawkeye(20ft), Hunter Training|
+|2nd|+1|+0|Ranger Talents, Animal Focus|
+|3rd|+2|+1|Ranger's Mark|
+|4th|+3|+1|Animal Focus|
+|5th|+3|+1|Hunter’s Command|
+|6th|+4|+2|Animal Focus|
+|7th|+5|+2|Hunter's Mark|
+|8th|+6|+3|Animal Focus|
+|9th|+6|+3|Hawkeye|
+|10th|+7|+3|Deadeye Shot, Animal Focus|
 
 # Class Features
 
@@ -42,30 +32,23 @@ The following are class features of the ranger.
 ## Weapon and Armor Proficiency
 
 A ranger is proficient with all simple weapons and armor. If this is the character’s first level in a class he gains proficiency in all light martial armor. In addition the ranger may gain proficiency in their choice of a single martial bow keyword weapon, martial or exotic trigger keyword weapon, or thrown keyword weapons.
-
-## Stamina (Ex)
+## Stamina
 
 At 1st level, a ranger gains access to a pool of <a href="/Rules/Combat%20Rules/Combat%20Statistics/#stamina">stamina</a> points that allows her to perform feats of strength and agility. This pool contains a number of stamina points equal to his Endurance modifier plus his levels in martial classes (minimum 1). This pool replenishes once per day after a long rest.
+## Ranger’s Precision
 
-## Ranger’s Precision (Ex)
-
-If this is the character’s first level in a martial class, the ranger gains their choice of Power Stance or Precise Stance as a bonus feat.
-
-## Tracker’s Training (Ex)
+If this is the character’s first level in a martial class, the ranger gains their choice of Power Stance or Precision Stance as a bonus feat.
+## Tracker’s Training
 
 At 1st level, the ranger may select any two of the following: perception, ride, survival, stealth, or a knowledge skill; the ranger gains a +1 class bonus in the selected skills improving by an additional 1 at 4th level and levels thereafter.
+## Aim
 
-## Aim (Ex)
-
-At 1st level, the Ranger learns to focus their senses as a 2 AP action gaining a +1 insight bonus on all attack and damage rolls against a single target he can see, and treats their crit range of their weapon as 1 higher (20 becomes 19-20, 19-20 becomes 18-20, etc...). These bonuses only apply on ranged weapon attacks against this target, and last until the beginning of their next turn.
+At 1st level, the Ranger learns to focus their senses as a 2 AP action gaining a +1 insight bonus on all attack and damage rolls against a single target he can see, and treats their crit range of their weapon as 1 higher (20 becomes 19-20, 19-20 becomes 18-20, etc...). These bonuses only apply on ranged weapon attacks against this target, and last until the start of their next turn. The ranger may spend 1 stamina to reduce the AP cost of this action by 1 (minimum 0 AP).
 
 At 5th level and every 5 levels thereafter the ranger increases the insight bonus on attack and damage rolls with aim by an additional 1.
 
-At 10th level the ranger may use this ability as a reaction.
-
-At 15th level the ranger increases the critical multiplier of their weapon by 1 against the target.
-
-## Animal Companion (Ex)
+At 10th level the ranger may use this ability as a 1 AP action.
+## Animal Companion
 
 At 1st level, the Ranger forms a bond with an animal companion. It gains a companion as described on the companion page treating thier levels in ranger as SPB to determine the progression of this companion (this stacks with SPB gained from other sources for determining the progression of the companion). If any companion ability or talent would cost spell points from the caster, they instead cost an equal amount of the ranger’s stamina.
 
@@ -74,55 +57,42 @@ When gaining this companion, the Ranger selects either Arachnid, Avian, Beast, o
 If a ranger releases her companion from service or her animal companion perishes, she may gain a new one by performing a ceremony requiring 16 uninterrupted hours usually in prayer or performing a ritual in the environment where the new companion typically lives.
 
 While companions can take many forms a ranger’s animal companion should usually have a form similar to that of a non-magical animal (wolf, tiger, hawk, horse, etc..) though the GM may allow for other creatures. If the setting would allow the GM may allow a Ranger to take the Aquatic companion type but must treat it as an Aquatic Animal (with the reduced Intelligence) and may take the Aquatic form as its base form.
+## Ranger Talents
 
-## Hunter Training (Ex)
+At 2nd level the Ranger gains access to Ranger Talents when selecting class talents.
 
-At 2nd level and every 2 levels thereafter the ranger gains a hunter training that grants additional prowess in and out of combat for hunting, tracking, and slaying foes. Additional Hunter Trainings may be taken using the Extra Talent feat
+For a complete listing of Ranger Talents see [[List of Ranger Talents|List of Ranger Talents]]
+## Animal Focus
 
-For a complete listing of training see [[List of Hunter Trainings|List of Hunter Trainings]]
-
-## Animal Focus (Ex)
-
-At 3rd level and every 3 levels thereafter the ranger may chose a single animal focus talent allowing them to further enhance the abilities of their companion. Additional Animal Foci may be taken using the Extra Talent feat but only once per 5 Ranger levels.
+At 2nd level and every 2 levels thereafter the ranger may chose a single animal focus talent allowing them to further enhance the abilities of their companion.
 
 For a complete list of Foci see [[List of Animal Foci|List of Animal Foci]]
+## Ranger's Mark (Ki)
 
-## Hawkeye (Ex)
+At 3rd level, the Ranger learns to supernaturally mark his foes making it more difficult for them to escape. Once per day, when hitting a target with an attack that the Ranger has successfully used Aim on the Ranger may spend 1 stamina as a reaction to mark the target. Once marked the foe is treated as being the target of the ranger's aim ability for the duration of the mark, and the ranger gains a +5 bonus on survival checks to track the target. This mark lasts for 1 hour per Ranger level. At 9th level the ranger may use this ability an additional time per day. Additional applications of this ability on a new target immediately ends the mark on the previous target.
+## Hunter’s Command
 
-At 5th level the ranger learns to further their prowess with ranged weapons increasing the range increment of any thrown, crossbow, bow, or firearm keyword weapons by 5ft. At 10th level and every 5 thereafter the ranger gains an additional 5ft bonus to their range increment with these weapons.
-
-## Hunter’s Command (Ex)
-
-At 7th level the ranger learns to push their companion to even greater action allowing for better tactical cooperation. Each round the hunter may choose to perform one of the following actions, though each action may require a different type of action or scenario to utilize the hunter may still only perform one per round.
+At 5th level the ranger learns to push their companion to even greater action allowing for better tactical cooperation. Each round the hunter may choose to perform one of the following actions, though each action may require a different type of action or scenario to utilize the hunter may still only perform one per round.
 
 - Outflank: When your animal companion has flanking against a creature you are attacking, you may as a reaction treat your attacks until the beginning of your next turn as also having flanking against that creature even if you normally would not. If your animal companion loses flanking against the target this bonus immediately ends.
 - Reposition: Once per round as a 1 AP action you may command your animal companion causing it to move up to its speed. Your animal companion must be able to hear you and capable of moving for you to use this ability. You may use this ability an additional time per round by spending 1 stamina. This action is a bonus action for the animal companion and does not spend any additional actions for the companion.
 - Strike: Once per round as a 2 AP action you may command your animal companion to make a single attack against a creature within range of it. You may direct the animal companion to attack a specific creature you can see though the creature must be within range of the companion to attack, otherwise it will attempt to make an attack against a random hostile  creature adjacent to it. Your animal companion must be able to hear you for you to use this ability. You may spend 1 stamina to use this ability an additional time per round. This action is a bonus action for the animal companion and does not spend any additional actions for the companion.
 - Cover: When you would perform an action that would provoke an attack of opportunity while your animal companion is adjacent to you, you may once per round as a reaction direct your companion to interfere causing any attack of opportunity taken against that action to have a 50% chance to miss, but attacks that miss due to this miss chance instead target the animal companion. This benefit is only active for a single triggering action as well as only active while the animal companion remains adjacent to you. You may use this ability an additional time per round by spending 1 stamina. This action is a bonus action for the animal companion and does not spend any additional actions for the companion.
 - Frightening Howl: You may spend 1 stamina to command your companion as a 3 AP action to make a frightening howl, roar, or other aggressive or unnerving action. Roll a Knowledge(Nature) check, enemies within 30 feet of your animal companion who can hear it are subject to a demoralize attempt using your Knowledge(Nature) check as the intimidate check. This action is a bonus action for the animal companion and does not spend any additional actions for the companion.
+## Hunter's Mark
 
-## Slayer Techniques (Ex)
+At 7th level, the ranger gains further utility from their Ranger's Mark ability. Targets marked by the Ranger's Mark causes attacks against the creature made by the Ranger's allies to gain half the ranger's Aim bonus to all attack rolls against that target, though the Ranger's Animal Companion gains the full bonus to attack rolls instead of only half.
 
-At 11th, the ranger becomes more specialized as a hunter and refines their techniques becoming more than a hunter, but a slayer due to their newfound prowess. The ranger gains an additional slayer technique at 13th level and every 2 levels thereafter. If a slayer technique calls for a save attack it is made at 1d20+ ½ MPB + the ranger’s Focus modifier. The ranger may add the enhancement bonus of a wielded weapon to this save attack.
+In addition, the ranger gains additional bonuses from their Ranger's Mark. The ranger now ignores the detriments of cover and may roll twice and take the better result for any miss chance against the target. The bonus to survival checks to track the target now last 1 day per Ranger level even after the other bonuses from the Ranger's Mark have already ended. This bonus can still only affect one creature at a time, and targeting a new creature with a Ranger's Mark still immediately ends these bonuses.
+## Hawkeye
 
-For a complete listing of training see [[List of Slayer Techniques|List of Slayer Techniques]]
+At 9th level, the Ranger learns to further their prowess with ranged weapons increasing the range increment of any thrown, crossbow, bow, or firearm keyword weapons by 10ft.
+## Deadeye Shot
 
-## Greater Focus (Ex)
+At 10th level, a Ranger learns to take careful aim for a single deadly shot.
 
-At 13th, the ranger learns to put greater focus into himself or his companion choosing one of the following:
+The ranger gains Vital Strike feat as a bonus feat even if he would not meet the prerequisites; if the ranger already possesses this feat or later gains it the ranger may instead treat their base attack bonus from their ranger levels as equal to their levels in ranger for the purposes of determining the benefits of this feat, though this does not affect the attack roll made with this feat.
 
-- Deadly Aim: The ranger’s insight bonus to attack rolls from Aim improves by an additional 1 plus 1 per 5 ranger levels he possesses.
-- Greater Companion: The ranger’s level is treated as 1 higher for the purposes of determining the ranger’s SPB for their animal companion. This bonus improves by an additional 1 per 5  levels the ranger possesses.
+When using the vital strike feat to make an attack the ranger automatically gains the benefit of their Aim ability against the target for no additional action. 
 
-## Legend Hunter (Su)
-
-At 17th, the ranger has set their sights upon creatures of legend and greater beings as the target of their hunts. As such the ranger must bring their power to new heights to take on such legends. The ranger choses one of the following:
-
-- Legendary Companion: Your companion gains the following:
-    - Your companion gains Altered size as a bonus Animal Foci. If the ranger has already selected this Animal Foci or later gains it, the Size Change trait may now allow a companion to grow up to colossal or be reduced to Fine sized.
-    - Your companion gains a second companion type in addition to the animal companion type gaining all the benefits and detriments of this new type.
-- The ranger may target a number of creatures up to his Focus modifier with his aim ability as part of a single use of aim each turn and his Aim ability now lasts until the end of his next turn. In addition the ranger may treat any creature he attacks targeted by his aim ability as having any elemental resistance, natural armor,  DR a creature possesses as 1 lower for every 10 ranger levels he possesses.
-
-## Master of the Hunt (Ex)
-
-At 20th, the ranger has become the master of the hunt, a legend among legends treating all as his prey. The ranger can always move at full speed while using survival to follow tracks without penalty, and gains a +5 bonus to survival checks made to track if he already possesses the swift tracker hunter training. In addition the ranger no longer needs to spend an action to use his aim ability effectively treating all creatures he can see as targeted by it. Finally the ranger’s animal companion gains the benefits of flanking against any creature affected by the ranger’s aim ability.
+In addition, when spending additional AP to add additional weapon damage dice to the vital strike you may instead choose to make an additional attack roll. This attack roll is against the same AC as the first vital strike attack roll. Each successful attack deals the ranger's aim bonus damage an additional time in addition to the normal effects of spending additional AP on the vital strike. A failed hit instead adds no additional damage or weapon damage effectively wasting the additional AP spent. Critical hits made this way turn the attack into a critical hit even if the original attack roll wasn't, this only multiplies the base damage of the weapon as normal and not the additional damage of the vital strike. For each additional critical beyond the first with this vital strike you may treat the critical multiplier of the weapon as 1 higher.
