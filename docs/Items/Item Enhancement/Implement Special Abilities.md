@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 | Name           | Price  | Effect                                                                                                                                                                                                                                                                                                                                                                                    |
 | -------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Extra Affinity | +1     | The implement grants the wielder an additional affinity talent while held; and may be used when assembling spells as part of prepared spellcasters.<br><br>The wielder must be holding the implement to cast a spell he lacks the affinity talent for normally regardless of if he is spontaneous or prepared.<br><br>This special ability may be applied to an implement more than once. |
