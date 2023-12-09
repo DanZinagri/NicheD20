@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 This page is made to contain information on the creature types.
 
 All creatures have a type and usually also a subtype, such as Humanoid(Human). The type usually exists to give a general framework of reference point for what can affect them or what type of creature they represent. Subtypes usually are additional descriptors; this can range from Outsiders who have the Native subtype to indicate creatures born from outsiders but with ties to the natural plane which helps dictate how the creature functions (such as eating/breathing/sleeping); while the Human subtype of humanoid simply indicates the distinction from all other Humanoids. In addition any specifics of a creature’s subtypes always overrides anything of the type, such as living constructs having a constitution score, while base constructs do not.
@@ -123,3 +124,24 @@ An undead creature possesses the following features:
 - Immunity to any effect that requires a Resilience(End) save; unless the effect also works on objects or is harmless.
 - Undead do not breathe, eat, or sleep.
 - Undead are not treated as living creatures.
+
+### Undead Subtypes
+
+Undead have a few common archetypes such as Skeleton, Zombie, or Specter; with each of these having their own additional effects.
+
+#### Skeleton
+
+- DR 5/Bludgeoning, improving to DR 10/Bludgeoning at 4 Hit Dice or greater.
+- Resist 2 Fire and Cold Elemental Damage, improving to Resist 3 at 4 Hit Dice or greater.
+- A skeleton usually is of 1/10th of its original weight and is treated as a creature one size category smaller for the purposes of determining their MSB and MSD bonus or penalty.
+
+#### Zombie
+
+- DR 5/Slashing, improving to DR 10/Slashing at 4 Hit dice or greater.
+- Resist 2 Cold and Nature damage, improving to Resist 3 at 4 Hit Dice or greater.
+- All movement speeds are reduced by half (minimum 5 feet).
+- Gains a Bite Natural weapon (1d3); if the creature already possessed one they instead gain a +2 bonus to damage rolls with their bite.\
+
+#### Specter
+
+- A specter gains the Incorporeal universal ability.
