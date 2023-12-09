@@ -1,6 +1,8 @@
 ---
 share: true
+title: List of Discipline Feats
 ---
+
 
 Discipline feats are a type of feat that represent your training as a caster. Upon gaining the casting class feature for the first time, a character gains a single discipline feat of their choice. Discipline feats each have their own sub-category of feat, and unless otherwise specified each sub-category can only be selected once; thus certain feats cannot be mixed together.
 
