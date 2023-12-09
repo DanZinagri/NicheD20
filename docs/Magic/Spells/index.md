@@ -2,6 +2,7 @@
 share: true
 title: Spells
 ---
+
 This page lists the various spells into tables, organized by affinity. Some spells may fall under multiple categories for affinity. Details of the spell and related talents are located on their individual pages.
 
 ## Air (Essence) Affinity Spells
@@ -19,12 +20,16 @@ This page lists the various spells into tables, organized by affinity. Some spel
 | Name                               | Keywords            |
 | ---------------------------------- | ------------------- |
 | [Manipulate Time](Manipulate Time) | Transmutation, Time |
+| [Sleep](Sleep)                     | Enchantment, Mental |
+| [Sleet Storm](Sleet Storm)         | Cold, Evocation     |
 
 
 ## Decay (Nature-Anima) Affinity Spells
 
 | Name                               | Keywords            |
 | ---------------------------------- | ------------------- |
+| [Animate Dead](Animate Dead)       | Decay; Necromancy   |
+| [Blight Touch](Blight Touch)       | Blight              |
 | [Manipulate Time](Manipulate Time) | Transmutation, Time |
 
 ## Earth (Water-Anima) Affinity Spells
