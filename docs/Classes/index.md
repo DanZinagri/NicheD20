@@ -2,6 +2,7 @@
 share: true
 title: Classes
 ---
+
 This page links to the various classes in the NicheD20 system:
 ## Base Classes
 
@@ -24,9 +25,10 @@ This page links to the various classes in the NicheD20 system:
 
 | Class                                                     | HitDie | BAB | Type    | Prerequisites                                           |
 | --------------------------------------------------------- | ------ | --- | ------- | ------------------------------------------------------- |
-| [Sharpshooter](/Classes/Martial/Sharpshooter)             | d10    | 1   | Martial | Ranger 3rd, BAB +6                                      |
 | [Weapon Master](/Classes/Martial/Weapon Master)           | d12    | 1   | Martial | Fighter 5th, BAB +8                                     |
 | [Steel Savage](/Classes/Martial/Steel Savage)             | d12    | 1   | Martial | Barbarian 4th, Fighter 4th, Battle Focus Fighter Talent |
+| [Sharpshooter](/Classes/Martial/Sharpshooter)             | d10    | 1   | Martial | Ranger 3rd, BAB +6                                      |
 | [Primal Chieftain](/Classes/Martial/Primal Chieftain)     | d12    | 1   | Martial | Barbarian 8th, Tribal Bond Barbaric Bond                |
 | [Frenzied Berserker](/Classes/Martial/Frenzied Berserker) | d12    | 1   | Martial | Barbarian 8th, Power Stance                             |
 | [Armor Master](/Classes/Martial/Armor Master)             | d12    | 1   | Martial | Fighter 3rd, BAB +8                                     |
+| [Eldritch Knight](/Classes/Hybrid/Eldritch Knight)        | d10    | 1   | Hybrid  | BCB +3, BAB +3, Stamina Class Feature                   |
