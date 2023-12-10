@@ -133,7 +133,7 @@ Undead have a few common archetypes such as Skeleton, Zombie, or Specter; with e
 
 - DR 5/Bludgeoning, improving to DR 10/Bludgeoning at 4 Hit Dice or greater.
 - Resist 2 Fire and Cold Elemental Damage, improving to Resist 3 at 4 Hit Dice or greater.
-- A skeleton usually is of 1/10th of its original weight and is treated as a creature one size category smaller for the purposes of determining their MSB and MSD bonus or penalty.
+- A skeleton usually is of 1/10th of its original weight and is treated as a creature one size category smaller for the purposes of determining their MSB and saves against manuevers bonus or penalty.
 
 #### Zombie
 
