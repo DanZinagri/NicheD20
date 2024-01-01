@@ -10,6 +10,7 @@ BAB: 1
 BCB: 0.5
 title: Grim Knight
 ---
+
 # Class Details:
 
 Hit Die: d12
