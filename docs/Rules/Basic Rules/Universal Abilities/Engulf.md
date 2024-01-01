@@ -1,8 +1,10 @@
 ---
-tags: ['Universal-Abilities']
+tags:
+  - Universal-Abilities
 share: true
 type: Ex
 ---
+
 Some creatures have the ability to engulf creatures in their path as part of a 3 AP action. Unless otherwise specified the creature cannot make any other attacks in a round in which it uses the engulf ability. When using engulf the creature simply moves over its opponents, affecting as many as it can cover given its size; this is usually any squares the creature occupies that are also occupied by targets of their size or smaller.
 
 The creature using the engulf makes a Physical(Agi) save attack against the creatures targeted. The targeted creatures may make an attack of opportunity against the engulfing creature, but if they do so they do not receive a save against this attack. A failed save attack pushes the targets back or aside (target’s choice) as the creature moves forward, while a successful save attack engulfs the target.
