@@ -2,6 +2,7 @@
 share: true
 title: Steel Savage Aggressions
 ---
+
 This page lists both Aggressions available to a Barbarian as well as those available to the Steel Savage.
 
 | Name                 | Prerequisite     | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
