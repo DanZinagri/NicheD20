@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 The baseline of a character is their ability scores. They outline the strengths and weaknesses of a character by governing various aspects of a character’s functionality. Each of these have various abilities they tie into and thus a character gains various benefits from these ability scores.
 ## Ability Scores
 
