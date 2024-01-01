@@ -3,6 +3,7 @@ share: true
 title: Magic
 ---
 
+
 Below is the various magic classes of the system. For more information on magic classes please see the [[Magic Rules|Magic Rules]] page.
 
 ## Spell Prowess Bonus
