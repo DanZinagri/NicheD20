@@ -1,10 +1,13 @@
 ---
-tags: ['Skills', 'Mental']
-PageType: 'Skills'
-SkillTyp: 'Mental'
-Attr: 'Foc'
+tags:
+  - Skills
+  - Mental
+PageType: Skills
+SkillTyp: Mental
+Attr: Foc
 share: true
 ---
+
 #### Associated Ability Modifier: Focus
 
 A character usually must make concentration checks whenever you might potentially be distracted, such as by taking damage, while engaged in an action that requires your full attention. Primarily this includes actions such as casting a spell, or concentrating on an active spell. If the Concentration check succeeds, you may continue with the action as normal. If the check fails, the action automatically fails and is wasted.
