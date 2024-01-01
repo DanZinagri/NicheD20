@@ -1,10 +1,13 @@
 ---
-tags: ['Skills', 'Mental']
-PageType: 'Skills'
-SkillTyp: 'Mental'
-Attr: 'Foc'
+tags:
+  - Skills
+  - Mental
+PageType: Skills
+SkillTyp: Mental
+Attr: Foc
 share: true
 ---
+
 #### Associated Ability Modifier: Focus
 You are capable of detecting lies, intentions, and feints. Sense motive is a skill that usually should be rolled in secret by the GM so a player is unaware how good their hunch about a situation would be; as a failed check could result in false information.
 
