@@ -1,10 +1,13 @@
 ---
-tags: ['Skills', 'Physical']
-PageType: 'Skills'
-SkillTyp: 'Physical'
-Attr: 'Agi'
+tags:
+  - Skills
+  - Physical
+PageType: Skills
+SkillTyp: Physical
+Attr: Agi
 share: true
 ---
+
 #### Associated Ability Modifier: Agility
 Tenacity is the representation of your raw endurance in times of stress.
 ## Common Uses
