@@ -2,6 +2,7 @@
 share: true
 title: Combat Rules
 ---
+
 Niche is a turn-based system meaning that during combat players and the creatures they fight against each are given a turn to perform a number of actions before moving to the next creature's turn.
 
 At a high level combat follows the following flow:
