@@ -1,8 +1,11 @@
 ---
-tags: ['Status-Conditions', 'Tier-1']
+tags:
+  - Status-Conditions
+  - Tier-1
 share: true
-type: "Tier 1"
+type: Tier 1
 ---
+
 **Type**: Tier 1
 
 Shaken creatures cannot willingly approach the source of this fear effect unless they pass a Mental save against 10 + the bonus of the save attack or demoralize check that caused the shaken condition. If the shaken condition was applied without a save the DC instead becomes 10 + ½ the hit dice of the source + the source’s Psyche modifier. The creature does not need to pass this save if they cannot see or otherwise locate the source.
