@@ -8,6 +8,7 @@ affinity: Earth (Water-Anima) Affinity
 title: Arcane Knight
 ---
 
+
 - **Bonus Stamce**: Defensive Stance 
 - **Bonus Affinity**: Earth (Water-Anima) Affinity
 ## Basic Training
