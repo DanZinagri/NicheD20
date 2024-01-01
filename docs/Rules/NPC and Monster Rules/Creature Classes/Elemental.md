@@ -10,6 +10,7 @@ share: true
 title: Elemental
 ---
 
+
 ## Class Details
 Hit Die:  d10
 Type: Creature
