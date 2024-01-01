@@ -1,11 +1,14 @@
 ---
 share: true
-tags: ['Sorcerer-Bloodline', 'Sorcerer']
-HitDie: 'd12'
+tags:
+  - Sorcerer-Bloodline
+  - Sorcerer
+HitDie: d12
 BAB: 1
-BCB: .5
+BCB: 0.5
 title: Demonic
 ---
+
 Similar to that of tieflings your heritage involves that of a demonic elemental, but you’ve learned to draw out more power than most from this.
 
 ## Ability Adjustments
