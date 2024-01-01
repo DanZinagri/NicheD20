@@ -2,6 +2,7 @@
 share: true
 title: Aggressions
 ---
+
 This page lists all the Aggressions available to the Barbarian.
 
 | Name                 | Prerequisite   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
