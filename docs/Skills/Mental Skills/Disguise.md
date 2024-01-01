@@ -1,10 +1,13 @@
 ---
-tags: ['Skills', 'Mental']
-PageType: 'Skills'
-SkillTyp: 'Mental'
-Attr: 'Psy'
+tags:
+  - Skills
+  - Mental
+PageType: Skills
+SkillTyp: Mental
+Attr: Psy
 share: true
 ---
+
 #### Associated Ability Modifier: Psyche
 You are capable of changing your appearance to that of another.
 ## Check
