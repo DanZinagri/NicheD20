@@ -1,8 +1,11 @@
 ---
-tags: ['Status-Conditions', 'Other']
+tags:
+  - Status-Conditions
+  - Other
 share: true
-type: "Other"
+type: Other
 ---
+
 **Type**: N/A
 
 Broken is a condition applied to objects rather than creatures. An object is broken once its hit points have been reduced to below half.

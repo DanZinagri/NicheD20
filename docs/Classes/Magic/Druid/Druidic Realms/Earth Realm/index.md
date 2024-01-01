@@ -2,9 +2,12 @@
 share: true
 affinity: Earth (Water-Anima) Affinity
 casting_mod: Focus
-tags: ['Druid','Druidic-Realm']
+tags:
+  - Druid
+  - Druidic-Realm
 title: Earth Realm
 ---
+
 - **Bonus Spell**: Conjure Wall
 - **Bonus Affinity**: Earth (Water-Anima) Affinity
 - **Casting Modifier**: Focus

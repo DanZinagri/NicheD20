@@ -2,6 +2,7 @@
 share: true
 title: Frenzied Berserker Talents
 ---
+
 This page lists the talents available to the Frenzied Berserker class.
 
 | Name                  | Prerequisite                                     | Description                                                                                                                                                                                                                                                             |

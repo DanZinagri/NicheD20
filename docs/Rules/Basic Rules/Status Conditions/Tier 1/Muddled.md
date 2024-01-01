@@ -1,8 +1,11 @@
 ---
-tags: ['Status-Conditions', 'Tier-1']
+tags:
+  - Status-Conditions
+  - Tier-1
 share: true
-type: "Tier 1"
+type: Tier 1
 ---
+
 **Type:** Tier 1
 
 At the start of the afflicted creature’s turn they have a 50% chance of acting normally and must roll a d%. A result of 50 or higher and the creature may take their turn normally.

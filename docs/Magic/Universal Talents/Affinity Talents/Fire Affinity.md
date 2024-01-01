@@ -13,6 +13,7 @@ anima_special: In addition this talent allows you the ability to as a 3 AP actio
 tags:
   - affinity_talent
 ---
+
 **Base Benefit**: When gaining fire affinity choose the Essence or Anima effect of this talent gaining its listed effects.
 ## Essence - Fire
 

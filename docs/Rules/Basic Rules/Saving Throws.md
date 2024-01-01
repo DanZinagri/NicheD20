@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 Many abilities or magical attacks target a creature’s other statistics rather than their AC, and instead attack them more directly. Characters have their Physical resistance, Mental resistance, or overall Resilience. Similar to attack rolls vs AC, both the attacker and defender roll a d20 to determine the outcome. When a spell or ability calls for a save attack, the attacker rolls the save attack and the defender make an opposed saving throw roll to determine the outcome.
 
 ### Saving Throw Types

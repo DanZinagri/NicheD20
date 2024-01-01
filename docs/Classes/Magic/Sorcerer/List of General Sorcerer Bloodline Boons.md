@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 | Name                     | Prerequisite  | Description                                                                                                                                                                                                                                              |
 | ------------------------ | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Extra Magic Feat         | \-            | TThe sorcerer may select a single magic feat as a bonus feat. The sorcerer may select this boon more than once.                                                                                                                                          |

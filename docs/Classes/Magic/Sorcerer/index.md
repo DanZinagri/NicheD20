@@ -1,13 +1,16 @@
 ---
 share: true
-tags: ['Class', 'Sorcerer']
-PageType: 'Class'
-HitDie: 'd8'
-Type: 'Magic'
-BAB: .5
-BCB: .5
+tags:
+  - Class
+  - Sorcerer
+PageType: Class
+HitDie: d8
+Type: Magic
+BAB: 0.5
+BCB: 0.5
 title: Sorcerer
 ---
+
 # Class Details:
 
 Hit Die: d8

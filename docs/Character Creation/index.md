@@ -3,6 +3,7 @@ share: true
 title: Character Creation
 ---
 
+
 So you wish to dive into the world of the NicheD20 tabletop RPG and as a player you need to create a character. The following is a series of tasks that should be done to create your character:
 
 1. Get a character Sheet.

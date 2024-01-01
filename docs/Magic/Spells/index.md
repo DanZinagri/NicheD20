@@ -30,7 +30,9 @@ This page lists the various spells into tables, organized by affinity. Some spel
 | ---------------------------------- | ------------------- |
 | [Animate Dead](Animate Dead)       | Decay; Necromancy   |
 | [Blight Touch](Blight Touch)       | Blight              |
+| [Bone Shield](Bone Shield)         | Necromancy; Decay   |
 | [Manipulate Time](Manipulate Time) | Transmutation, Time |
+| [Plant Blight](Plant Blight)       | Blight, Shaped      |
 
 ## Earth (Water-Anima) Affinity Spells
 

@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 Gold is the common coin used to purchase weapons, armor, and other such equipment. In addition to gold exists platinum.
 
 Gold (gp), is the lowest denominator of coin, weighing 1/50th of a pound. Each gold coin is worth 100 platinum coins (pp), a platinum coin also weighs 1/50th of a pound.

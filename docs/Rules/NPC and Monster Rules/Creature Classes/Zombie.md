@@ -10,6 +10,7 @@ share: true
 title: Zombie
 ---
 
+
 ## Class Details
 Hit Die:  d10
 Type: Creature

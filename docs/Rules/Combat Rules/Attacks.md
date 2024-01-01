@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 Normally attacks are made as part of an attack action, or full attack action, but many other abilities or actions may call for an attack, and as such are not detailed under a specific action type.
 ## Melee Attacks
 

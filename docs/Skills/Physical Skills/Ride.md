@@ -1,10 +1,13 @@
 ---
-tags: ['Skills', 'Physical']
-PageType: 'Skills'
-SkillTyp: 'Physical'
-Attr: 'Agi'
+tags:
+  - Skills
+  - Physical
+PageType: Skills
+SkillTyp: Physical
+Attr: Agi
 share: true
 ---
+
 #### Associated Ability Modifier: Agility
 Ride is a representation of one’s skill in riding mounts, usually a horse, though other creatures may be suitable as a mount.
 

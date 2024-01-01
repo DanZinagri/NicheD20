@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 One of the ways casting type is differentiated between casters is prepared and spontaneous magic. When first gaining the casting class feature the character may decide to be a spontaneous or prepared caster, once chosen all his casting classes are of this type of casting.
 
 # Spontaneous

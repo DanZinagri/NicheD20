@@ -1,8 +1,10 @@
 ---
-tags: ['Knowledge']
-PageType: 'Skills'
+tags:
+  - Knowledge
+PageType: Skills
 share: true
 ---
+
 #### Identify A Spell or Rituals
 
 Knowledge(Arcana) can be utilized for various situations regarding spells and spellcasting. Usually the DC is based on the BCB of the spell being cast, and is easier if seen as it is being cast.

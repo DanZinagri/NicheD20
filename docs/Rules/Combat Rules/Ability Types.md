@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 Special abilities and class features usually have an associated type such as Ki. These determine any potential restrictions such as anti-magic affecting them or not. If no type is specified it is assumed the ability is a non-magical or non-ki ability.
 
 ## Ki (Ki)

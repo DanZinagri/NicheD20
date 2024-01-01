@@ -13,6 +13,7 @@ anima_special: This talent allows you the ability as a 4 AP action to begin to d
 tags:
   - affinity_talent
 ---
+
 **Base Benefit**: When gaining nature affinity choose the Essence or Anima effect of this talent gaining its listed effects.
 ## Essence - Nature
 

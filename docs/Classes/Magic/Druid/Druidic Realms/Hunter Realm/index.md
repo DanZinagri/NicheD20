@@ -2,9 +2,12 @@
 share: true
 affinity: Nature (Essence) Affinity
 casting_mod: Focus
-tags: ['Druid','Druidic-Realm']
+tags:
+  - Druid
+  - Druidic-Realm
 title: Hunter Realm
 ---
+
 
 - **Bonus Spell**: Summon Companion (Must select Animal Type, may not select amorphous, biped, or orb forms)
 - **Bonus Affinity**: Nature (Essnece) Affinity

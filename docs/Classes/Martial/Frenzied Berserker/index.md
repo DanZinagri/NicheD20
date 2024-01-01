@@ -10,6 +10,7 @@ share: true
 title: Frenzied Berserker
 Prerequisites: Barbarian 8th, Power Stance
 ---
+
 # Class Details
 Hit Die:  d12
 Type: Martial

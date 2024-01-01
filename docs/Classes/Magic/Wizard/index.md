@@ -1,13 +1,16 @@
 ---
 share: true
-tags: ['Class', 'Wizard']
-PageType: 'Class'
-HitDie: 'd8'
-Type: 'Magic'
-BAB: .5
+tags:
+  - Class
+  - Wizard
+PageType: Class
+HitDie: d8
+Type: Magic
+BAB: 0.5
 BCB: 1
 title: Wizard
 ---
+
 # Class Details:
 
 Hit Die: d8

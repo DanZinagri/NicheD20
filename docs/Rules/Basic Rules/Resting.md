@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 Sometimes between combats and days of adventuring a creature may spend time to rest and recover their resources. Resting has three variants each with their own benefits and time required for short, long, and full rests.
 
 ## Short rest

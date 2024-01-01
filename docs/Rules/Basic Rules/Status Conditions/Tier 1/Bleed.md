@@ -5,6 +5,7 @@ tags:
 share: true
 type: Other
 ---
+
 **Type:** Other
 
 Creatures afflicted with bleed take bleed damage at the beginning of their turn. The amount of damage caused by the bleed is dependent upon the ability that applied it; if the ability lists a dice, the value is rolled at the start of each turn. Unless otherwise specified bleed effects only last 1d4 rounds plus an additional round per 5 base attack bonus of the creature that applied it.

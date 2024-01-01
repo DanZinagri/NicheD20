@@ -1,13 +1,16 @@
 ---
-tags: ['Class', 'Blade-Binder']
-PageType: 'Class'
-HitDie: 'd12'
-Type: 'Martial'
+tags:
+  - Class
+  - Blade-Binder
+PageType: Class
+HitDie: d12
+Type: Martial
 BAB: 1
-BDB: .5
+BDB: 0.5
 share: true
 title: Blade Binder
 ---
+
 # Class Details:
 
 Hit Die: d12

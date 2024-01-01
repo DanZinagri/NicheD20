@@ -2,6 +2,7 @@
 share: true
 title: Status Conditions
 ---
+
 This page details the various conditions that exist within this system. Each status effect has an associated Tier attached to it. This is representative in the severity and how common the effect is, with tier 1 effect being easiest to remove, and tier 2 and higher being more difficult to remove.
 
 Some conditions have a type of Other, these conditions are usually conditions that are not detrimental conditions, or conditions that are representative of impairments by outside forces such as the entangled or bleed conditions with their own special rules for their removal.

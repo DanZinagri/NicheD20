@@ -1,10 +1,13 @@
 ---
-tags: ['Skills', 'Mental']
-PageType: 'Skills'
-SkillTyp: 'Mental'
-Attr: 'Psy'
+tags:
+  - Skills
+  - Mental
+PageType: Skills
+SkillTyp: Mental
+Attr: Psy
 share: true
 ---
+
 #### Associated Ability Modifier: Psyche
 Use Magic device is a skill utilized in the activation and general use of a magic item. Unlike other skills you cannot take a 10 on Use Magic device checks, nor can you use aid for a use magic device check.
 ## Common Uses

@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 This section details the types of bonuses and if they stack. As a general rule, if a bonus type does not stack, but a creature is currently benefiting from multiple of the same type of bonus only the highest bonus type may apply.
 
 Penalties are generally not typed and unless otherwise specified can stack with each other. If a penalty is typed it can stack with any bonuses of the same type potentially lowering or outright negating the typed bonus, but cannot stack with other penalties of the same type, taking the worst penalty of the same type.

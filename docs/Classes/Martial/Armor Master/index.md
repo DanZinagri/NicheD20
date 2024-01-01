@@ -10,6 +10,7 @@ share: true
 title: Armor Master
 Prerequisites: Fighter 3rd, BAB +8
 ---
+
 # Class Details
 Hit Die:  d12
 Type: Martial

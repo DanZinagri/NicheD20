@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 This set of rules is for campaigns that don’t level up frequently, or for groups that find the sudden (and sometimes large) power boost unrealistic compared to a character working their way up to their newfound power. When using these rules at every quarter of a level a character receives (25%, 50%, 75%, 100%) they may chose to gain one of the following bonuses from their next level early:
 
 - BAB, BDB, MPB, SPB, and BCB

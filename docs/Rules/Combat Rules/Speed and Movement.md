@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 A creature’s speed represents how far they can move with a single move action. Speed primarily is dependent on a creature’s race and armor; some classes or items may temporarily or permanently adjust a creature’s speed.
 
 Moving is usually done through a move action; some actions, such as charging, may combine movement with another action. A creature may choose to take two move actions during their turn to move, or run as a full-round action.

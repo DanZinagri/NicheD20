@@ -1,10 +1,13 @@
 ---
-tags: ['Skills', 'Physical']
-PageType: 'Skills'
-SkillTyp: 'Physical'
-Attr: 'Agi'
+tags:
+  - Skills
+  - Physical
+PageType: Skills
+SkillTyp: Physical
+Attr: Agi
 share: true
 ---
+
 #### Associated Ability Modifier: Agility
 Acrobatics is the representation of your capability in traversing surfaces, be it narrow or treacherous. Acrobatics also may allow you to deftly dodge past your foes. An Acrobatics check is usually made as part of another action or as a reaction to a situation.
 

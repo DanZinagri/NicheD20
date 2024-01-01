@@ -1,12 +1,15 @@
 ---
-tags: ['CreatureClass', 'Beast']
-PageType: 'Class'
-HitDie: 'd10'
-Type: 'Creature'
+tags:
+  - CreatureClass
+  - Beast
+PageType: Class
+HitDie: d10
+Type: Creature
 BAB: 0.75
 share: true
 title: Beast
 ---
+
 
 ## Class Details
 Hit Die:  d10

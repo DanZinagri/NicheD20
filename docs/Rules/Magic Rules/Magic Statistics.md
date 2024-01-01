@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 ### Base Casting Bonus
 
 Base Casting Bonus (BCB) is a representation of your prowess as a caster. Similar to base attack bonus, not all base casting bonuses are equal between classes. As a result this doesn’t inherently mean a lower BCB character will be bad a casting, but they may lack access to some of the more complex castings on their high casting counterparts; this is usually balanced by lower BCB having higher BAB and high BCB having low BAB allowing for the mixture of magic and martial to be a higher or lower focus of the character.

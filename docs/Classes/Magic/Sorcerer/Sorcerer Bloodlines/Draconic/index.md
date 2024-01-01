@@ -1,11 +1,14 @@
 ---
 share: true
-tags: ['Sorcerer-Bloodline', 'Sorcerer']
-HitDie: 'd10'
-BAB: .75
-BCB: .75
+tags:
+  - Sorcerer-Bloodline
+  - Sorcerer
+HitDie: d10
+BAB: 0.75
+BCB: 0.75
 title: Draconic
 ---
+
 Your blood has the power of dragons flowing within it, granting you both the might and innate magic of dragons.
 
 ## Ability Adjustments

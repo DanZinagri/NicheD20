@@ -2,9 +2,12 @@
 share: true
 affinity: Nature (Essence) Affinity
 casting_mod: Focus
-tags: ['Druid','Druidic-Realm']
+tags:
+  - Druid
+  - Druidic-Realm
 title: Plant Realm
 ---
+
 - **Bonus Spell**: Grasping Vines
 - **Bonus Affinity**: Nature (Essence) Affinity
 - **Casting Modifier**: Focus

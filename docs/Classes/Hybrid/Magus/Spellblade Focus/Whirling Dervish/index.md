@@ -7,6 +7,7 @@ tags:
 affinity: Air (Essence) Affinity
 title: Whirling Dervish
 ---
+
 - **Bonus Stamce**: Whirlwind Stance 
 - **Bonus Affinity**: Air (Essence) Affinity
 ## Basic Training

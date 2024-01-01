@@ -2,6 +2,7 @@
 share: true
 title: Mundane Items
 ---
+
 ###### Table-Mundane Items
 
 | Name                | Cost     | Weight  | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |

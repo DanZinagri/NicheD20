@@ -1,10 +1,13 @@
 ---
-tags: ['Skills', 'Varies']
-PageType: 'Skills'
-SkillTyp: 'Varies'
-Attr: '-'
+tags:
+  - Skills
+  - Varies
+PageType: Skills
+SkillTyp: Varies
+Attr: "-"
 share: true
 ---
+
  
 You are skilled at a specific job such as a crafter or laborer. Like Knowledge and Perform, Profession is actually a number of separate skills. You could have several Profession skills, each with its own ranks. Profession comes in a few variants of crafter, laborer, or other. Profession is unique in the fact that it uses either wisdom or intelligence to perform its task
 

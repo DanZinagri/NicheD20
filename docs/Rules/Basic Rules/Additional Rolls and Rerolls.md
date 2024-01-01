@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 Sometimes an effect will grant a creature the ability to roll a d20 more than once for a single check. It is also possible for multiple effects of this type to be in play at the same time. The specific source of this effect will specify the conditions under which it applies (such as needing to decide whether to reroll before the result of the roll is known).
 
 If an ability allows a creature to roll an additional die and take the better result, or forces a creature to roll an additional die and take the worse result, the rolls are made simultaneously if possible or sequentially if not, before any other effects are allowed to be applied. If a creature is influenced by multiple such effects, determine the total number of dice to roll by comparing the number of beneficial dice to the number of detrimental dice and roll all dice simultaneously if possible. The number of additional dice is determined by adding 1 for each additional die allowing the creature to take the better (or best) result, and subtracting 1 for each additional die forcing the creature to take the worse (or worst) result. If the final number is positive, roll that many additional dice and take the best result. If the final number is 0, roll only the normal dice. If the final number would be negative, roll the negative number worth of dice and take the worst result.

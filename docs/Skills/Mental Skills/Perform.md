@@ -1,10 +1,13 @@
 ---
-tags: ['Skills', 'Mental']
-PageType: 'Skills'
-SkillTyp: 'Mental'
-Attr: 'Psy'
+tags:
+  - Skills
+  - Mental
+PageType: Skills
+SkillTyp: Mental
+Attr: Psy
 share: true
 ---
+
 #### Associated Ability Modifier: Psyche
 You are skilled at one form of entertainment, from singing to acting to playing an instrument. Like Craft, Knowledge, and Profession, Perform is actually a number of separate skills. You could have several Perform skills, each with its own ranks.
 

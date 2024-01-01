@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 Some creatures are imbued with magic power and are able to create the effect of spells and spell talents through natural means, rather than the process of spellcasting.
 
 Creatures may gain a natural spell through their race, class levels, or other means but natural magic always uses the spontaneous casting type. The source of the creature’s natural magic will specify how to determine the Base Casting Bonus, Spell Proficiency Bonus, and Casting Ability Modifier for that spell. If the source does not specify one or more of these values, use ½ the creature’s Hit Dice to determine BCB, the creature’s full HD to determine SPB, and Pysche as the CAM; BCB and SPB gained from other sources (such as levels in casting classes) do not improve these values unless the source specifies so.

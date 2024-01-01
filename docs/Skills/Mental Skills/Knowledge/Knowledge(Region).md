@@ -1,8 +1,10 @@
 ---
-tags: ['Knowledge']
-PageType: 'Skills'
+tags:
+  - Knowledge
+PageType: Skills
 share: true
 ---
+
 #### Know location of nearest community or noteworthy site
 
 When within a region you may use Knowledge(Region) to help locate the nearest community or noteworthy site/landmark for the region. This requires a DC 20 Knowledge(Region) check.

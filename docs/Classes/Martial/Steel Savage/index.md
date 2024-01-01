@@ -10,6 +10,7 @@ share: true
 title: Steel Savage
 Prerequisites: Barbarian 4th, Fighter 4th, Battle Focus Fighter Talent
 ---
+
 # Class Details
 Hit Die:  d12
 Type: Martial

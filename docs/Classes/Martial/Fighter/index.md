@@ -9,6 +9,7 @@ Type: Martial
 BAB: 1
 title: Fighter
 ---
+
 # Class Details:
 
 Hit Die: d12

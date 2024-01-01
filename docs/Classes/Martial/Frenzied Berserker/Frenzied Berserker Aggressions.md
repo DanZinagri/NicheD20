@@ -2,6 +2,7 @@
 share: true
 title: Frenzied Berserker Aggressions
 ---
+
 This page lists both Aggressions available to a Barbarian as well as those available to the Frenzied Berserker.
 
 | Name                  | Prerequisite            | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |

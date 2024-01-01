@@ -7,6 +7,7 @@ tags:
 affinity: Water (Essence) Affinity
 title: Arcane Fencer
 ---
+
 - **Bonus Stamce**: Duelist Stance 
 - **Bonus Affinity**: Water (Essence) Affinity
 

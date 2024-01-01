@@ -1,10 +1,13 @@
 ---
-tags: ['Skills', 'Mental']
-PageType: 'Skills'
-SkillTyp: 'Mental'
-Attr: 'Psy'
+tags:
+  - Skills
+  - Mental
+PageType: Skills
+SkillTyp: Mental
+Attr: Psy
 share: true
 ---
+
 #### Associated Ability Modifier: Psyche
 You have learned to frighten your foes, or coerce them to act in a way that benefits you through verbal threats or displays of strength.
 ## Common Uses

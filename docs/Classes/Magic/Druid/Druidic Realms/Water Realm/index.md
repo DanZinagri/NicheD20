@@ -2,9 +2,12 @@
 share: true
 affinity: Water (Essence) Affinity
 casting_mod: Focus
-tags: ['Druid','Druidic-Realm']
+tags:
+  - Druid
+  - Druidic-Realm
 title: Water Realm
 ---
+
 - **Bonus Spell**: Cure
 - **Bonus Affinity**: Water (Essence) Affinity
 - **Casting Modifier**: Focus

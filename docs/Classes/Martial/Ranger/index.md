@@ -1,12 +1,15 @@
 ---
 share: true
-tags: ['Class', 'Ranger']
-PageType: 'Class'
-HitDie: 'd10'
-Type: 'Martial'
-BAB: .75
+tags:
+  - Class
+  - Ranger
+PageType: Class
+HitDie: d10
+Type: Martial
+BAB: 0.75
 title: Ranger
 ---
+
 # Class Details:
 
 Hit Die: d10

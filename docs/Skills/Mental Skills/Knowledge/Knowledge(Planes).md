@@ -1,8 +1,10 @@
 ---
-tags: ['Knowledge']
-PageType: 'Skills'
+tags:
+  - Knowledge
+PageType: Skills
 share: true
 ---
+
 #### Identify Planes
 
 A creature can make a DC 10 Knowledge(Planes) check to identify the name of a plane, such as the elemental plane of fire. Recognizing the current plane you are on usually increases the DC by an additional 5.

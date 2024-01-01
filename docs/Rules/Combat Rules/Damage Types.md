@@ -2,6 +2,7 @@
 share: true
 ---
 
+
 Damage is default organized into two types, Physical and Elemental, though various types exist within these two categories of damage types. While damage types are largely for theme of the weapon or effect at play, these can have various interactions in combat depending on the type being used.
 ## Physical Damage
 

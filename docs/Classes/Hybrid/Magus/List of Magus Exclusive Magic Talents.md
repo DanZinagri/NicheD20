@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 | Name                     | Prerequisite                             | Description                                                                                                                                                                                                   |
 | ------------------------ | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Force Shield             | Wave Shield, Magus 4th                   | Wave shield now grants a resist bonus against all elements rather than fire and water. In addition, the wave shield grants a +2 shield bonus to AC; this shield bonus improves by 1 for every 5 magus levels. |

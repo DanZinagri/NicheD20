@@ -10,6 +10,7 @@ BAB: 1
 BCB: 0.75
 title: Magus
 ---
+
 # Class Details:
 
 Hit Die: d10

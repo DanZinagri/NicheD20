@@ -2,6 +2,7 @@
 share: true
 title: Sorcerer Bloodlines
 ---
+
 Below Is a List of Sorcerer Bloodlines:
 
 | Name                                                             | HitDie | BAB  | BCB  |

@@ -2,6 +2,7 @@
 title: Rituals
 share: true
 ---
+
 # Ritual Rules
 
 Ritual Magic is a form of casting for spells with particularly complex preparation, rituals, or components that makes them less of a combat resource and more of a source of utility.
@@ -32,7 +33,9 @@ The creature must still make a DC 15 UMD check to emulate any missing affinity t
 | [Alter Corpse](Alter Corpse)             | 15 gp                           | 250 gp    | Necromancy             |
 | [Clairvoyance](Clairvoyance)             | 150 gp                          | 2.000 gp  | Divination             |
 | [Cleanse Disease](Cleanse Disease)       | 500gp + (100gp x DC of disease) | 3,400 gp  | Healing                |
+| [Deforest](Deforest)                     | 1,750 gp                        | 10,000 gp | Blight                 |
 | [Detect Impurity](Detect Impurity)       | 1,000 gp                        | 2,500 gp  | Divination             |
+| [Diminish Plants](Diminish Plants)       | 5 gp                            | 150 gp    | Blight                 |
 | [Greater Teleport](Greater Teleport)     | 8,000 gp                        | 50,000 gp | Rift                   |
 | [Magical Encryption](Magical Encryption) | 10 gp (Varies)                  | 200 gp    | Transmutation          |
 | [Overland Flight](Overland Flight)       | 1,800 gp                        | 5,000 GP  | Wind                   |
@@ -42,5 +45,6 @@ The creature must still make a DC 15 UMD check to emulate any missing affinity t
 | [Renew Life](Renew Life)                 | 550 gp                          | 1,750 gp  | Healing                |
 | [Resurrection](Resurrection)             | 12,250 gp                       | 35,550 gp | Healing                |
 | [Speak With Dead](Speak With Dead)       | 150 gp                          | 1,250 gp  | Divination, Necromancy |
+| [Transfer Illness](Transfer Illness)     | 250 gp                          | 500 gp    | Healing, Blight        |
 | [Transmute Object](Transmute Object)     | 400 gp                          | 3,000 gp  | Transmutation          |
 | [Waterbreathing](Waterbreathing)         | 200 gp                          | 2,500 gp  | Transmutation          |

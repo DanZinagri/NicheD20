@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 ### Distances
 
 Many spells and some class features use the terms close, medium and long as indicators for range. Some class features may use class levels or hit die in place of BCB to determine the power of an ability.

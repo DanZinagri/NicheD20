@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 To cast a spell a creature must concentrate. If something interrupts their concentration while casting, they must make a concentration check or lose the spell. Concentration checks are rolled similarly to other skill checks, using their ranks, ability score modifier, and any other miscellaneous bonuses to the skill.
 
 ### Casting Defensively

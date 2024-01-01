@@ -2,6 +2,7 @@
 share: true
 title: Magic Items
 ---
+
 Magic items are a series of tools at a player’s disposal to increase their versatility. If a magic item would call for a save attack the caster may substitute it with 1d20 + ½ their ranks in UMD + his Psyche modifier. Many magic items will have a save DC rather than a normal attack roll, effectively treating the save attack as if it had rolled a 10.
 
 Magic items have a BCB listed, but this is for the purpose of crafting and other effects and is not a requirement to utilize or wear the magic item.

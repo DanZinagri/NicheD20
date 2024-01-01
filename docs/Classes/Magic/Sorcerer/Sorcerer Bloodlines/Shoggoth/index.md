@@ -1,11 +1,14 @@
 ---
 share: true
-tags: ['Sorcerer-Bloodline', 'Sorcerer']
-HitDie: 'd10'
-BAB: .5
+tags:
+  - Sorcerer-Bloodline
+  - Sorcerer
+HitDie: d10
+BAB: 0.5
 BCB: 1
 title: Shoggoth
 ---
+
 Through strange rituals, or stranger circumstances you draw lineage of the aberrations of the deep known as shoggoth.
 
 ## Ability Adjustments

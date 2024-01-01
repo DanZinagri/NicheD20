@@ -2,6 +2,7 @@
 share: true
 title: Primal Chieftain Aggressions
 ---
+
 This page lists both Aggressions available to a Barbarian as well as those available to the Primal Chieftain.
 
 | Name                 | Prerequisite         | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |

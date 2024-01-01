@@ -1,10 +1,13 @@
 ---
-tags: ['Skills', 'Physical']
-PageType: 'Skills'
-SkillTyp: 'Physical'
-Attr: 'Agi'
+tags:
+  - Skills
+  - Physical
+PageType: Skills
+SkillTyp: Physical
+Attr: Agi
 share: true
 ---
+
 #### Associated Ability Modifier: Agility
 Stealth is the skill at avoiding detection, moving silently, and avoiding the sight of your opponents. Stealth is a skill rolled secretly by the GM as the player should not know how successful their stealth check was.
 ## Common Uses

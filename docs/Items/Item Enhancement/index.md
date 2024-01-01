@@ -2,6 +2,7 @@
 share: true
 title: Item Enhancement
 ---
+
 This section details rules, costs, and benefits of enhancing weapons, armor, and implements.
 
 # Base Enhancing Rules

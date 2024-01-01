@@ -1,8 +1,10 @@
 ---
-tags: ['Knowledge']
-PageType: 'Skills'
+tags:
+  - Knowledge
+PageType: Skills
 share: true
 ---
+
 #### Identify a Poison/Disease or its symptoms
 
 Identifying a poison or disease you encounter, or symptoms related to it requires a Knowledge(Nature) against the DC of the poison. If the poison has no DC but instead requires a save attack, treat the DC as 10+the save attack bonus of the Disease/Poison.

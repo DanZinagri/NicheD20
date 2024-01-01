@@ -1,8 +1,10 @@
 ---
-tags: ['Knowledge']
-PageType: 'Skills'
+tags:
+  - Knowledge
+PageType: Skills
 share: true
 ---
+
 #### Know a recent or historically significant event
 
 A DC 10 Knowledge(History) can recall recent major events in history. This is not a memory of personal events, but rather commonly known major events.

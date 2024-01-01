@@ -2,6 +2,7 @@
 share: true
 title: Diseases
 ---
+
 From the common cold to the plague; diseases are an ever present threat in the world. Not all diseases are deadly, but generally will cause some sort of debuff, penalty, or other effect that will hinder a creature until the disease is cured or runs its course.
 
 Primarily diseases utilize a DC for their saving throws rather than an opposed roll, though some sources may call an opposed roll, such as if the disease is produced by a creature rather than transmitted.
@@ -52,10 +53,10 @@ This makes diseases more unpredictable and can cause their detriments to be more
 
 Below is a list of common diseases; some outside factors (such as circumstantial conditions determined by the GM or spells and abilities that modify diseases) may change the DCs and the way these behave.
 
-| Name                             | Type                | DC     | Onset Time             | Frequency | Cure                | Save Type       |
-| -------------------------------- | ------------------- | ------ | ---------------------- | --------- | ------------------- | --------------- |
-| [[Cholera\|Cholera]]             | Injury, or Ingested | 18     | 1d4-1 days (minimum 1) | 2/day     | 4 saves             | Resilience(End) |
-| [[Dysentery\|Dysentery]]         | Injury, or Ingested | 22     | 1d4-1 days (minimum 1) | 2/day     | 4 saves             | Resilience(End) |
-| [[Malaria\|Malaria]]             | Injury              | 22     | 1 week                 | 1/day     | 2 consecutive saves | Resilience(End) |
-| [[Tremor\|Tremor]]               | Injury              | 16     | 5 days                 | 4/day     | Incurable(see note) | Resilience(End) |
-| [[Zombie Plague\|Zombie Plague]] | Injury              | Varies | 3 days                 | 1/day     | 3 saves             | Resilience(End) |
+| Name              | Type                | DC     | Onset Time             | Frequency | Cure                | Save Type       |
+| ----------------- | ------------------- | ------ | ---------------------- | --------- | ------------------- | --------------- |
+| [[Cholera|Cholera]]       | Injury, or Ingested | 18     | 1d4-1 days (minimum 1) | 2/day     | 4 saves             | Resilience(End) |
+| [[Dysentery|Dysentery]]     | Injury, or Ingested | 22     | 1d4-1 days (minimum 1) | 2/day     | 4 saves             | Resilience(End) |
+| [[Malaria|Malaria]]       | Injury              | 22     | 1 week                 | 1/day     | 2 consecutive saves | Resilience(End) |
+| [[Tremor|Tremor]]        | Injury              | 16     | 5 days                 | 4/day     | Incurable(see note) | Resilience(End) |
+| [[Zombie Plague|Zombie Plague]] | Injury              | Varies | 3 days                 | 1/day     | 3 saves             | Resilience(End) |

@@ -11,7 +11,8 @@ benefit: When in Whirlwind Stance, you gain a +4 dodge bonus to AC against attac
 special: 
 title: Whirlwind
 ---
-**Prerequisite**: \-
+
+**Prerequisite**: 
 
 **Benefit**: When in Whirlwind Stance, you gain a +4 dodge bonus to AC against attacks of opportunity provoked from your movement. Additionally, if you move more than 5 feet in a turn you gain 25% concealment against all ranged attacks until the start of your next turn.
 ## Whirlwind Stance Feats
