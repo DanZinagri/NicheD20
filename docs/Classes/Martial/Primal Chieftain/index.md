@@ -10,6 +10,7 @@ share: true
 title: Primal Chieftain
 Prerequisites: Barbarian 8th, Tribal Bond Barbaric Bond
 ---
+
 # Class Details
 Hit Die:  d12
 Type: Martial
