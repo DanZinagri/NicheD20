@@ -2,6 +2,7 @@
 title: Hit Point Progression
 share: true
 ---
+
 By default in Niche D20 a character calculates their starting hit points using the their hit dice’s average(rounded up) value + 10 + their Endurance modifier at 1st level; with levels beyond first it is suggested to do average(rounded up) being added to that value each level.
 
 Some groups may wish to adjust the difficulty or even pace of the game by using other styles of hit point progression. These are briefly mentioned in the Character Creation section, but are talked about further in detail here.
