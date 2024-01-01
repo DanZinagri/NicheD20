@@ -2,9 +2,12 @@
 share: true
 affinity: Fire (Essence) Affinity
 casting_mod: Focus
-tags: ['Druid','Druidic-Realm']
+tags:
+  - Druid
+  - Druidic-Realm
 title: Fire Realm
 ---
+
 - **Bonus Spell**: Alter Flame
 - **Bonus Affinity**: Fire (Essence) Affinity
 - **Casting Modifier**: Focus
