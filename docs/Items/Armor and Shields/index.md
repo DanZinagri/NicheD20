@@ -2,6 +2,7 @@
 share: true
 title: Armor and Shields
 ---
+
 # Armor
 ## Simple Armor
 ### Light Armor
