@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 The variant rule for Group Initiative provides a method for having all of the players act on the same turn, alternating with the DM controlled creatures taking actions all at the same time. Using this method would be most beneficial for “play by post” games where the players are not all able to be present at the same time (but can provide an interesting alternative in traditional games by redefining the usefulness of certain tactics). Taking turns one at a time in initiative order when each player is given 24 hours or more to declare their actions could result in a single round of combat for a 4-player party taking an entire week; the goal of this variant rule is to provide a faster method for resolving turns in games that have significant waits between player turns. 
 
 Under this method, have each member of the group (meaning all of the players together, and all of the DM controlled creatures together) roll their initiative, add the results together, and then divide by the number of creatures in the group. This average number is used to determine which group acts first. Any groups involved should then take their group turns in order of the average initiative (if the DM is controlling more than one faction, each may act as a separate group).  
