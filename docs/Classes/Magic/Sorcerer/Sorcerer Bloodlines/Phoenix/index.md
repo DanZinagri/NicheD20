@@ -1,11 +1,14 @@
 ---
 share: true
-tags: ['Sorcerer-Bloodline', 'Sorcerer']
-HitDie: 'd10'
-BAB: .75
-BCB: .75
+tags:
+  - Sorcerer-Bloodline
+  - Sorcerer
+HitDie: d10
+BAB: 0.75
+BCB: 0.75
 title: Phoenix
 ---
+
 You have the power of the immortal phoenix, granting health and longevity to yourself and those around you.
 
 ## Ability Adjustments
