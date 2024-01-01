@@ -3,6 +3,7 @@ share: true
 title: Poisons
 ---
 
+
 A poison is a substance that interferes with the natural functions of a living creature’s body, causing injury or death, typically requiring only a very small amount. The target of a poison may resist with a successful saving throw. Poisons can be delayed or cured with spells such as delay poison and neutralize poison.
 
 Poisons are somewhat unique in the fact that they utilize a DC for their saving throws rather than an opposed roll, though some creatures may still utilize an opposed roll if they naturally produce poison.
