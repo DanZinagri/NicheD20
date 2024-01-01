@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 Each race or culture tends to have their own language that they speak. This can be both a tool of secrecy and a barrier of communication, from two creatures speaking in their native tongue in a foreign land to reduce who listens in to their conversation; to adventurers happening upon a tribe of orcs and being unable to discern their words, left to only guess their intentions.
 
   
