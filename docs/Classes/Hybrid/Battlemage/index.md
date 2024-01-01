@@ -10,6 +10,7 @@ BAB: 1
 BCB: 0.5
 title: Battlemage
 ---
+
 # Class Details:
 
 Hit Die: d12
