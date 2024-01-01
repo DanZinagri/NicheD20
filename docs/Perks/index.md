@@ -2,6 +2,7 @@
 share: true
 title: Perks
 ---
+
 A character begins with a set of perks. These are unique features only granted at 1st level to help give a character the tools it needs to succeed without needing to be granted by a class. Perks primarily allow a character to use their ability scores in new ways from adjusting what stat governs a saving throw, to the stat used in melee attack rolls.
 
 [[Drawbacks|Drawbacks]] are also an option for characters; while being called drawbacks work similarly to perks but provide some sort of character-defining detriment alongside a much more powerful than usual bonus.
