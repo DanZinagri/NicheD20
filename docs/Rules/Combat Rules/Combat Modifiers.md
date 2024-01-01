@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 # Combat Modifiers
  
 There are a number of various conditions and scenarios that can influence an attack roll, granting bonuses or penalties to attack rolls or AC.
