@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 Some effects measure a success or failure in degrees. Success is determined from the attacker, meaning an attacker equaling or exceeding the opposed roll of the defender is considered a success, while failing to exceed is considered a failure for the attacker.
 
 A degree of success is when an attacker exceeds the opposed roll of a defender by an increment of 5 or more. Some spells and abilities may call for multiple degrees of success, so two degrees of success would require the attacker to exceed the defender’s saving throw by at least 10. This is usually used by spells to create more severe effects based on how poorly the defender was able to defend against the spell.
