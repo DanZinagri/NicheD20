@@ -2,6 +2,7 @@
 share: true
 title: Potions
 ---
+
 Potion crafting is another branch of alchemy that utilizes tangible physical resources to create effects that mimic that of spells, as well as some wholly unique effects. The primary downside of potions over having the magic cast normally is that a creature can only imbibe so many potions in a single day before succumbing to what is known as potion sickness.
 
 # Drinking Potions
