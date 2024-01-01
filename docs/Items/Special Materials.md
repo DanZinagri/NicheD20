@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 Most equipment is made out of wood, leather, or some type of metal. Though some different materials may be utilized in the construction of a piece of equipment, changing it in some way or granting it new properties. A piece of equipment may only be made of one special material.
 
 ## Adamantine
