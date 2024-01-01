@@ -1,10 +1,13 @@
 ---
-tags: ['Skills', 'Physical']
-PageType: 'Skills'
-SkillTyp: 'Physical'
-Attr: 'Agi'
+tags:
+  - Skills
+  - Physical
+PageType: Skills
+SkillTyp: Physical
+Attr: Agi
 share: true
 ---
+
 #### Associated Ability Modifier: Agility
 Sleight of hand allows you to stow and draw a hidden weapon, pick a pocket, or take other actions without being noticed.
 ## Common Uses
