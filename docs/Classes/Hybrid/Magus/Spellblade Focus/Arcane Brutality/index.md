@@ -8,6 +8,7 @@ affinity: Fire (Essence) Affinity
 title: Arcane Brutality
 ---
 
+
 - **Bonus Stamce**: Power Stance 
 - **Bonus Affinity**: Fire (Essence) Affinity
 ## Basic Training
