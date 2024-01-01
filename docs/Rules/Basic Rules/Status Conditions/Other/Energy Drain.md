@@ -1,8 +1,11 @@
 ---
-tags: ['Status-Conditions', 'Other']
+tags:
+  - Status-Conditions
+  - Other
 share: true
-type: "Other"
+type: Other
 ---
+
 **Type**: N/A
 
 A creature is afflicted with energy drain when they gain one or more negative levels. If the affected creature has negative levels equal or greater than their number of hit dice they automatically die.
