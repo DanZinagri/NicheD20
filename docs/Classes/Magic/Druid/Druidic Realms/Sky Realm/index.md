@@ -2,9 +2,12 @@
 share: true
 affinity: Air (Essence) Affinity
 casting_mod: Focus
-tags: ['Druid','Druidic-Realm']
+tags:
+  - Druid
+  - Druidic-Realm
 title: Sky Realm
 ---
+
 - **Bonus Spell**: Air Geyser
 - **Bonus Affinity**: Air (Essence) Affinity
 - **Casting Modifier**: Focus
