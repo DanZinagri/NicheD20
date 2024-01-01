@@ -10,6 +10,7 @@ share: true
 title: Sharpshooter
 Prerequisites: Ranger 3rd, BAB +6
 ---
+
 # Class Details
 Hit Die:  d10
 Type: Martial
