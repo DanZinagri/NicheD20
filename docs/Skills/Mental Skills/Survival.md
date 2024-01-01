@@ -1,10 +1,13 @@
 ---
-tags: ['Skills', 'Mental']
-PageType: 'Skills'
-SkillTyp: 'Mental'
-Attr: 'Foc'
+tags:
+  - Skills
+  - Mental
+PageType: Skills
+SkillTyp: Mental
+Attr: Foc
 share: true
 ---
+
 #### Associated Ability Modifier: Focus
 Survival is the representation of your ability to survive in the wild, navigate the wilderness, follow tracks, and endure against harsh environments.
 ## Common Uses
