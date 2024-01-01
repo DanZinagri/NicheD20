@@ -9,6 +9,7 @@ BAB: 1
 share: true
 title: Barbarian
 ---
+
 # Class Details
 Hit Die:  d12
 Type: Martial
