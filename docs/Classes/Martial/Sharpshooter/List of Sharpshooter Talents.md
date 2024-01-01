@@ -2,6 +2,7 @@
 share: true
 title: List of Sharpshooter Talents
 ---
+
 This page lists the various Sharpshooter Talents available to the Sharpshooter advanced class:
 
 | Name                         | Prerequisite                                | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
