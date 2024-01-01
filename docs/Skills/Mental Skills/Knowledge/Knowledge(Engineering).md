@@ -1,8 +1,10 @@
 ---
-tags: ['Knowledge']
-PageType: 'Skills'
+tags:
+  - Knowledge
+PageType: Skills
 share: true
 ---
+
 #### Identify dangerous construction
 
 Using a DC 10 Knowledge(Engineering) check a creature can identify if a construction would be dangerous or unstable, such as a bridge being unsafe to cross, or a ceiling being close to collapsing.
