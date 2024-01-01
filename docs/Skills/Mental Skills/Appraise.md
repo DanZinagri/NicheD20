@@ -1,10 +1,13 @@
 ---
-tags: ['Skills', 'Mental']
-PageType: 'Skills'
-SkillTyp: 'Mental'
-Attr: 'Int'
+tags:
+  - Skills
+  - Mental
+PageType: Skills
+SkillTyp: Mental
+Attr: Int
 share: true
 ---
+
 #### Associated Ability Modifier: Intelligence
 You can evaluate the monetary value of an object.
 
