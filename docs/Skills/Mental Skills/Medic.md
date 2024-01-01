@@ -1,10 +1,13 @@
 ---
-tags: ['Skills', 'Mental']
-PageType: 'Skills'
-SkillTyp: 'Mental'
-Attr: 'Foc'
+tags:
+  - Skills
+  - Mental
+PageType: Skills
+SkillTyp: Mental
+Attr: Foc
 share: true
 ---
+
 #### Associated Ability Modifier: Focus
 You are skilled at tending to the ailments of others, or manipulating the health of a creature in a detrimental way.
 ## Action
