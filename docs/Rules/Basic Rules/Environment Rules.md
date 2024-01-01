@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 # Breaking Objects
 
 A character may attempt to damage or even destroy objects in the environment such as doors, walls, desks, chairs, and many more. When breaking an object that is unattended you do not need to make a sunder check, rather you can simply make an attack and damage roll (against an AC of 5).
