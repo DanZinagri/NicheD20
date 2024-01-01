@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 Sometimes for the vision of a character to come through you wish to have a weapon to match. This is where weapon creation rules come in. The system should generally be limited to access by players and be more of a tool of a GM to build their world better. These rules have been used to make almost every weapon in this system, though most weapons were designed with theme in mind rather than maximum potential. Should a player wish to use this system a GM should add some restrictions, such as the player character needs to have the skills necessary to make it themselves, or the ability to create schematics for special orders from a blacksmith. If a type of weapon is too uncommon a price increase should be added to reflect the rarity of such a tool. As usual the GM is the final arbiter in their game and may adjust/tweak these rules as they wish, but it is recommended to not stray too far as it could create unintentional power imbalance in your game.
 
 This weapon design system allows you to create a new weapon by buying weapon qualities with Design Points (DP). The number of Design Points a weapon receives is determined by whether it is simple (6 DP), martial (7 DP), or exotic (9 DP).
