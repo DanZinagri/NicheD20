@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 Carrying capacity determines how much a character’s equipment slows him down. Encumbrance comes in two parts; encumbrance by armor and encumbrance by total weight.
 
 ## Encumbrance by Weight
