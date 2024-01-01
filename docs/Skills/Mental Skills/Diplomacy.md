@@ -1,10 +1,13 @@
 ---
-tags: ['Skills', 'Mental']
-PageType: 'Skills'
-SkillTyp: 'Mental'
-Attr: 'Psy'
+tags:
+  - Skills
+  - Mental
+PageType: Skills
+SkillTyp: Mental
+Attr: Psy
 share: true
 ---
+
 #### Associated Ability Modifier: Psyche
 Diplomacy is used to persuade others to agree with you, gather information, or improve your standing with a creature.
 ## Common Uses
