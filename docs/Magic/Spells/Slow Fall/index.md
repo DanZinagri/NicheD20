@@ -17,6 +17,7 @@ saving_throw: Mental (negates harmless)
 spell_resistance: Yes
 description: You may spend a spell point to cause the affected creatures fall a mere 60 feet per round and take no damage upon landing while the spell is in effect. When the spell duration expires, the normal rate of falling resumes. You may spend an additional spell point to affect an additional creature, plus one more per 3 BCB.
 ---
+
 <p><span style="overflow-x: auto;"><table><tbody><tr><th>Keyword</th><td>Force, Transmutation</td></tr><tr><th>Prerequisite</th><td> Air(Essence) or Void(Wind-Anima) Affinity</td></tr><tr><th>Title</th><td>Slow Fall</td></tr><tr><th>Target</th><td>One creature per 3 BCB, no two may be more than 20 feet apart.</td></tr><tr><th>Duration</th><td>1 round/level</td></tr><tr><th>Range</th><td>Close</td></tr><tr><th>Action</th><td>Reaction</td></tr><tr><th>Saving throw</th><td>Mental (negates harmless)</td></tr><tr><th>Spell resistance</th><td>Yes</td></tr><tr><th>Description</th><td>You may spend a spell point to cause the affected creatures fall a mere 60 feet per round and take no damage upon landing while the spell is in effect. When the spell duration expires, the normal rate of falling resumes. You may spend an additional spell point to affect an additional creature, plus one more per 3 BCB.</td></tr></tbody></table></span></p>
 ## General Slow Fall Talents
 
