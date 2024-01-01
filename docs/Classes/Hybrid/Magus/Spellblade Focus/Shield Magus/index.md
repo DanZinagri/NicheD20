@@ -7,6 +7,7 @@ tags:
 affinity: Air (Essence) Affinity
 title: Shield Magus
 ---
+
 - **Bonus Stamce**: Defensive Stance 
 - **Bonus Affinity**: Air (Essence) Affinity
 ## Basic Training
