@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 These rules cover being mounted on a horse or similar creature in combat but can also be applied to more unusual steeds, such as a griffon or dragon.
 
 ## Mounts in Combat
