@@ -2,6 +2,7 @@
 share: true
 title: Primal Chieftain Talents
 ---
+
 This page lists the talents available to the Primal Chieftain class.
 
 | Name                  | Prerequisite          | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
