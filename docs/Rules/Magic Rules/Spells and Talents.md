@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 ## Spells
 
 Spells are the representation of the magic a character is capable of utilizing. Each magic class has the ability to gain spells and talents.
