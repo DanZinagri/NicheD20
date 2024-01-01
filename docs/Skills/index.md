@@ -2,6 +2,7 @@
 share: true
 title: Skills
 ---
+
 This page details the various skills of the Niche system.
 
 | Name                                               | Ability | Type     |
