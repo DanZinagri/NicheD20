@@ -1,8 +1,11 @@
 ---
-tags: ['Status-Conditions', 'Other']
+tags:
+  - Status-Conditions
+  - Other
 share: true
-type: "Other"
+type: Other
 ---
+
 **Type**: N/A
 
 Creatures with ability damage have their ability score reduced by the listed amount, imparting a penalty to the ability score. Should this be enough to change the modifier from the ability score the creature should recalculate anything affected by the ability score modifier (such as attack and damage rolls from strength, or current and maximum hit points from Endurance). Ability damage heals naturally at a rate of 1 point of ability damage per day per ability score affected.
