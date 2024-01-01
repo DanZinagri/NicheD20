@@ -8,6 +8,7 @@ BAB: 0.75
 BCB: 1
 title: Angelic
 ---
+
 Your lineage is that of angels. Similar to Nephilim your heritage is that of heavenly beings; but you have learned to draw additional power from this.
 
 ## Ability Adjustments
