@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 This document goes over the creation of monsters or NPCs and their various statistics. While some guidelines are made, generally some level of discretion and care is needed when creating creatures as not all abilities are equal and some combinations may be deadlier than others.
 
 Below we will describe the steps needed to create a creature to give you a baseline and then slowly scale it up.
