@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 At the start of combat, each creature must make an initiative check. An initiative check is 1d20 + the creature's initiative modifier. A creature's initiative modifier is their Agility modified plus any other bonuses they have to initiative such as from feats, items, or other sources. In combat characters act in order, counting down from the highest resulting check to the lowest, before starting a new round and beginning again from the top. Characters follow this same order until the end of combat, though some actions may allow a character to change their place in the initiative.
 
 If two or more creatures have the same initiative check result, the tie is determined by the highest initiative modifier used in the check. If a tie still exists, then tied characters should roll to determine who goes before the other; continue rolling as additional ties occur. This tiebreaker roll does not replace the initial initiative roll.
