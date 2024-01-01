@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 This variant rule requires that every unit have a front, back, and sides and provides additional bonuses to an attacker for attacking a defender from the side or the rear. This replaces the normal rules for flanking, and creates a dynamic situation where positioning on the battlefield can be even more important.
 
 When a creature takes any voluntary movement (whether this is from regular movement, a Shift, or a Run action) it declares its facing at the end of the movement. When a creature makes an attack roll, it automatically turns to face the target of the attack (placing the target into one of its front-facing spaces). A creature may, as a Reaction on its turn, change its facing.
