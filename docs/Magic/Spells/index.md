@@ -3,7 +3,7 @@ share: true
 title: Spells
 ---
 
-This page lists the various spells into tables, organized by affinity. Some spells may fall under multiple categories for affinity. Details of the spell and related talents are located on their individual pages.
+This page lists the various spells into tables, organized by affinity. Some spells may fall under multiple categories for each affinity. Details of the spell and related talents are located on their individual pages
 
 ## Air (Essence) Affinity Spells
 
@@ -26,13 +26,15 @@ This page lists the various spells into tables, organized by affinity. Some spel
 
 ## Decay (Nature-Anima) Affinity Spells
 
-| Name                               | Keywords            |
-| ---------------------------------- | ------------------- |
-| [Animate Dead](Animate Dead)       | Decay; Necromancy   |
-| [Blight Touch](Blight Touch)       | Blight              |
-| [Bone Shield](Bone Shield)         | Necromancy; Decay   |
-| [Manipulate Time](Manipulate Time) | Transmutation, Time |
-| [Plant Blight](Plant Blight)       | Blight, Shaped      |
+| Name                                 | Keywords            |
+| ------------------------------------ | ------------------- |
+| [Animate Dead](Animate Dead)         | Decay; Necromancy   |
+| [Blight Touch](Blight Touch)         | Blight              |
+| [Bone Shield](Bone Shield)           | Necromancy; Decay   |
+| [Disruptive Touch](Disruptive Touch) | Necromancy          |
+| [Life Thief](Life Thief)             | Necromancy. Shaped  |
+| [Manipulate Time](Manipulate Time)   | Transmutation, Time |
+| [Plant Blight](Plant Blight)         | Blight, Shaped      |
 
 ## Earth (Water-Anima) Affinity Spells
 
