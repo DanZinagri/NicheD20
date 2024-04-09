@@ -9,7 +9,6 @@ BAB: 1
 share: true
 title: Barbarian
 ---
-
 # Class Details
 Hit Die:  d12
 Type: Martial
@@ -85,6 +84,8 @@ At 6th level, the barbarian gains a +2 bonus to initiative checks, and is no lon
 ## Vigor
 
 At 7th level, once per day the barbarian may spend a reaction to empty his current fury pool, gaining a number of temporary hit points equal to twice the number of fury points spent in this way; this ability may be used in response to taking damage, and temporary hit points gained through this ability last until the start of the barbarian’s next turn.
+
+In addition, the Barbarian gains Battle High (Martial) as a bonus feat if he did not already possess it. Otherwise if the Barbarian already possesses this feat he may select a different martial feat he qualifies for instead.
 ## Roused Anger
 
 At 8th level, the barbarian may enter a rage even if fatigued, and is immune to the negative effects of fatigue during his rage after using this ability. After the rage ends he is exhausted for 10 minutes per round spent raging. Once this exhausted effect ends the barbarian's fatigue effect remains if it would last beyond the duration of this effect.

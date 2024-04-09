@@ -9,7 +9,6 @@ Type: Martial
 BAB: 0.75
 title: Rogue
 ---
-
 # Class Details:
 
 Hit Die: d10

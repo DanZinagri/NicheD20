@@ -9,7 +9,6 @@ Type: Martial
 BAB: 0.75
 title: Ranger
 ---
-
 # Class Details:
 
 Hit Die: d10
@@ -73,6 +72,8 @@ For a complete list of Foci see [[List of Animal Foci|List of Animal Foci]]
 ## Ranger's Mark (Ki)
 
 At 3rd level, the Ranger learns to supernaturally mark his foes making it more difficult for them to escape. Once per day, when hitting a target with an attack that the Ranger has successfully used Aim on the Ranger may spend 1 stamina as a reaction to mark the target. Once marked the foe is treated as being the target of the ranger's aim ability for the duration of the mark, and the ranger gains a +5 bonus on survival checks to track the target. This mark lasts for 1 hour per Ranger level. At 9th level the ranger may use this ability an additional time per day. Additional applications of this ability on a new target immediately ends the mark on the previous target.
+
+In addition, the Ranger gains Rapid Reload (Martial) as a bonus feat. If he already possesses this feat he may instead select a different martial feat of his choice that he would qualify for.
 ## Hunter’s Command
 
 At 5th level the ranger learns to push their companion to even greater action allowing for better tactical cooperation. Each round the hunter may choose to perform one of the following actions, though each action may require a different type of action or scenario to utilize the hunter may still only perform one per round.

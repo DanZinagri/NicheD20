@@ -2,7 +2,6 @@
 share: true
 title: Drugs & Addiction
 ---
-
 # Drugs and Alcohol
 
 Drugs and alcohol function similarly to poisons in many ways. What mainly sets apart drugs from poisons is that drugs generally provide some benefit to the user in addition to a penalty and, although ingesting drugs is generally less deadly to the user than ingesting poison, prolonged or heavy drug use can be just as life-threatening and an addiction can be as debilitating as any disease.

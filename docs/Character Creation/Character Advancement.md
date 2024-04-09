@@ -2,7 +2,6 @@
 share: true
 ---
 
-
 | Character Level | Ability Score Points (maximum) | Saving Throw Points(Maximum) | Feat(Type)                                                                                               | Wealth                                                                                                                                                                                                               |
 | --------------- | ------------------------------ | ---------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1st             | 1 (1)                          | 4(2)                         | 1st (Any), 1st(Racial), 1st(Skill), Major Perk: 1 Minor Perk: 2; (1 Major Drawback or 2 Minor Drawbacks) | 100 gp. In addition, each character begins play with a single battered suit of armor and two battered weapons they are proficient with. (Battered items function as a non-masterwork version but scrap for 4d6 gold) |

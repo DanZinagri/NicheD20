@@ -9,7 +9,6 @@ Type: Martial
 BAB: 1
 title: Fighter
 ---
-
 # Class Details:
 
 Hit Die: d12
@@ -68,6 +67,8 @@ At 3rd level, a fighter learns to focus into either light or heavy armor to furt
 ## Armed Expertise
 
 At 4th level, the fighter may treat his base attack bonus as 1 higher for the purposes of feats he may qualify for. This bonus increases by 1 at 5th level and every 5 levels thereafter.
+
+In addition the Fighter gains Quick Draw (Martial) as a bonus feat if he did not already possess it. If the Fighter already would have Quick Draw he instead gains a different martial feat of he choice he would qualify for.
 ## Weapon Training
 
 Starting at 5th level, a fighter selects one of the following keywords: Blade, Dueling, Hammer, Spear, Axe, Bow, Flail, Throwing, Trigger, Polearm, Monastic, Shield, or Sling.
