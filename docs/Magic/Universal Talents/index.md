@@ -2,7 +2,6 @@
 share: true
 title: Universal Talents
 ---
-
 Below is a list of universal talents. Universal talents are unique in that they allow for the modification of spells without being tied to a single specific spell, or in the case of affinity talents work as a baseline to meet the prerequisites of other spells.
 
 While Affinity talents are also universal talents they are listed separately for ease of viewing; but affinity talents can be of several sub-categories, such as Meta talents
