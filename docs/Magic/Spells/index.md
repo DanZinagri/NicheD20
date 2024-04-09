@@ -2,7 +2,7 @@
 share: true
 title: Spells
 ---
-This page lists the various spells into tables, organized by affinity. Some spells may fall under multiple categories for each affinity. Details of the spell and related talents are located on their individual pages
+This page lists the various spells into tables, organized by affinity. Some spells may fall under multiple categories for each affinity. Details of the spell and related talents are located on their individual pages.
 
 ## Air (Essence) Affinity Spells
 
@@ -47,39 +47,62 @@ This page lists the various spells into tables, organized by affinity. Some spel
 
 ## Fire (Essence) Affinity Spells
 
-| Name                       | Keywords            |
-| -------------------------- | ------------------- |
-| [Alter Flame](Alter Flame) | Evocation           |
-| [Alter Light](Alter Light) | Enchantment, Mental |
-| [Ash Rain](Ash Rain)       | Evocation           |
-| [Decoy](Decoy)             | Illusion            |
-| [Fade](Fade)               | Illusion            |
-| [Project](Project)         | Illusion            |
+| Name                                   | Keywords            |
+| -------------------------------------- | ------------------- |
+| [Alter Flame](Alter Flame)             | Evocation           |
+| [Alter Light](Alter Light)             | Enchantment, Mental |
+| [Ash Rain](Ash Rain)                   | Evocation           |
+| [Decoy](Decoy)                         | Illusion            |
+| [Fade](Fade)                           | Illusion            |
+| [Project](Project)                     | Illusion            |
+| [Searing Armaments](Searing Armaments) | \-                  |
 
 
 ## Nature(Essence) Affinity Spells
 
-| Name | Keywords |
-| ---- | -------- |
+| Name                             | Keywords |
+| -------------------------------- | -------- |
+| [Command](Command)               | \-       |
+| [Cure](Cure)                     | \-       |
+| [Enhance Senses](Enhance Senses) | \-       |
+| [Grasping Vines](Grasping Vines) | \-       |
+| [Web](Web)                       | \-       |
 
 ## Void (Air-Anima) Affinity Spells
 
-| Name                       | Keywords             |
-| -------------------------- | -------------------- |
-| [Alter Light](Alter Light) | Enchantment, Mental  |
-| [Confusion](Confusion)     | Enchantment, Mental  |
-| [Slow Fall](Slow Fall)     | Force, Transmutation |
+| Name                                   | Keywords             |
+| -------------------------------------- | -------------------- |
+| [Alter Light](Alter Light)             | Enchantment, Mental  |
+| [Cause Fear](Cause Fear)               | \-                   |
+| [Confusion](Confusion)                 | Enchantment, Mental  |
+| [Slow Fall](Slow Fall)                 | Force, Transmutation |
+| [Telekinetic Aura](Telekinetic Aura)   | \-                   |
+| [Telekinetic Grasp](Telekinetic Grasp) | \-                   |
+| [Telekinetic Throw](Telekinetic Throw) | \-                   |
+| [Void Tentacles](Void Tentacles)       | \-                   |
 
 ## Water (Essence) Affinity Spells
 
-| Name               | Keywords |
-| ------------------ | -------- |
-| [Cleanse](Cleanse) | Healing  |
+| Name                       | Keywords |
+| -------------------------- | -------- |
+| [Cleanse](Cleanse)         | Healing  |
+| [Glimpse](Glimpse)         | \-       |
+| [Seamantle](Seamantle)     | \-       |
+| [Wave Shield](Wave Shield) | \-       |
 
 ## Any/Other
 
 Any spells are spells designed to utilize any affinity talent, usually for the purposes of damage type; otherwise it is for spells that have no affinity and rather have their affinity determined by talents chosen.
 
-| Name                     | Keywords  |
-| ------------------------ | --------- |
-| [Alter Self](Alter Self) | Polymorph |
+| Name                                 | Keywords  |
+| ------------------------------------ | --------- |
+| [Alter Self](Alter Self)             | Polymorph |
+| [Bind Companion](Bind Companion)     | \-        |
+| [Conjure Wall](Conjure Wall)         | \-        |
+| [Elemental Blast](Elemental Blast)   | \-        |
+| [Elemental Shell](Elemental Shell)   | \-        |
+| [Elemental Weapon](Elemental Weapon) | \-        |
+| [Enhance Aspect](Enhance Aspect)     | \-        |
+| [Summon Monster](Summon Monster)     | \-        |
+| [Transformation](Transformation)     | \-        |
+| [Wield Element](Wield Element)       | \-        |
