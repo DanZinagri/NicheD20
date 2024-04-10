@@ -19,4 +19,3 @@ Special: When you gain this spell, if you don’t already have one, select a sin
 ---
 
 
-.
