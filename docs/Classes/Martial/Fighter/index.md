@@ -38,7 +38,7 @@ A fighter is proficient with all simple weapons and armor. If this is the charac
 At 1st level, a fighter gains access to a pool of <a href="/Rules/Combat%20Rules/Combat%20Statistics/#stamina">stamina</a> points that allow him to perform feats of strength and agility. This pool contains a number of stamina points equal to his Endurance modifier plus his levels in martial classes (minimum 1). This pool replenishes once per day after a long rest.
 ## Combat Stance
 
-If this is the character’s first level in a martial class, the fighter gains a bonus Stance feat that he qualifies for.
+If this is the character’s first level in a martial class, the fighter gains two bonus stance feats of their choice that they qualify for.
 ## Martial Training
 
 At 1st, 2nd, and at every even level thereafter, a fighter gains a bonus feat in addition to those gained from normal advancement. These bonus feats must be selected from those listed as Combat Feats or Martial feats.
