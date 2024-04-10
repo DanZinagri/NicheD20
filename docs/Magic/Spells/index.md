@@ -2,8 +2,7 @@
 share: true
 title: Spells
 ---
-This page lists the various spells into tables, organized by affinity. Some spells may fall under multiple categories for each affinity. Details of the spell and related talents are located on their individual pages.
-
+This page lists the various spells in tables, organized by affinity. Some spells may fall under multiple categories for each affinity. Details of the spell and related talents are located on their individual pages.
 ## Air (Essence) Affinity Spells
 
 | Name                                 | Keywords                       |
