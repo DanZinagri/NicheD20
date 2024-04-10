@@ -2,7 +2,6 @@
 title: Beastkin
 share: true
 ---
-
 ## Description
 
 **Physical Description**: Beastkin, or known to some as the demihumans, are a race of human-like creatures who have some animalistic traits. Usually these traits manifest simply as animal-like ears and tails, though others may also have sharper fangs and claws. With these traits hidden though it's generally difficult to tell one apart from a standard human.
