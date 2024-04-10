@@ -1,7 +1,6 @@
 ---
 share: true
 ---
-
 This section details the dice rolls and statistics that determine success in combat.
 
 ## Attack Roll
@@ -266,35 +265,3 @@ Once the effect that granted the temporary hit points ends or is dispelled, temp
 When an effect would increase or decrease their Endurance score, the creature will need to recalculate their maximum hit points from the adjustment.
 
 For example a creature with 4 hit dice gaining having their Endurance boosted from 14 to 16 by an effect would gain 4 additional current and maximum hit points due to the 1 higher Endurance modifier they now possess.  The inverse of this is true as well when a creature with 4 hit dice having their Endurance reduce from 14 to 12 would suddenly lose 4 hit dice from their current and maximum hit points due to the 1 lower Endurance modifier they now possess.
-
-### Precision Damage
-
-Precision damage is a special type of damage that functions like normal damage with a few additional details. Firstly precision damage done by a creature cannot be redirected to armor through the basic armor redirection and armor sacrifice abilities. Additionally creatures immune to critical hits are immune to precision damage.
-
-### Nonlethal Damage
-
-Nonlethal damage is a form of damage a creature can take that is not life-threatening, but can still potentially hinder them should they take too much. Unlike normal damage, nonlethal damage is tracked separately from hit points and is healed quickly with rest or magic.
-
-#### Dealing Nonlethal Damage
-
-Nonlethal damage may be caused by attacks, environmental effects such as heat, or even exhaustion can cause nonlethal damage. When taking nonlethal damage instead of subtracting from your current hit points, it is instead accumulated and tracked separately with a running total of accumulated nonlethal damage.
-
-##### Nonlethal Damage with a Weapon that Deals Lethal Damage
-
-Unless stated otherwise, any melee or thrown weapon may be used to deal nonlethal damage, but if it lacks the nonlethal weapon property you take a -4 penalty on your attack roll to do so.
-
-##### Nonlethal, Temporary Hit Points and Damage Reduction
-
-Nonlethal damage is still treated as normal damage for the purpose of its interaction with sources that reduce damage that a creature takes such as temporary hit points and DR.
-
-#### Excessive Nonlethal Damage
-
-Once a creature’s nonlethal damage is equal or greater than half their maximum hit points they gain the fatigued condition; if the creature is already fatigued they instead become exhausted, if the creature is already exhausted they instead become staggered. If the creature’s nonlethal damage is equal or greater than half their maximum hit points and also equal or greater than their current hit points they instead become exhausted; if the creature was already fatigued or exhausted they instead become staggered.
-
-Finally if a creature’s nonlethal damage total is equal to their total maximum hit points they become unconscious and no longer gain nonlethal damage, instead converting all further nonlethal damage into lethal damage until their nonlethal damage is reduced or removed in some way.
-
-#### Healing Nonlethal Damage
-
-Nonlethal damage is healed at a rate of 1 hit point per hour per hit dice the creature possesses. Spells or abilities that restore hit points also remove an equal amount of nonlethal damage.
-
-The creature loses the fatigued or exhausted condition granted by excessive nonlethal damage if they weren’t already from another source. If the creature had the fatigued or exhausted condition become more severe due to nonlethal damage it returns to its previous level of severity before they gained the nonlethal damage if they did not have the more severe condition already from another source.
