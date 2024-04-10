@@ -10,7 +10,6 @@ BDB: 0.5
 share: true
 title: Blade Binder
 ---
-
 # Class Details:
 
 Hit Die: d12
