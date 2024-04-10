@@ -18,4 +18,4 @@ description: "Upon casting this spell can alter yourself for as long as you conc
 Special: When you gain this spell, if you don’t already have one, select a single form or alter universal talent that you qualify for (if you do not qualify for any form talents you cannot select this spell). For the purposes of prepared casters this spell does not take a slot to prepare, but also cannot be used without a form talent prepared, form and alter talents take up slots as normal.
 ---
 
-<body>&lt;Promise&gt;</body>
+
