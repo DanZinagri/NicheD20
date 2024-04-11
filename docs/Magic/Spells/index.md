@@ -2,7 +2,7 @@
 share: true
 title: Spells
 ---
-This page lists the various spells in tables, organized by affinity. Some spells may fall under multiple categories for each affinity. Details of the spell and related talents are located on their individual pages.
+This page lists spells in tables, organized by affinity. Some spells may fall under multiple categories for each affinity. Details of the spell and related talents are located on their individual pages.
 ## Air (Essence) Affinity Spells
 
 | Name                                 | Keywords                       |
@@ -88,6 +88,7 @@ This page lists the various spells in tables, organized by affinity. Some spells
 | [Glimpse](Glimpse)         | \-       |
 | [Seamantle](Seamantle)     | \-       |
 | [Wave Shield](Wave Shield) | \-       |
+| [Wave Surge](Wave Surge)   | \-       |
 
 ## Any/Other
 
