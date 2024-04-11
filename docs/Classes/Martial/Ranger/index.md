@@ -39,7 +39,7 @@ A ranger is proficient with all simple weapons and armor. If this is the charact
 At 1st level, a ranger gains access to a pool of <a href="/Rules/Combat%20Rules/Combat%20Statistics/#stamina">stamina</a> points that allows her to perform feats of strength and agility. This pool contains a number of stamina points equal to his Endurance modifier plus his levels in martial classes (minimum 1). This pool replenishes once per day after a long rest.
 ## Ranger’s Precision
 
-If this is the character’s first level in a martial class, the ranger gains their choice of Power Stance and Precision Stance as bonus stance feats.
+If this is the character’s first level in a martial class, the ranger gains Power Stance and Precision Stance as bonus stance feats.
 ## Tracker’s Training
 
 At 1st level, the ranger may select any two of the following: perception, ride, survival, stealth, or a knowledge skill; the ranger gains a +1 class bonus in the selected skills improving by an additional 1 at 4th level and levels thereafter.
