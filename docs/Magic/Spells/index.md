@@ -54,55 +54,55 @@ This page lists spells in tables, organized by affinity. Some spells may fall un
 | [Decoy](Decoy)                         | Illusion            |
 | [Fade](Fade)                           | Illusion            |
 | [Project](Project)                     | Illusion            |
-| [Searing Armaments](Searing Armaments) | \-                  |
+| [Searing Armaments](Searing Armaments) | Transmutation       |
 
 
 ## Nature(Essence) Affinity Spells
 
-| Name                             | Keywords |
-| -------------------------------- | -------- |
-| [Command](Command)               | \-       |
-| [Cure](Cure)                     | \-       |
-| [Enhance Senses](Enhance Senses) | \-       |
-| [Grasping Vines](Grasping Vines) | \-       |
-| [Web](Web)                       | \-       |
+| Name                             | Keywords              |
+| -------------------------------- | --------------------- |
+| [Command](Command)               | Enchantment, Mental   |
+| [Cure](Cure)                     | Healing, Shaped       |
+| [Enhance Senses](Enhance Senses) | Transmutation         |
+| [Grasping Vines](Grasping Vines) | Clinging, Conjuration |
+| [Web](Web)                       | Creation              |
 
 ## Void (Air-Anima) Affinity Spells
 
-| Name                                   | Keywords             |
-| -------------------------------------- | -------------------- |
-| [Alter Light](Alter Light)             | Enchantment, Mental  |
-| [Cause Fear](Cause Fear)               | \-                   |
-| [Confusion](Confusion)                 | Enchantment, Mental  |
-| [Slow Fall](Slow Fall)                 | Force, Transmutation |
-| [Telekinetic Aura](Telekinetic Aura)   | \-                   |
-| [Telekinetic Grasp](Telekinetic Grasp) | \-                   |
-| [Telekinetic Throw](Telekinetic Throw) | \-                   |
-| [Void Tentacles](Void Tentacles)       | \-                   |
+| Name                                   | Keywords                              |
+| -------------------------------------- | ------------------------------------- |
+| [Alter Light](Alter Light)             | Enchantment, Mental                   |
+| [Cause Fear](Cause Fear)               | Enchantment, Mental                   |
+| [Confusion](Confusion)                 | Enchantment, Mental                   |
+| [Slow Fall](Slow Fall)                 | Force, Transmutation                  |
+| [Telekinetic Aura](Telekinetic Aura)   | Force                                 |
+| [Telekinetic Grasp](Telekinetic Grasp) | Force; Maneuver                       |
+| [Telekinetic Throw](Telekinetic Throw) | Force; Entropic or Wind               |
+| [Void Tentacles](Void Tentacles)       | Clinging, Dark, Maneuver, Conjuration |
 
 ## Water (Essence) Affinity Spells
 
-| Name                       | Keywords |
-| -------------------------- | -------- |
-| [Cleanse](Cleanse)         | Healing  |
-| [Glimpse](Glimpse)         | \-       |
-| [Seamantle](Seamantle)     | \-       |
-| [Wave Shield](Wave Shield) | \-       |
-| [Wave Surge](Wave Surge)   | \-       |
+| Name                       | Keywords           |
+| -------------------------- | ------------------ |
+| [Cleanse](Cleanse)         | Healing            |
+| [Glimpse](Glimpse)         | Divination         |
+| [Seamantle](Seamantle)     | Creation           |
+| [Wave Shield](Wave Shield) | Water, Evocation   |
+| [Wave Surge](Wave Surge)   | Creation, Maneuver |
 
 ## Any/Other
 
 Any spells are spells designed to utilize any affinity talent, usually for the purposes of damage type; otherwise it is for spells that have no affinity and rather have their affinity determined by talents chosen.
 
-| Name                                 | Keywords  |
-| ------------------------------------ | --------- |
-| [Alter Self](Alter Self)             | Polymorph |
-| [Bind Companion](Bind Companion)     | \-        |
-| [Conjure Wall](Conjure Wall)         | \-        |
-| [Elemental Blast](Elemental Blast)   | \-        |
-| [Elemental Shell](Elemental Shell)   | \-        |
-| [Elemental Weapon](Elemental Weapon) | \-        |
-| [Enhance Aspect](Enhance Aspect)     | \-        |
-| [Summon Monster](Summon Monster)     | \-        |
-| [Transformation](Transformation)     | \-        |
-| [Wield Element](Wield Element)       | \-        |
+| Name                                 | Keywords                          |
+| ------------------------------------ | --------------------------------- |
+| [Alter Self](Alter Self)             | Polymorph                         |
+| [Bind Companion](Bind Companion)     | Conjuration, Rift                 |
+| [Conjure Wall](Conjure Wall)         | Creation, Emanation               |
+| [Elemental Blast](Elemental Blast)   | Elemental(Any), Evocation, Shaped |
+| [Elemental Shell](Elemental Shell)   | Shell, Evocation                  |
+| [Elemental Weapon](Elemental Weapon) | Evocation                         |
+| [Enhance Aspect](Enhance Aspect)     | Transmutation                     |
+| [Summon Monster](Summon Monster)     | Conjuration, Rift                 |
+| [Transformation](Transformation)     | Polymorph                         |
+| [Wield Element](Wield Element)       | Evocation                         |
