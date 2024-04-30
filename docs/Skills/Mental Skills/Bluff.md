@@ -7,7 +7,6 @@ SkillTyp: Mental
 Attr: Psy
 share: true
 ---
-
 #### Associated Ability Modifier: Psyche
 You know how to tell a lie, and deceive others.
 ## Check
@@ -46,7 +45,7 @@ A bluff check is done as part of speaking to a creature. If you fail to deceive 
 
 ### Feint
 
-A creature may make a Bluff skill check to Feint. This check is opposed by the target’s Mental(Foc) save, or the target may instead make a Sense Motive skill check in place of the save. If successful, the target is Flat-Footed against the next melee attack made by the feinting creature before the end of the feinting creature’s next turn. For each degree of success, this lasts for one additional attack (but still ends at the end of the feinting creature’s next turn). Feinting against a creature who is not a humanoid or monstrous humanoid creature imparts a -4 penalty to the Bluff check, while a Feint against a target with an intelligence of 1 or 2 imparts a -8 penalty to the Bluff check.
+A creature may make a Bluff skill check to Feint. More information on the Feint action can be found on the [[Actions In Combat|Actions In Combat]] section.
 
 #### Action/Retry
 
