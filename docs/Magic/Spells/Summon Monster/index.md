@@ -7,7 +7,7 @@ fileClass:
   - Spell
 share: true
 title: Summon Monster
-Keywords: Conjuration, Rift
+keyword: Conjuration, Rift
 Prerequisites: See Text
 Target: Close
 Duration: 1 Round per BCB (see text)
@@ -58,7 +58,7 @@ Description: |-
   | Eel | Reckless Stance, Wild Swings, Great Fortitude, Two-Weapon Fighting, Improved Two-Weapon Fighting, Lighting Reflexes, Toughness, Greater Two-Weapon Fighting. |
 ---
 
-<p><span style="overflow-x: auto;"><table><tbody><tr><th>Keywords</th><td>Conjuration, Rift</td></tr><tr><th>Prerequisites</th><td>See Text</td></tr><tr><th>Target</th><td>Close</td></tr><tr><th>Duration</th><td>1 Round per BCB (see text)</td></tr><tr><th>Range</th><td>See Text</td></tr><tr><th>Action</th><td>5 AP</td></tr><tr><th>Saving Throw</th><td>none</td></tr><tr><th>Spell Resistance</th><td>No</td></tr><tr><th>Description</th><td>You may spend a spell point to summon a single creature, or a number of creatures, within close range, ready to act on your following turn. Creatures summoned with this ability last for 1 round per BCB and act on your initiative. Unlike summoned companions these creatures cannot be freely modified with companion talents and instead come in a set of archetypes. Summoning a creature with this spell allows you to summon a single creature of the highest tier you may summon, 1d3 creatures of the 2nd highest tier, or 1d4+1 of all tiers below your 2nd highest summoning tier.
+<p><span style="overflow-x: auto;"><table><tbody><tr><th>Keyword</th><td>Conjuration, Rift</td></tr><tr><th>Prerequisites</th><td>See Text</td></tr><tr><th>Target</th><td>Close</td></tr><tr><th>Duration</th><td>1 Round per BCB (see text)</td></tr><tr><th>Range</th><td>See Text</td></tr><tr><th>Action</th><td>5 AP</td></tr><tr><th>Saving Throw</th><td>none</td></tr><tr><th>Spell Resistance</th><td>No</td></tr><tr><th>Description</th><td>You may spend a spell point to summon a single creature, or a number of creatures, within close range, ready to act on your following turn. Creatures summoned with this ability last for 1 round per BCB and act on your initiative. Unlike summoned companions these creatures cannot be freely modified with companion talents and instead come in a set of archetypes. Summoning a creature with this spell allows you to summon a single creature of the highest tier you may summon, 1d3 creatures of the 2nd highest tier, or 1d4+1 of all tiers below your 2nd highest summoning tier.
 At 3rd BCB all creatures summoned with this ability gain the creature of battle talent using the caster's SPB to determine the power of this talent rather than the hit dice of the creatures it's been applied to. The creature choses 2 natural weapons they possess to grant the enhancement bonus to.
 Creatures summoned by this spell are defined by archetypes and tiers. The following table defines the tiers of creature, which determines the minimum BCB to cast them, their Hit dice, as well as details about their inherent bonus progression. In addition feats a creature would normally gain are instead pre-determined based on their companion type, determined by their archetype.
 Creatures gain Inherent bonuses to their ability scores as they go up in tier, gaining a +1 to a single ability score at tier 1, +1 to 3 scores at tier 2, and gaining an additional +1 to all listed attributes every tier thereafter (at +9 by tier 10). These ability scores are listed in the creature's archetype section.
