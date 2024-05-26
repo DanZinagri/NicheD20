@@ -2,7 +2,6 @@
 share: true
 title: Barbaric Paths
 ---
-
 This page lists all the Barbarian Talents available to the Barbarian.
 
 | Name                   | Prerequisite                                           | Description                                                                                                                                                                                                                                                                                                                                                                                                              |
