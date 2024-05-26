@@ -26,6 +26,7 @@ Type: Martial
 | 8th   | +6                | +3                 | Skillful(2), Stalker                                     |
 | 9th   | +6                | +3                 | Mobile Combatant                                         |
 | 10th  | +7                | +3                 | Perfect Dodge, Sneak Attack(3d6), Nose for Danger +3     |
+
 # Class Features
 
 The following are class features of the rogue.
