@@ -1,7 +1,6 @@
 ---
 share: true
 ---
-
 During a turn of combat a character is granted what are known as Action Points (AP), with each point representative of the time and effort it takes to perform a task within that turn; usually within the timeframe of a single 6-second combat round.
 
 At the start of a creature’s turn it gains 5 AP which can be used to perform various actions. Some types of actions, such as Reactions, can be performed outside of a creature’s turn and are tracked separately from a character’s pool of AP. Some actions are labeled as “free actions” which means that they usually have no limit on how often they can be performed on a character’s turn and have no AP cost, but are not available outside of the character’s turn unless specified.

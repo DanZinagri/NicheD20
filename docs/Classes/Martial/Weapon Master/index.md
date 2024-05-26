@@ -10,7 +10,6 @@ share: true
 title: Weapon Master
 Prerequisites: Fighter 5th, BAB +8
 ---
-
 # Class Details
 Hit Die:  d12
 Type: Martial

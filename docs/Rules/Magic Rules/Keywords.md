@@ -1,7 +1,6 @@
 ---
 share: true
 ---
-
 Like weapons and armor spells have their own keyword system. These keywords help define and group like spells together. For example multiple spells may contain the “Nature” keyword, meaning any feat or ability that would modify a Nature keyword spell would modify all those spells not just a specific spell. Some classes may use this to indicate changes in BCB due to affinity with a type of magic. Some talents or abilities may add keywords to spells as part of their application to a spell’s casting.
 
 Spells gain the keywords of any talents applied to them, though some talents or abilities may specify the replacement of keywords (such as a talent changing a spell from Dark to Nature keywords.)
